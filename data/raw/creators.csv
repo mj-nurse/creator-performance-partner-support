@@ -1,0 +1,751 @@
+creator_id,join_date,region,category,partner_tier
+CR0001,2023-12-25,Other LATAM,Music,Growth
+CR0002,2022-06-12,Brazil,Gaming,Established
+CR0003,2024-03-02,US & Canada,Lifestyle,Emerging
+CR0004,2022-12-30,US & Canada,Education,Emerging
+CR0005,2022-12-26,US & Canada,Gaming,Established
+CR0006,2023-07-05,US & Canada,Music,Emerging
+CR0007,2023-11-04,Brazil,Entertainment,Growth
+CR0008,2022-12-25,US & Canada,Education,Growth
+CR0009,2023-02-10,US & Canada,Lifestyle,Established
+CR0010,2022-07-04,US & Canada,Education,Emerging
+CR0011,2023-03-27,US & Canada,Music,Established
+CR0012,2023-12-31,US & Canada,Entertainment,Emerging
+CR0013,2022-07-06,US & Canada,Lifestyle,Emerging
+CR0014,2022-07-05,US & Canada,Education,Growth
+CR0015,2024-03-04,US & Canada,Education,Emerging
+CR0016,2023-06-16,Other LATAM,Music,Emerging
+CR0017,2024-04-30,US & Canada,Gaming,Growth
+CR0018,2023-07-22,US & Canada,Education,Growth
+CR0019,2022-02-10,Mexico,Lifestyle,Emerging
+CR0020,2024-01-19,Mexico,Gaming,Growth
+CR0021,2024-08-01,US & Canada,Lifestyle,Emerging
+CR0022,2022-07-20,Brazil,Lifestyle,Emerging
+CR0023,2022-01-27,US & Canada,Gaming,Established
+CR0024,2023-10-09,US & Canada,Music,Emerging
+CR0025,2022-02-18,Brazil,Lifestyle,Growth
+CR0026,2024-10-07,US & Canada,Entertainment,Emerging
+CR0027,2022-08-17,Other LATAM,Entertainment,Established
+CR0028,2023-12-18,Mexico,Entertainment,Growth
+CR0029,2022-12-12,US & Canada,Music,Emerging
+CR0030,2022-09-02,US & Canada,Gaming,Emerging
+CR0031,2024-08-31,Other LATAM,Music,Emerging
+CR0032,2023-08-17,US & Canada,Education,Emerging
+CR0033,2024-06-18,US & Canada,Lifestyle,Growth
+CR0034,2022-09-03,Brazil,Gaming,Established
+CR0035,2022-02-21,Other LATAM,Gaming,Established
+CR0036,2023-12-22,US & Canada,Gaming,Emerging
+CR0037,2023-10-21,US & Canada,Entertainment,Emerging
+CR0038,2024-02-09,US & Canada,Gaming,Emerging
+CR0039,2023-12-01,US & Canada,Music,Emerging
+CR0040,2022-07-06,US & Canada,Gaming,Emerging
+CR0041,2023-12-16,US & Canada,Education,Emerging
+CR0042,2024-01-23,Mexico,Gaming,Emerging
+CR0043,2022-08-24,US & Canada,Education,Growth
+CR0044,2023-05-20,US & Canada,Music,Emerging
+CR0045,2023-03-18,Brazil,Lifestyle,Growth
+CR0046,2022-08-05,Mexico,Music,Established
+CR0047,2024-06-08,US & Canada,Music,Emerging
+CR0048,2022-03-01,Mexico,Gaming,Emerging
+CR0049,2024-06-15,US & Canada,Music,Emerging
+CR0050,2024-03-07,US & Canada,Gaming,Emerging
+CR0051,2024-03-14,US & Canada,Education,Growth
+CR0052,2022-05-23,US & Canada,Education,Emerging
+CR0053,2022-06-29,Mexico,Gaming,Emerging
+CR0054,2023-09-03,US & Canada,Gaming,Growth
+CR0055,2023-12-02,Brazil,Entertainment,Growth
+CR0056,2024-12-07,US & Canada,Education,Emerging
+CR0057,2023-12-06,Brazil,Gaming,Established
+CR0058,2022-12-30,US & Canada,Entertainment,Growth
+CR0059,2024-10-05,US & Canada,Lifestyle,Growth
+CR0060,2024-02-01,US & Canada,Entertainment,Growth
+CR0061,2022-04-07,Mexico,Music,Emerging
+CR0062,2022-12-25,US & Canada,Education,Growth
+CR0063,2024-06-16,US & Canada,Education,Growth
+CR0064,2022-01-27,Mexico,Gaming,Emerging
+CR0065,2022-05-03,US & Canada,Entertainment,Established
+CR0066,2022-08-22,US & Canada,Music,Emerging
+CR0067,2022-09-02,US & Canada,Lifestyle,Growth
+CR0068,2022-11-26,Other LATAM,Entertainment,Growth
+CR0069,2024-05-30,US & Canada,Entertainment,Growth
+CR0070,2024-06-12,Brazil,Music,Growth
+CR0071,2023-04-20,US & Canada,Entertainment,Emerging
+CR0072,2023-05-31,Mexico,Entertainment,Growth
+CR0073,2024-04-12,US & Canada,Lifestyle,Emerging
+CR0074,2022-01-17,US & Canada,Music,Growth
+CR0075,2024-11-03,US & Canada,Entertainment,Emerging
+CR0076,2022-11-30,US & Canada,Entertainment,Emerging
+CR0077,2023-11-26,Other LATAM,Entertainment,Growth
+CR0078,2024-06-29,Mexico,Music,Growth
+CR0079,2023-05-23,US & Canada,Gaming,Emerging
+CR0080,2023-09-05,US & Canada,Gaming,Growth
+CR0081,2022-12-13,US & Canada,Gaming,Growth
+CR0082,2022-04-02,US & Canada,Entertainment,Established
+CR0083,2022-04-17,Mexico,Lifestyle,Established
+CR0084,2022-03-06,Mexico,Entertainment,Growth
+CR0085,2024-03-02,Mexico,Entertainment,Emerging
+CR0086,2023-02-23,US & Canada,Entertainment,Growth
+CR0087,2024-01-01,US & Canada,Entertainment,Growth
+CR0088,2023-08-05,Mexico,Entertainment,Growth
+CR0089,2022-01-19,US & Canada,Music,Emerging
+CR0090,2024-06-06,US & Canada,Education,Emerging
+CR0091,2024-04-22,US & Canada,Education,Growth
+CR0092,2023-12-23,US & Canada,Lifestyle,Growth
+CR0093,2024-03-25,Mexico,Education,Established
+CR0094,2023-03-30,US & Canada,Education,Emerging
+CR0095,2022-03-17,US & Canada,Lifestyle,Emerging
+CR0096,2024-11-04,US & Canada,Gaming,Established
+CR0097,2024-12-30,US & Canada,Music,Established
+CR0098,2022-11-14,Mexico,Music,Growth
+CR0099,2023-11-28,Brazil,Lifestyle,Growth
+CR0100,2023-06-04,US & Canada,Gaming,Established
+CR0101,2024-06-21,Brazil,Lifestyle,Emerging
+CR0102,2023-12-13,US & Canada,Education,Emerging
+CR0103,2022-01-21,US & Canada,Lifestyle,Emerging
+CR0104,2023-07-14,US & Canada,Entertainment,Established
+CR0105,2024-03-28,Brazil,Gaming,Emerging
+CR0106,2024-02-03,Brazil,Lifestyle,Growth
+CR0107,2022-09-21,US & Canada,Lifestyle,Growth
+CR0108,2023-08-19,US & Canada,Education,Growth
+CR0109,2023-09-14,US & Canada,Entertainment,Emerging
+CR0110,2022-12-07,Other LATAM,Entertainment,Growth
+CR0111,2023-03-15,US & Canada,Gaming,Growth
+CR0112,2022-05-06,Brazil,Gaming,Established
+CR0113,2024-06-12,Other LATAM,Entertainment,Emerging
+CR0114,2023-08-24,Brazil,Education,Established
+CR0115,2023-12-24,US & Canada,Gaming,Emerging
+CR0116,2023-11-04,US & Canada,Lifestyle,Emerging
+CR0117,2023-12-09,US & Canada,Gaming,Growth
+CR0118,2023-08-28,US & Canada,Gaming,Emerging
+CR0119,2023-03-28,Mexico,Education,Growth
+CR0120,2022-12-25,US & Canada,Lifestyle,Emerging
+CR0121,2023-10-01,Mexico,Entertainment,Emerging
+CR0122,2022-05-13,US & Canada,Gaming,Growth
+CR0123,2022-06-27,US & Canada,Entertainment,Growth
+CR0124,2024-12-30,US & Canada,Lifestyle,Emerging
+CR0125,2022-04-25,US & Canada,Lifestyle,Emerging
+CR0126,2024-12-04,US & Canada,Entertainment,Emerging
+CR0127,2022-12-26,Mexico,Gaming,Emerging
+CR0128,2022-09-20,Other LATAM,Music,Growth
+CR0129,2022-12-10,US & Canada,Lifestyle,Emerging
+CR0130,2022-11-03,Brazil,Entertainment,Growth
+CR0131,2024-12-18,Other LATAM,Entertainment,Emerging
+CR0132,2022-01-27,US & Canada,Education,Emerging
+CR0133,2022-10-24,US & Canada,Music,Growth
+CR0134,2023-08-29,US & Canada,Gaming,Established
+CR0135,2022-08-10,Brazil,Music,Emerging
+CR0136,2023-07-25,US & Canada,Education,Growth
+CR0137,2022-12-15,US & Canada,Entertainment,Growth
+CR0138,2023-03-30,US & Canada,Gaming,Emerging
+CR0139,2022-05-08,US & Canada,Music,Emerging
+CR0140,2024-05-03,US & Canada,Lifestyle,Established
+CR0141,2022-04-05,US & Canada,Education,Established
+CR0142,2023-01-25,Other LATAM,Entertainment,Growth
+CR0143,2024-06-27,US & Canada,Education,Emerging
+CR0144,2023-01-24,US & Canada,Gaming,Emerging
+CR0145,2024-01-27,Brazil,Entertainment,Established
+CR0146,2022-05-27,Other LATAM,Music,Emerging
+CR0147,2024-01-25,Other LATAM,Gaming,Emerging
+CR0148,2022-07-04,Brazil,Lifestyle,Established
+CR0149,2023-07-09,Brazil,Education,Emerging
+CR0150,2023-12-26,US & Canada,Gaming,Emerging
+CR0151,2023-12-01,Mexico,Entertainment,Growth
+CR0152,2022-03-01,US & Canada,Education,Established
+CR0153,2023-09-27,US & Canada,Education,Emerging
+CR0154,2023-12-16,US & Canada,Lifestyle,Emerging
+CR0155,2023-12-26,US & Canada,Music,Established
+CR0156,2024-03-18,US & Canada,Gaming,Growth
+CR0157,2022-01-05,US & Canada,Gaming,Emerging
+CR0158,2022-03-08,Other LATAM,Lifestyle,Established
+CR0159,2024-12-25,US & Canada,Entertainment,Emerging
+CR0160,2022-01-20,Mexico,Education,Emerging
+CR0161,2023-07-02,US & Canada,Lifestyle,Emerging
+CR0162,2024-08-06,US & Canada,Entertainment,Growth
+CR0163,2022-05-12,Other LATAM,Lifestyle,Established
+CR0164,2022-01-25,US & Canada,Lifestyle,Emerging
+CR0165,2022-11-20,Mexico,Lifestyle,Emerging
+CR0166,2024-08-04,US & Canada,Gaming,Emerging
+CR0167,2022-12-13,Brazil,Entertainment,Emerging
+CR0168,2024-12-12,Mexico,Music,Emerging
+CR0169,2024-01-27,Brazil,Education,Established
+CR0170,2023-12-06,US & Canada,Lifestyle,Emerging
+CR0171,2023-08-15,US & Canada,Lifestyle,Growth
+CR0172,2023-08-07,Brazil,Entertainment,Established
+CR0173,2023-05-29,US & Canada,Lifestyle,Emerging
+CR0174,2024-05-11,US & Canada,Education,Emerging
+CR0175,2023-05-06,Brazil,Gaming,Growth
+CR0176,2022-04-27,US & Canada,Lifestyle,Emerging
+CR0177,2023-03-06,Mexico,Music,Emerging
+CR0178,2024-04-17,Other LATAM,Music,Established
+CR0179,2023-10-31,US & Canada,Entertainment,Growth
+CR0180,2022-09-21,US & Canada,Music,Growth
+CR0181,2022-08-13,US & Canada,Education,Emerging
+CR0182,2023-02-20,Other LATAM,Entertainment,Growth
+CR0183,2023-01-06,US & Canada,Lifestyle,Emerging
+CR0184,2023-09-18,US & Canada,Music,Established
+CR0185,2022-11-08,US & Canada,Gaming,Growth
+CR0186,2022-11-10,US & Canada,Gaming,Emerging
+CR0187,2022-07-23,US & Canada,Music,Established
+CR0188,2022-11-16,US & Canada,Lifestyle,Established
+CR0189,2022-08-04,US & Canada,Entertainment,Established
+CR0190,2023-07-13,US & Canada,Education,Growth
+CR0191,2024-05-16,US & Canada,Lifestyle,Growth
+CR0192,2023-04-22,US & Canada,Entertainment,Growth
+CR0193,2024-07-28,Brazil,Gaming,Growth
+CR0194,2024-09-04,Brazil,Entertainment,Emerging
+CR0195,2023-09-22,US & Canada,Music,Growth
+CR0196,2022-09-28,Brazil,Gaming,Growth
+CR0197,2024-01-16,US & Canada,Gaming,Established
+CR0198,2023-07-03,Other LATAM,Music,Emerging
+CR0199,2022-02-26,Brazil,Entertainment,Established
+CR0200,2024-11-27,US & Canada,Education,Growth
+CR0201,2023-09-07,US & Canada,Entertainment,Emerging
+CR0202,2024-12-29,Mexico,Education,Emerging
+CR0203,2022-09-10,Mexico,Gaming,Emerging
+CR0204,2024-10-13,Brazil,Lifestyle,Emerging
+CR0205,2023-03-02,US & Canada,Music,Emerging
+CR0206,2023-10-03,Mexico,Gaming,Emerging
+CR0207,2022-06-27,Brazil,Lifestyle,Emerging
+CR0208,2023-01-22,US & Canada,Lifestyle,Growth
+CR0209,2024-03-26,Other LATAM,Entertainment,Growth
+CR0210,2024-07-24,Other LATAM,Entertainment,Growth
+CR0211,2022-05-31,US & Canada,Gaming,Established
+CR0212,2024-08-25,US & Canada,Education,Emerging
+CR0213,2024-07-11,Other LATAM,Gaming,Growth
+CR0214,2024-04-05,US & Canada,Gaming,Emerging
+CR0215,2024-01-07,US & Canada,Entertainment,Emerging
+CR0216,2023-04-12,US & Canada,Entertainment,Emerging
+CR0217,2023-08-02,Mexico,Entertainment,Established
+CR0218,2022-06-10,Brazil,Entertainment,Emerging
+CR0219,2023-11-22,Other LATAM,Entertainment,Emerging
+CR0220,2023-10-05,US & Canada,Education,Emerging
+CR0221,2024-03-04,US & Canada,Entertainment,Emerging
+CR0222,2024-06-29,Other LATAM,Music,Emerging
+CR0223,2024-05-07,US & Canada,Music,Established
+CR0224,2023-09-27,US & Canada,Gaming,Emerging
+CR0225,2023-11-19,Other LATAM,Education,Emerging
+CR0226,2024-12-28,US & Canada,Entertainment,Growth
+CR0227,2024-02-24,Brazil,Gaming,Emerging
+CR0228,2024-03-10,US & Canada,Gaming,Emerging
+CR0229,2022-08-02,Brazil,Gaming,Emerging
+CR0230,2022-10-01,Mexico,Gaming,Growth
+CR0231,2024-06-09,US & Canada,Music,Emerging
+CR0232,2022-12-25,US & Canada,Gaming,Emerging
+CR0233,2024-03-01,US & Canada,Lifestyle,Emerging
+CR0234,2024-01-23,Brazil,Education,Growth
+CR0235,2022-12-29,Other LATAM,Entertainment,Emerging
+CR0236,2024-06-23,Brazil,Entertainment,Emerging
+CR0237,2024-07-29,US & Canada,Entertainment,Emerging
+CR0238,2024-03-06,US & Canada,Lifestyle,Established
+CR0239,2022-11-20,US & Canada,Gaming,Emerging
+CR0240,2024-05-15,US & Canada,Music,Emerging
+CR0241,2022-09-13,US & Canada,Education,Emerging
+CR0242,2024-11-10,Brazil,Gaming,Growth
+CR0243,2024-06-06,US & Canada,Lifestyle,Growth
+CR0244,2024-11-20,Other LATAM,Entertainment,Growth
+CR0245,2022-05-30,US & Canada,Entertainment,Growth
+CR0246,2023-10-01,Mexico,Gaming,Emerging
+CR0247,2024-06-20,Brazil,Lifestyle,Growth
+CR0248,2022-12-29,US & Canada,Lifestyle,Emerging
+CR0249,2023-08-23,US & Canada,Education,Emerging
+CR0250,2024-12-05,US & Canada,Lifestyle,Emerging
+CR0251,2024-06-14,US & Canada,Gaming,Established
+CR0252,2022-04-24,US & Canada,Education,Established
+CR0253,2023-06-30,US & Canada,Education,Growth
+CR0254,2024-07-10,Other LATAM,Entertainment,Emerging
+CR0255,2024-01-17,US & Canada,Gaming,Emerging
+CR0256,2024-12-21,US & Canada,Education,Growth
+CR0257,2022-09-20,Other LATAM,Entertainment,Growth
+CR0258,2023-05-27,Other LATAM,Gaming,Established
+CR0259,2024-07-24,US & Canada,Education,Growth
+CR0260,2024-03-06,US & Canada,Music,Emerging
+CR0261,2022-11-22,Other LATAM,Entertainment,Growth
+CR0262,2023-07-18,US & Canada,Music,Emerging
+CR0263,2024-08-19,US & Canada,Entertainment,Emerging
+CR0264,2022-12-25,US & Canada,Entertainment,Emerging
+CR0265,2022-06-17,Mexico,Education,Emerging
+CR0266,2023-04-03,Brazil,Lifestyle,Growth
+CR0267,2022-12-27,US & Canada,Lifestyle,Emerging
+CR0268,2024-03-01,US & Canada,Music,Emerging
+CR0269,2023-12-09,US & Canada,Music,Emerging
+CR0270,2022-08-14,US & Canada,Music,Growth
+CR0271,2022-09-28,US & Canada,Music,Emerging
+CR0272,2022-04-05,Other LATAM,Education,Growth
+CR0273,2024-11-20,US & Canada,Music,Established
+CR0274,2022-09-04,Mexico,Entertainment,Emerging
+CR0275,2022-11-25,Brazil,Music,Growth
+CR0276,2024-03-21,US & Canada,Gaming,Emerging
+CR0277,2023-07-14,US & Canada,Education,Growth
+CR0278,2022-01-15,US & Canada,Entertainment,Emerging
+CR0279,2023-09-09,US & Canada,Gaming,Established
+CR0280,2022-05-14,US & Canada,Gaming,Growth
+CR0281,2024-03-20,US & Canada,Gaming,Growth
+CR0282,2023-07-20,Brazil,Gaming,Emerging
+CR0283,2023-11-08,Mexico,Music,Growth
+CR0284,2024-04-15,US & Canada,Music,Growth
+CR0285,2022-05-10,Brazil,Entertainment,Emerging
+CR0286,2022-02-13,Brazil,Gaming,Emerging
+CR0287,2022-04-24,Brazil,Education,Emerging
+CR0288,2024-03-14,US & Canada,Music,Emerging
+CR0289,2022-10-07,US & Canada,Entertainment,Established
+CR0290,2023-05-14,US & Canada,Gaming,Growth
+CR0291,2024-11-23,Mexico,Education,Emerging
+CR0292,2023-11-01,Other LATAM,Lifestyle,Emerging
+CR0293,2022-08-11,US & Canada,Lifestyle,Emerging
+CR0294,2022-05-26,Mexico,Entertainment,Emerging
+CR0295,2022-08-30,US & Canada,Entertainment,Emerging
+CR0296,2024-03-21,US & Canada,Lifestyle,Growth
+CR0297,2022-07-22,US & Canada,Music,Emerging
+CR0298,2023-11-28,Brazil,Gaming,Growth
+CR0299,2024-07-24,Brazil,Gaming,Emerging
+CR0300,2022-09-18,US & Canada,Education,Emerging
+CR0301,2023-07-17,US & Canada,Entertainment,Emerging
+CR0302,2024-07-01,Other LATAM,Music,Emerging
+CR0303,2022-03-12,Brazil,Entertainment,Growth
+CR0304,2022-10-23,Brazil,Entertainment,Emerging
+CR0305,2023-12-23,US & Canada,Lifestyle,Emerging
+CR0306,2023-08-15,US & Canada,Lifestyle,Emerging
+CR0307,2022-08-23,US & Canada,Music,Growth
+CR0308,2022-04-18,US & Canada,Education,Emerging
+CR0309,2022-12-22,US & Canada,Lifestyle,Established
+CR0310,2024-07-03,Mexico,Lifestyle,Emerging
+CR0311,2024-01-07,US & Canada,Music,Emerging
+CR0312,2024-05-22,US & Canada,Lifestyle,Emerging
+CR0313,2024-07-19,Other LATAM,Education,Established
+CR0314,2024-04-14,US & Canada,Music,Growth
+CR0315,2024-10-18,Brazil,Gaming,Growth
+CR0316,2023-07-19,Mexico,Entertainment,Growth
+CR0317,2024-08-10,Brazil,Gaming,Emerging
+CR0318,2023-02-01,US & Canada,Entertainment,Emerging
+CR0319,2022-09-20,Brazil,Entertainment,Emerging
+CR0320,2022-08-20,Other LATAM,Education,Established
+CR0321,2024-11-13,Brazil,Gaming,Growth
+CR0322,2023-12-25,US & Canada,Music,Emerging
+CR0323,2024-06-15,Brazil,Entertainment,Emerging
+CR0324,2023-05-01,US & Canada,Education,Emerging
+CR0325,2023-09-11,US & Canada,Music,Established
+CR0326,2022-04-15,Brazil,Music,Emerging
+CR0327,2022-02-08,US & Canada,Education,Emerging
+CR0328,2023-05-12,Brazil,Entertainment,Emerging
+CR0329,2022-04-05,Brazil,Education,Emerging
+CR0330,2023-08-02,US & Canada,Music,Emerging
+CR0331,2023-03-03,Other LATAM,Gaming,Emerging
+CR0332,2024-09-29,Brazil,Music,Growth
+CR0333,2023-07-21,Mexico,Music,Emerging
+CR0334,2024-09-12,US & Canada,Entertainment,Emerging
+CR0335,2023-06-28,US & Canada,Gaming,Emerging
+CR0336,2023-03-09,US & Canada,Gaming,Emerging
+CR0337,2022-04-29,Other LATAM,Music,Established
+CR0338,2022-11-16,Brazil,Gaming,Emerging
+CR0339,2023-11-29,US & Canada,Music,Growth
+CR0340,2024-01-07,Other LATAM,Gaming,Emerging
+CR0341,2024-09-19,US & Canada,Lifestyle,Established
+CR0342,2022-10-11,Brazil,Music,Established
+CR0343,2023-01-04,Brazil,Education,Established
+CR0344,2022-04-06,Mexico,Lifestyle,Emerging
+CR0345,2024-06-30,Brazil,Education,Emerging
+CR0346,2022-06-16,US & Canada,Education,Growth
+CR0347,2022-02-15,Mexico,Lifestyle,Emerging
+CR0348,2023-11-02,US & Canada,Gaming,Growth
+CR0349,2024-01-21,US & Canada,Entertainment,Emerging
+CR0350,2022-10-09,Other LATAM,Lifestyle,Growth
+CR0351,2023-10-26,US & Canada,Education,Established
+CR0352,2023-03-29,US & Canada,Lifestyle,Growth
+CR0353,2024-12-26,Brazil,Education,Emerging
+CR0354,2024-04-12,US & Canada,Gaming,Growth
+CR0355,2023-03-19,Mexico,Entertainment,Growth
+CR0356,2024-04-30,US & Canada,Entertainment,Established
+CR0357,2022-09-02,Other LATAM,Music,Emerging
+CR0358,2023-01-17,Mexico,Gaming,Emerging
+CR0359,2024-09-22,Brazil,Lifestyle,Emerging
+CR0360,2022-03-05,US & Canada,Lifestyle,Established
+CR0361,2024-11-12,US & Canada,Music,Established
+CR0362,2022-06-01,US & Canada,Lifestyle,Emerging
+CR0363,2022-02-25,Other LATAM,Entertainment,Emerging
+CR0364,2022-05-05,Brazil,Music,Established
+CR0365,2022-04-13,Mexico,Music,Emerging
+CR0366,2022-10-21,Other LATAM,Entertainment,Growth
+CR0367,2022-06-22,US & Canada,Music,Emerging
+CR0368,2022-12-20,US & Canada,Gaming,Growth
+CR0369,2024-03-01,US & Canada,Education,Emerging
+CR0370,2022-04-03,Brazil,Gaming,Established
+CR0371,2023-05-01,US & Canada,Music,Growth
+CR0372,2024-02-28,Brazil,Entertainment,Emerging
+CR0373,2022-12-28,Other LATAM,Lifestyle,Emerging
+CR0374,2022-09-16,US & Canada,Education,Growth
+CR0375,2022-01-05,Brazil,Lifestyle,Emerging
+CR0376,2023-08-31,Mexico,Entertainment,Established
+CR0377,2024-10-12,US & Canada,Education,Growth
+CR0378,2023-12-06,Other LATAM,Music,Growth
+CR0379,2022-08-14,Mexico,Music,Emerging
+CR0380,2023-10-30,US & Canada,Education,Emerging
+CR0381,2024-06-05,Mexico,Gaming,Established
+CR0382,2023-05-17,Brazil,Entertainment,Established
+CR0383,2022-02-12,US & Canada,Entertainment,Emerging
+CR0384,2024-08-25,US & Canada,Gaming,Emerging
+CR0385,2024-12-25,Brazil,Gaming,Emerging
+CR0386,2024-11-06,US & Canada,Gaming,Emerging
+CR0387,2024-07-24,Brazil,Education,Emerging
+CR0388,2023-01-07,US & Canada,Gaming,Emerging
+CR0389,2024-09-23,Mexico,Gaming,Emerging
+CR0390,2023-09-24,US & Canada,Lifestyle,Established
+CR0391,2023-01-27,US & Canada,Gaming,Emerging
+CR0392,2024-10-23,Mexico,Entertainment,Growth
+CR0393,2022-12-07,Mexico,Education,Growth
+CR0394,2024-03-16,Brazil,Lifestyle,Growth
+CR0395,2023-06-25,US & Canada,Education,Emerging
+CR0396,2022-10-13,US & Canada,Entertainment,Emerging
+CR0397,2024-09-25,Other LATAM,Lifestyle,Growth
+CR0398,2022-09-25,US & Canada,Gaming,Emerging
+CR0399,2024-09-15,US & Canada,Lifestyle,Emerging
+CR0400,2024-06-10,Other LATAM,Gaming,Established
+CR0401,2023-05-31,US & Canada,Gaming,Emerging
+CR0402,2023-04-14,US & Canada,Education,Growth
+CR0403,2024-12-12,US & Canada,Entertainment,Growth
+CR0404,2023-11-01,US & Canada,Education,Established
+CR0405,2024-08-31,US & Canada,Gaming,Growth
+CR0406,2024-03-27,Mexico,Entertainment,Emerging
+CR0407,2024-12-17,US & Canada,Lifestyle,Established
+CR0408,2022-05-18,US & Canada,Lifestyle,Emerging
+CR0409,2022-02-27,US & Canada,Lifestyle,Emerging
+CR0410,2024-04-10,Brazil,Education,Established
+CR0411,2023-07-16,Brazil,Education,Emerging
+CR0412,2024-05-01,Brazil,Entertainment,Established
+CR0413,2023-04-21,US & Canada,Gaming,Emerging
+CR0414,2022-06-13,US & Canada,Gaming,Emerging
+CR0415,2024-08-30,US & Canada,Lifestyle,Emerging
+CR0416,2022-07-24,Mexico,Lifestyle,Emerging
+CR0417,2023-05-28,US & Canada,Entertainment,Growth
+CR0418,2024-03-26,US & Canada,Gaming,Emerging
+CR0419,2022-01-23,Other LATAM,Gaming,Emerging
+CR0420,2023-03-26,Mexico,Lifestyle,Emerging
+CR0421,2023-01-25,Brazil,Lifestyle,Emerging
+CR0422,2024-09-07,Brazil,Gaming,Growth
+CR0423,2022-01-05,Brazil,Lifestyle,Growth
+CR0424,2024-08-26,US & Canada,Music,Emerging
+CR0425,2024-11-19,US & Canada,Lifestyle,Growth
+CR0426,2024-06-17,Mexico,Music,Emerging
+CR0427,2024-09-01,US & Canada,Education,Emerging
+CR0428,2022-06-10,US & Canada,Education,Emerging
+CR0429,2023-03-07,Mexico,Gaming,Emerging
+CR0430,2024-07-17,Mexico,Lifestyle,Emerging
+CR0431,2022-02-10,Brazil,Education,Established
+CR0432,2022-04-29,Brazil,Gaming,Emerging
+CR0433,2022-07-28,US & Canada,Lifestyle,Growth
+CR0434,2024-08-21,Mexico,Entertainment,Growth
+CR0435,2024-10-17,US & Canada,Lifestyle,Growth
+CR0436,2022-10-14,US & Canada,Music,Emerging
+CR0437,2022-07-18,US & Canada,Education,Established
+CR0438,2022-12-09,US & Canada,Education,Emerging
+CR0439,2024-08-03,US & Canada,Lifestyle,Growth
+CR0440,2024-10-23,Mexico,Entertainment,Established
+CR0441,2023-05-11,US & Canada,Gaming,Emerging
+CR0442,2024-06-27,US & Canada,Lifestyle,Established
+CR0443,2023-02-23,US & Canada,Gaming,Growth
+CR0444,2022-12-04,US & Canada,Gaming,Established
+CR0445,2024-11-20,Brazil,Entertainment,Emerging
+CR0446,2023-02-18,US & Canada,Gaming,Emerging
+CR0447,2024-11-23,Other LATAM,Entertainment,Growth
+CR0448,2024-09-28,Brazil,Entertainment,Emerging
+CR0449,2024-05-11,Brazil,Lifestyle,Emerging
+CR0450,2023-12-05,US & Canada,Lifestyle,Established
+CR0451,2024-05-13,US & Canada,Music,Emerging
+CR0452,2024-05-29,US & Canada,Gaming,Established
+CR0453,2022-05-26,Brazil,Entertainment,Established
+CR0454,2022-06-16,Mexico,Gaming,Growth
+CR0455,2022-11-25,Brazil,Gaming,Emerging
+CR0456,2023-08-15,US & Canada,Entertainment,Emerging
+CR0457,2023-01-12,US & Canada,Entertainment,Emerging
+CR0458,2024-08-05,US & Canada,Gaming,Emerging
+CR0459,2024-10-14,Mexico,Music,Emerging
+CR0460,2023-05-07,Brazil,Education,Growth
+CR0461,2022-11-28,Brazil,Education,Emerging
+CR0462,2024-02-14,US & Canada,Music,Emerging
+CR0463,2022-07-10,Mexico,Music,Growth
+CR0464,2022-09-04,US & Canada,Gaming,Growth
+CR0465,2024-09-04,Other LATAM,Gaming,Growth
+CR0466,2023-03-24,Other LATAM,Entertainment,Emerging
+CR0467,2023-12-20,Other LATAM,Music,Growth
+CR0468,2022-05-15,US & Canada,Music,Emerging
+CR0469,2023-06-15,US & Canada,Music,Established
+CR0470,2022-11-07,US & Canada,Music,Growth
+CR0471,2022-04-05,Mexico,Gaming,Growth
+CR0472,2024-10-24,US & Canada,Lifestyle,Emerging
+CR0473,2022-02-12,US & Canada,Education,Emerging
+CR0474,2024-02-26,Other LATAM,Education,Growth
+CR0475,2024-01-01,Mexico,Gaming,Emerging
+CR0476,2022-01-09,US & Canada,Entertainment,Emerging
+CR0477,2022-06-26,US & Canada,Lifestyle,Growth
+CR0478,2023-10-23,Other LATAM,Music,Emerging
+CR0479,2022-07-11,US & Canada,Gaming,Emerging
+CR0480,2024-08-28,US & Canada,Education,Growth
+CR0481,2023-06-13,Other LATAM,Entertainment,Emerging
+CR0482,2023-06-12,US & Canada,Entertainment,Growth
+CR0483,2024-08-16,US & Canada,Gaming,Emerging
+CR0484,2023-03-19,US & Canada,Music,Growth
+CR0485,2023-05-19,Other LATAM,Entertainment,Growth
+CR0486,2023-05-29,US & Canada,Music,Growth
+CR0487,2022-02-12,US & Canada,Entertainment,Emerging
+CR0488,2024-12-22,US & Canada,Lifestyle,Emerging
+CR0489,2023-06-01,US & Canada,Gaming,Emerging
+CR0490,2022-03-22,Brazil,Education,Emerging
+CR0491,2022-06-14,Other LATAM,Education,Emerging
+CR0492,2024-10-03,US & Canada,Education,Emerging
+CR0493,2023-07-23,US & Canada,Education,Emerging
+CR0494,2023-03-07,US & Canada,Entertainment,Growth
+CR0495,2023-08-20,Brazil,Gaming,Established
+CR0496,2023-10-01,US & Canada,Education,Growth
+CR0497,2022-07-16,US & Canada,Entertainment,Emerging
+CR0498,2022-07-25,US & Canada,Lifestyle,Emerging
+CR0499,2022-02-13,US & Canada,Education,Growth
+CR0500,2022-11-22,Other LATAM,Gaming,Established
+CR0501,2022-02-12,US & Canada,Gaming,Emerging
+CR0502,2022-11-18,US & Canada,Entertainment,Emerging
+CR0503,2023-08-04,US & Canada,Entertainment,Emerging
+CR0504,2024-10-16,Other LATAM,Music,Growth
+CR0505,2022-06-24,Brazil,Gaming,Emerging
+CR0506,2024-12-12,US & Canada,Gaming,Emerging
+CR0507,2023-10-17,US & Canada,Entertainment,Emerging
+CR0508,2022-10-20,Mexico,Music,Established
+CR0509,2024-11-24,Mexico,Education,Growth
+CR0510,2023-01-10,US & Canada,Music,Emerging
+CR0511,2024-10-17,US & Canada,Lifestyle,Growth
+CR0512,2022-07-02,US & Canada,Lifestyle,Emerging
+CR0513,2022-11-19,US & Canada,Entertainment,Emerging
+CR0514,2023-12-21,US & Canada,Education,Growth
+CR0515,2023-03-05,Brazil,Lifestyle,Growth
+CR0516,2022-10-12,Mexico,Lifestyle,Emerging
+CR0517,2022-03-08,Brazil,Entertainment,Emerging
+CR0518,2023-02-08,US & Canada,Music,Emerging
+CR0519,2022-09-03,Brazil,Education,Growth
+CR0520,2023-05-19,US & Canada,Entertainment,Growth
+CR0521,2024-12-24,US & Canada,Entertainment,Growth
+CR0522,2024-09-24,Other LATAM,Gaming,Growth
+CR0523,2024-07-16,US & Canada,Gaming,Emerging
+CR0524,2023-05-06,US & Canada,Lifestyle,Growth
+CR0525,2023-06-27,US & Canada,Education,Growth
+CR0526,2022-03-23,US & Canada,Education,Emerging
+CR0527,2023-03-24,US & Canada,Education,Growth
+CR0528,2022-08-12,Mexico,Lifestyle,Growth
+CR0529,2024-01-20,Mexico,Music,Emerging
+CR0530,2024-05-26,Brazil,Music,Growth
+CR0531,2024-10-12,US & Canada,Education,Emerging
+CR0532,2023-10-30,US & Canada,Gaming,Established
+CR0533,2022-11-14,US & Canada,Education,Emerging
+CR0534,2024-11-11,US & Canada,Education,Emerging
+CR0535,2022-05-15,Mexico,Lifestyle,Established
+CR0536,2023-09-14,US & Canada,Music,Growth
+CR0537,2022-12-09,Mexico,Music,Growth
+CR0538,2024-03-26,US & Canada,Entertainment,Emerging
+CR0539,2023-05-30,US & Canada,Entertainment,Growth
+CR0540,2023-10-17,Mexico,Lifestyle,Emerging
+CR0541,2023-03-11,US & Canada,Entertainment,Growth
+CR0542,2024-02-05,US & Canada,Music,Emerging
+CR0543,2022-09-05,US & Canada,Music,Growth
+CR0544,2024-10-14,US & Canada,Entertainment,Growth
+CR0545,2024-10-10,US & Canada,Entertainment,Growth
+CR0546,2023-07-30,US & Canada,Music,Emerging
+CR0547,2022-09-10,US & Canada,Education,Growth
+CR0548,2024-04-23,US & Canada,Gaming,Established
+CR0549,2022-12-14,US & Canada,Education,Growth
+CR0550,2023-12-07,US & Canada,Education,Emerging
+CR0551,2023-02-28,US & Canada,Gaming,Emerging
+CR0552,2023-12-16,US & Canada,Education,Growth
+CR0553,2023-11-23,US & Canada,Lifestyle,Growth
+CR0554,2022-07-20,Brazil,Entertainment,Emerging
+CR0555,2023-03-11,Brazil,Education,Growth
+CR0556,2024-05-02,US & Canada,Education,Growth
+CR0557,2024-07-29,US & Canada,Entertainment,Emerging
+CR0558,2022-05-22,US & Canada,Entertainment,Emerging
+CR0559,2022-02-27,US & Canada,Entertainment,Growth
+CR0560,2023-10-24,Mexico,Education,Growth
+CR0561,2022-09-16,Brazil,Gaming,Established
+CR0562,2024-04-14,Brazil,Gaming,Emerging
+CR0563,2024-01-23,US & Canada,Lifestyle,Emerging
+CR0564,2024-12-04,US & Canada,Entertainment,Growth
+CR0565,2024-02-26,Brazil,Education,Emerging
+CR0566,2023-06-14,US & Canada,Music,Emerging
+CR0567,2022-05-12,US & Canada,Entertainment,Growth
+CR0568,2022-05-31,US & Canada,Gaming,Established
+CR0569,2023-04-26,US & Canada,Gaming,Emerging
+CR0570,2022-01-18,Other LATAM,Entertainment,Emerging
+CR0571,2023-06-02,US & Canada,Lifestyle,Emerging
+CR0572,2023-02-28,Other LATAM,Entertainment,Emerging
+CR0573,2023-12-27,Other LATAM,Lifestyle,Emerging
+CR0574,2023-08-26,US & Canada,Gaming,Emerging
+CR0575,2024-01-04,Brazil,Gaming,Emerging
+CR0576,2023-09-26,Other LATAM,Music,Growth
+CR0577,2024-03-08,US & Canada,Gaming,Emerging
+CR0578,2022-02-15,US & Canada,Gaming,Growth
+CR0579,2022-08-04,Mexico,Education,Emerging
+CR0580,2023-04-29,Brazil,Entertainment,Established
+CR0581,2024-05-11,US & Canada,Entertainment,Growth
+CR0582,2022-04-25,US & Canada,Education,Emerging
+CR0583,2024-06-10,Brazil,Lifestyle,Emerging
+CR0584,2022-12-05,US & Canada,Lifestyle,Emerging
+CR0585,2023-11-14,US & Canada,Education,Growth
+CR0586,2023-08-14,Other LATAM,Lifestyle,Growth
+CR0587,2023-03-23,Mexico,Education,Growth
+CR0588,2023-08-10,US & Canada,Entertainment,Emerging
+CR0589,2022-02-24,US & Canada,Education,Emerging
+CR0590,2024-07-22,US & Canada,Education,Emerging
+CR0591,2022-02-23,Mexico,Entertainment,Growth
+CR0592,2022-12-14,Other LATAM,Education,Emerging
+CR0593,2022-06-20,Mexico,Gaming,Emerging
+CR0594,2022-06-16,Mexico,Gaming,Emerging
+CR0595,2024-12-12,US & Canada,Entertainment,Emerging
+CR0596,2023-05-25,Brazil,Education,Emerging
+CR0597,2022-05-25,US & Canada,Gaming,Emerging
+CR0598,2023-01-29,Brazil,Education,Emerging
+CR0599,2024-01-21,Other LATAM,Gaming,Growth
+CR0600,2023-02-03,US & Canada,Entertainment,Emerging
+CR0601,2022-10-23,Mexico,Entertainment,Emerging
+CR0602,2024-08-05,Mexico,Lifestyle,Growth
+CR0603,2024-08-27,US & Canada,Education,Growth
+CR0604,2022-08-11,US & Canada,Entertainment,Growth
+CR0605,2024-03-02,US & Canada,Gaming,Established
+CR0606,2023-11-08,Brazil,Gaming,Emerging
+CR0607,2023-02-28,Other LATAM,Lifestyle,Emerging
+CR0608,2024-06-10,US & Canada,Music,Emerging
+CR0609,2023-12-15,US & Canada,Lifestyle,Emerging
+CR0610,2023-06-08,US & Canada,Gaming,Growth
+CR0611,2023-12-31,US & Canada,Lifestyle,Emerging
+CR0612,2024-03-29,US & Canada,Education,Emerging
+CR0613,2023-12-18,Other LATAM,Education,Emerging
+CR0614,2024-05-05,US & Canada,Entertainment,Emerging
+CR0615,2022-01-12,US & Canada,Music,Growth
+CR0616,2023-11-27,Mexico,Music,Established
+CR0617,2022-02-28,US & Canada,Gaming,Growth
+CR0618,2022-09-22,Mexico,Education,Emerging
+CR0619,2022-07-15,US & Canada,Lifestyle,Established
+CR0620,2022-12-18,US & Canada,Gaming,Emerging
+CR0621,2022-12-02,US & Canada,Gaming,Emerging
+CR0622,2024-12-15,US & Canada,Lifestyle,Established
+CR0623,2024-01-01,US & Canada,Gaming,Growth
+CR0624,2022-06-06,Mexico,Entertainment,Emerging
+CR0625,2023-10-19,Brazil,Music,Established
+CR0626,2024-08-09,Other LATAM,Lifestyle,Emerging
+CR0627,2022-10-04,Other LATAM,Lifestyle,Growth
+CR0628,2024-01-12,US & Canada,Entertainment,Established
+CR0629,2024-06-09,Mexico,Lifestyle,Emerging
+CR0630,2024-08-05,Mexico,Lifestyle,Emerging
+CR0631,2023-07-03,US & Canada,Gaming,Growth
+CR0632,2024-07-25,US & Canada,Education,Growth
+CR0633,2024-05-08,US & Canada,Entertainment,Emerging
+CR0634,2023-01-22,Brazil,Lifestyle,Emerging
+CR0635,2023-05-21,US & Canada,Entertainment,Established
+CR0636,2023-10-10,Brazil,Entertainment,Growth
+CR0637,2022-10-11,Other LATAM,Education,Emerging
+CR0638,2024-08-02,Other LATAM,Lifestyle,Growth
+CR0639,2022-10-26,US & Canada,Entertainment,Emerging
+CR0640,2024-11-04,US & Canada,Entertainment,Established
+CR0641,2023-07-18,Mexico,Lifestyle,Growth
+CR0642,2024-05-24,US & Canada,Entertainment,Growth
+CR0643,2024-02-01,Mexico,Gaming,Emerging
+CR0644,2024-10-22,Mexico,Entertainment,Emerging
+CR0645,2022-08-05,Other LATAM,Music,Emerging
+CR0646,2023-06-29,US & Canada,Entertainment,Growth
+CR0647,2022-04-25,US & Canada,Lifestyle,Growth
+CR0648,2023-11-30,US & Canada,Lifestyle,Emerging
+CR0649,2024-04-15,US & Canada,Entertainment,Emerging
+CR0650,2022-08-09,US & Canada,Entertainment,Emerging
+CR0651,2024-12-29,US & Canada,Music,Emerging
+CR0652,2022-11-24,Mexico,Gaming,Established
+CR0653,2022-01-11,US & Canada,Gaming,Emerging
+CR0654,2023-11-23,US & Canada,Gaming,Emerging
+CR0655,2024-03-02,US & Canada,Music,Growth
+CR0656,2024-01-25,Brazil,Entertainment,Emerging
+CR0657,2022-04-03,US & Canada,Lifestyle,Emerging
+CR0658,2023-11-07,Mexico,Gaming,Growth
+CR0659,2022-08-07,Brazil,Lifestyle,Growth
+CR0660,2024-03-27,US & Canada,Music,Emerging
+CR0661,2022-10-10,Brazil,Entertainment,Growth
+CR0662,2022-02-09,US & Canada,Education,Emerging
+CR0663,2024-10-13,US & Canada,Education,Emerging
+CR0664,2024-11-06,Brazil,Gaming,Growth
+CR0665,2022-06-07,Mexico,Lifestyle,Growth
+CR0666,2022-06-26,US & Canada,Lifestyle,Growth
+CR0667,2024-08-12,Mexico,Education,Emerging
+CR0668,2024-08-14,US & Canada,Music,Established
+CR0669,2023-11-10,US & Canada,Entertainment,Emerging
+CR0670,2022-09-07,Brazil,Gaming,Growth
+CR0671,2022-11-01,US & Canada,Music,Emerging
+CR0672,2024-03-09,US & Canada,Education,Emerging
+CR0673,2022-07-22,Other LATAM,Entertainment,Emerging
+CR0674,2024-08-15,US & Canada,Gaming,Emerging
+CR0675,2024-11-17,US & Canada,Education,Growth
+CR0676,2024-06-19,US & Canada,Education,Growth
+CR0677,2023-03-24,Other LATAM,Lifestyle,Emerging
+CR0678,2022-11-07,Brazil,Education,Emerging
+CR0679,2022-02-16,US & Canada,Education,Growth
+CR0680,2024-05-04,US & Canada,Education,Emerging
+CR0681,2023-10-13,US & Canada,Education,Emerging
+CR0682,2022-11-08,US & Canada,Education,Emerging
+CR0683,2024-06-15,US & Canada,Entertainment,Established
+CR0684,2024-12-26,Brazil,Education,Growth
+CR0685,2024-06-25,Other LATAM,Music,Emerging
+CR0686,2023-11-27,Brazil,Lifestyle,Emerging
+CR0687,2022-03-24,US & Canada,Education,Emerging
+CR0688,2024-12-18,US & Canada,Lifestyle,Emerging
+CR0689,2022-04-03,Brazil,Lifestyle,Growth
+CR0690,2024-10-06,Other LATAM,Education,Growth
+CR0691,2022-12-14,US & Canada,Education,Emerging
+CR0692,2024-08-15,Brazil,Entertainment,Growth
+CR0693,2023-01-09,US & Canada,Lifestyle,Emerging
+CR0694,2022-03-13,Brazil,Education,Emerging
+CR0695,2022-03-30,Brazil,Gaming,Established
+CR0696,2022-08-01,US & Canada,Gaming,Emerging
+CR0697,2022-11-10,US & Canada,Lifestyle,Emerging
+CR0698,2023-06-17,US & Canada,Entertainment,Emerging
+CR0699,2022-09-27,US & Canada,Education,Emerging
+CR0700,2024-12-20,US & Canada,Entertainment,Emerging
+CR0701,2024-01-18,Brazil,Gaming,Established
+CR0702,2024-08-27,Brazil,Education,Emerging
+CR0703,2024-04-03,US & Canada,Gaming,Growth
+CR0704,2022-05-09,Mexico,Entertainment,Emerging
+CR0705,2024-10-24,Other LATAM,Gaming,Emerging
+CR0706,2024-10-03,US & Canada,Gaming,Growth
+CR0707,2022-02-23,Brazil,Music,Growth
+CR0708,2024-08-10,Brazil,Education,Emerging
+CR0709,2024-04-03,US & Canada,Music,Emerging
+CR0710,2023-01-20,Brazil,Entertainment,Emerging
+CR0711,2023-08-12,US & Canada,Lifestyle,Emerging
+CR0712,2024-06-28,US & Canada,Education,Emerging
+CR0713,2024-08-26,Mexico,Music,Emerging
+CR0714,2022-05-11,US & Canada,Gaming,Growth
+CR0715,2024-02-04,Other LATAM,Lifestyle,Emerging
+CR0716,2023-08-14,Mexico,Entertainment,Growth
+CR0717,2023-09-29,Mexico,Gaming,Established
+CR0718,2024-04-26,US & Canada,Music,Established
+CR0719,2022-12-30,Mexico,Music,Emerging
+CR0720,2024-05-12,Other LATAM,Lifestyle,Emerging
+CR0721,2023-10-05,US & Canada,Music,Growth
+CR0722,2024-09-26,US & Canada,Entertainment,Emerging
+CR0723,2024-02-04,Brazil,Entertainment,Emerging
+CR0724,2023-02-12,Other LATAM,Entertainment,Established
+CR0725,2024-12-02,Mexico,Education,Emerging
+CR0726,2022-04-13,Other LATAM,Entertainment,Emerging
+CR0727,2022-02-13,US & Canada,Music,Growth
+CR0728,2024-11-26,Mexico,Gaming,Established
+CR0729,2023-01-10,US & Canada,Music,Emerging
+CR0730,2023-02-25,Brazil,Music,Emerging
+CR0731,2022-01-07,US & Canada,Gaming,Emerging
+CR0732,2023-08-02,US & Canada,Entertainment,Emerging
+CR0733,2022-03-24,Other LATAM,Gaming,Established
+CR0734,2022-08-24,US & Canada,Gaming,Emerging
+CR0735,2022-06-08,US & Canada,Gaming,Growth
+CR0736,2023-03-20,Mexico,Entertainment,Emerging
+CR0737,2023-12-13,US & Canada,Lifestyle,Growth
+CR0738,2024-06-10,US & Canada,Education,Emerging
+CR0739,2023-11-28,Brazil,Gaming,Emerging
+CR0740,2024-01-15,Mexico,Lifestyle,Emerging
+CR0741,2024-11-24,Other LATAM,Lifestyle,Established
+CR0742,2024-08-14,Mexico,Entertainment,Growth
+CR0743,2023-05-12,US & Canada,Music,Emerging
+CR0744,2023-07-09,US & Canada,Music,Emerging
+CR0745,2023-11-03,Brazil,Entertainment,Emerging
+CR0746,2023-05-23,Mexico,Gaming,Emerging
+CR0747,2024-04-13,Mexico,Education,Growth
+CR0748,2023-11-20,Other LATAM,Lifestyle,Emerging
+CR0749,2023-12-18,Mexico,Music,Emerging
+CR0750,2024-02-06,US & Canada,Gaming,Growth

@@ -1,0 +1,2077 @@
+case_id,creator_id,opened_date,case_type,case_channel,resolution_hours,first_contact_resolved,satisfaction_score,case_status
+SC00001,CR0001,2025-08-25,Technical Issue,Phone,8.6,1,4.0,Closed
+SC00002,CR0001,2025-03-25,Monetization,Chat,13.4,0,5.0,Closed
+SC00003,CR0001,2025-05-06,Policy Question,Email,6.2,1,5.0,Closed
+SC00004,CR0002,2025-06-18,Monetization,Email,6.7,1,5.0,Closed
+SC00005,CR0002,2025-04-14,Policy Question,Email,10.6,0,4.0,Closed
+SC00006,CR0002,2025-08-26,Technical Issue,Phone,7.6,1,5.0,Closed
+SC00007,CR0002,2025-02-21,Policy Question,Email,,0,,Open
+SC00008,CR0002,2025-10-04,Monetization,Email,6.1,1,4.0,Closed
+SC00009,CR0002,2025-09-03,Account Access,Chat,2.6,1,5.0,Closed
+SC00010,CR0003,2025-09-23,Policy Question,Chat,11.5,1,5.0,Closed
+SC00011,CR0003,2025-01-27,Technical Issue,Phone,,0,,Open
+SC00012,CR0003,2025-06-09,Technical Issue,Phone,12.8,1,3.0,Closed
+SC00013,CR0003,2025-10-02,Monetization,Chat,37.5,1,3.0,Closed
+SC00014,CR0003,2025-04-29,Account Access,Phone,19.0,1,4.0,Closed
+SC00015,CR0003,2025-10-19,Policy Question,Chat,47.1,1,3.0,Closed
+SC00016,CR0003,2025-12-02,Account Access,Email,7.7,0,5.0,Closed
+SC00017,CR0003,2025-04-07,Policy Question,Phone,,0,,Open
+SC00018,CR0003,2025-11-14,Account Access,Phone,,0,,Open
+SC00019,CR0004,2025-03-22,Technical Issue,Email,23.8,1,4.0,Closed
+SC00020,CR0004,2025-02-12,Account Access,Phone,15.3,0,5.0,Closed
+SC00021,CR0004,2025-03-21,Policy Question,Chat,5.9,1,4.0,Closed
+SC00022,CR0004,2025-03-17,Analytics Question,Email,9.9,1,5.0,Closed
+SC00023,CR0005,2025-05-15,Analytics Question,Phone,7.2,1,4.0,Closed
+SC00024,CR0005,2025-04-18,Analytics Question,Email,14.3,0,4.0,Closed
+SC00025,CR0005,2025-01-05,Monetization,Email,5.1,1,5.0,Closed
+SC00026,CR0006,2025-06-24,Policy Question,Phone,2.7,1,5.0,Closed
+SC00027,CR0007,2025-05-14,Monetization,Chat,50.7,0,3.0,Closed
+SC00028,CR0007,2025-06-05,Monetization,Phone,4.3,1,5.0,Closed
+SC00029,CR0008,2025-08-29,Monetization,Chat,67.2,1,1.0,Closed
+SC00030,CR0009,2025-08-19,Analytics Question,Chat,4.4,0,4.0,Closed
+SC00031,CR0010,2025-01-23,Monetization,Chat,26.1,0,2.0,Closed
+SC00032,CR0010,2025-05-26,Policy Question,Chat,7.0,1,4.0,Closed
+SC00033,CR0011,2025-07-02,Policy Question,Email,37.2,0,4.0,Closed
+SC00034,CR0011,2025-07-02,Analytics Question,Email,11.3,1,5.0,Closed
+SC00035,CR0011,2025-10-12,Analytics Question,Chat,5.0,1,5.0,Closed
+SC00036,CR0011,2025-07-25,Technical Issue,Email,4.7,1,5.0,Closed
+SC00037,CR0012,2025-12-07,Monetization,Phone,14.8,1,5.0,Closed
+SC00038,CR0012,2025-02-08,Monetization,Phone,4.4,0,4.0,Closed
+SC00039,CR0012,2025-03-11,Monetization,Phone,16.0,1,5.0,Closed
+SC00040,CR0012,2025-02-13,Account Access,Chat,6.2,0,4.0,Closed
+SC00041,CR0013,2025-09-02,Technical Issue,Chat,17.7,0,4.0,Closed
+SC00042,CR0013,2025-11-16,Monetization,Email,4.6,0,4.0,Closed
+SC00043,CR0013,2025-12-22,Policy Question,Chat,5.9,1,5.0,Closed
+SC00044,CR0013,2025-08-18,Account Access,Email,5.7,0,5.0,Closed
+SC00045,CR0014,2025-04-02,Technical Issue,Chat,30.1,0,4.0,Closed
+SC00046,CR0014,2025-09-27,Account Access,Chat,6.0,1,4.0,Closed
+SC00047,CR0015,2025-04-07,Policy Question,Chat,6.5,1,3.0,Closed
+SC00048,CR0015,2025-11-24,Technical Issue,Email,22.0,1,4.0,Closed
+SC00049,CR0015,2025-06-01,Account Access,Email,12.3,1,4.0,Closed
+SC00050,CR0015,2025-10-04,Analytics Question,Chat,19.5,0,3.0,Closed
+SC00051,CR0016,2025-10-17,Account Access,Phone,4.0,0,5.0,Closed
+SC00052,CR0016,2025-04-09,Monetization,Email,3.5,1,5.0,Closed
+SC00053,CR0016,2025-09-13,Technical Issue,Email,39.2,1,4.0,Closed
+SC00054,CR0017,2025-01-01,Policy Question,Email,14.1,1,5.0,Closed
+SC00055,CR0017,2025-02-17,Technical Issue,Chat,16.5,1,4.0,Closed
+SC00056,CR0017,2025-01-24,Technical Issue,Phone,6.3,0,4.0,Closed
+SC00057,CR0017,2025-03-18,Technical Issue,Chat,8.0,0,5.0,Closed
+SC00058,CR0018,2025-06-17,Policy Question,Email,10.5,1,4.0,Closed
+SC00059,CR0018,2025-04-06,Account Access,Phone,1.1,0,5.0,Closed
+SC00060,CR0019,2025-10-14,Technical Issue,Phone,10.3,1,5.0,Closed
+SC00061,CR0019,2025-10-14,Account Access,Chat,7.3,1,5.0,Closed
+SC00062,CR0019,2025-04-24,Policy Question,Email,6.5,1,5.0,Closed
+SC00063,CR0020,2025-01-31,Monetization,Email,14.0,1,4.0,Closed
+SC00064,CR0021,2025-08-26,Policy Question,Chat,38.1,1,3.0,Closed
+SC00065,CR0021,2025-09-05,Monetization,Email,6.1,1,4.0,Closed
+SC00066,CR0021,2025-12-09,Technical Issue,Email,,0,,Open
+SC00067,CR0021,2025-08-11,Analytics Question,Email,8.4,0,4.0,Closed
+SC00068,CR0021,2025-08-08,Analytics Question,Email,13.6,0,5.0,Closed
+SC00069,CR0022,2025-08-26,Policy Question,Chat,11.5,0,4.0,Closed
+SC00070,CR0022,2025-02-03,Monetization,Email,9.3,1,4.0,Closed
+SC00071,CR0022,2025-05-26,Monetization,Chat,7.2,1,5.0,Closed
+SC00072,CR0023,2025-05-04,Policy Question,Chat,18.9,1,4.0,Closed
+SC00073,CR0023,2025-10-15,Technical Issue,Email,10.8,1,4.0,Closed
+SC00074,CR0023,2025-04-20,Technical Issue,Phone,26.2,1,4.0,Closed
+SC00075,CR0023,2025-06-26,Policy Question,Phone,12.7,0,4.0,Closed
+SC00076,CR0024,2025-03-30,Policy Question,Email,17.5,0,5.0,Closed
+SC00077,CR0024,2025-08-12,Policy Question,Chat,16.6,1,4.0,Closed
+SC00078,CR0024,2025-03-04,Analytics Question,Chat,3.7,1,4.0,Closed
+SC00079,CR0024,2025-05-09,Analytics Question,Email,9.6,1,4.0,Closed
+SC00080,CR0026,2025-02-16,Policy Question,Chat,14.4,0,5.0,Closed
+SC00081,CR0026,2025-06-04,Account Access,Chat,9.8,0,4.0,Closed
+SC00082,CR0026,2025-02-16,Policy Question,Email,5.9,0,5.0,Closed
+SC00083,CR0027,2025-03-02,Technical Issue,Phone,11.6,0,5.0,Closed
+SC00084,CR0027,2025-05-21,Account Access,Email,14.0,0,4.0,Closed
+SC00085,CR0028,2025-11-22,Technical Issue,Chat,26.0,1,4.0,Closed
+SC00086,CR0028,2025-02-20,Account Access,Chat,4.2,0,5.0,Closed
+SC00087,CR0028,2025-06-09,Analytics Question,Phone,8.1,0,5.0,Closed
+SC00088,CR0029,2025-11-04,Technical Issue,Email,2.1,1,5.0,Closed
+SC00089,CR0029,2025-10-31,Monetization,Email,,0,,Open
+SC00090,CR0029,2025-04-14,Analytics Question,Chat,7.1,0,5.0,Closed
+SC00091,CR0029,2025-10-06,Monetization,Email,20.5,1,4.0,Closed
+SC00092,CR0029,2025-02-17,Technical Issue,Email,21.5,1,4.0,Closed
+SC00093,CR0029,2025-12-15,Technical Issue,Chat,14.5,1,4.0,Closed
+SC00094,CR0030,2025-05-20,Technical Issue,Email,11.2,1,5.0,Closed
+SC00095,CR0030,2025-09-03,Monetization,Email,28.1,1,3.0,Closed
+SC00096,CR0031,2025-08-01,Technical Issue,Email,6.5,1,5.0,Closed
+SC00097,CR0031,2025-05-28,Technical Issue,Phone,,0,,Open
+SC00098,CR0031,2025-05-29,Policy Question,Email,7.4,1,5.0,Closed
+SC00099,CR0033,2025-09-12,Monetization,Chat,24.9,1,3.0,Closed
+SC00100,CR0033,2025-06-08,Account Access,Email,43.1,1,3.0,Closed
+SC00101,CR0033,2025-07-06,Policy Question,Chat,62.6,1,2.0,Closed
+SC00102,CR0034,2025-12-29,Monetization,Email,2.3,1,4.0,Closed
+SC00103,CR0035,2025-04-24,Analytics Question,Chat,21.6,1,4.0,Closed
+SC00104,CR0036,2025-03-20,Analytics Question,Email,20.6,0,5.0,Closed
+SC00105,CR0036,2025-01-28,Account Access,Email,8.1,1,5.0,Closed
+SC00106,CR0036,2025-03-31,Technical Issue,Email,21.6,1,4.0,Closed
+SC00107,CR0036,2025-08-13,Monetization,Email,30.2,0,3.0,Closed
+SC00108,CR0036,2025-09-30,Analytics Question,Chat,,0,,Open
+SC00109,CR0037,2025-01-04,Policy Question,Phone,4.5,1,5.0,Closed
+SC00110,CR0038,2025-12-07,Technical Issue,Chat,4.3,0,4.0,Closed
+SC00111,CR0038,2025-10-20,Monetization,Email,18.5,1,5.0,Closed
+SC00112,CR0038,2025-09-12,Analytics Question,Chat,,0,,Open
+SC00113,CR0038,2025-02-16,Analytics Question,Chat,3.7,1,4.0,Closed
+SC00114,CR0038,2025-10-29,Monetization,Email,10.2,1,4.0,Closed
+SC00115,CR0039,2025-06-06,Monetization,Chat,1.7,1,4.0,Closed
+SC00116,CR0039,2025-07-12,Analytics Question,Email,14.2,1,4.0,Closed
+SC00117,CR0039,2025-08-11,Monetization,Email,19.6,1,4.0,Closed
+SC00118,CR0040,2025-03-01,Policy Question,Phone,6.7,1,4.0,Closed
+SC00119,CR0040,2025-03-04,Policy Question,Phone,,0,,Open
+SC00120,CR0040,2025-10-12,Policy Question,Email,11.3,0,3.0,Closed
+SC00121,CR0040,2025-05-24,Analytics Question,Email,8.8,1,5.0,Closed
+SC00122,CR0040,2025-07-14,Analytics Question,Email,5.2,0,5.0,Closed
+SC00123,CR0040,2025-07-05,Monetization,Email,7.2,1,4.0,Closed
+SC00124,CR0040,2025-03-28,Policy Question,Chat,21.5,1,5.0,Closed
+SC00125,CR0041,2025-09-24,Technical Issue,Email,36.4,1,2.0,Closed
+SC00126,CR0043,2025-07-29,Technical Issue,Email,16.2,1,5.0,Closed
+SC00127,CR0044,2025-11-21,Technical Issue,Chat,7.0,0,5.0,Closed
+SC00128,CR0044,2025-06-12,Technical Issue,Email,14.0,0,3.0,Closed
+SC00129,CR0046,2025-08-20,Account Access,Phone,8.9,1,4.0,Closed
+SC00130,CR0047,2025-06-07,Policy Question,Phone,7.1,1,4.0,Closed
+SC00131,CR0047,2025-07-11,Technical Issue,Chat,8.6,1,5.0,Closed
+SC00132,CR0047,2025-06-09,Policy Question,Chat,9.1,1,5.0,Closed
+SC00133,CR0048,2025-06-23,Policy Question,Chat,9.7,1,5.0,Closed
+SC00134,CR0048,2025-08-24,Monetization,Chat,8.4,0,5.0,Closed
+SC00135,CR0048,2025-05-27,Monetization,Email,9.8,1,5.0,Closed
+SC00136,CR0049,2025-10-30,Analytics Question,Chat,22.4,1,5.0,Closed
+SC00137,CR0049,2025-06-30,Technical Issue,Chat,7.2,1,5.0,Closed
+SC00138,CR0049,2025-08-30,Policy Question,Chat,2.1,0,4.0,Closed
+SC00139,CR0049,2025-09-15,Technical Issue,Chat,13.6,1,4.0,Closed
+SC00140,CR0050,2025-05-07,Account Access,Email,18.0,1,4.0,Closed
+SC00141,CR0050,2025-07-10,Technical Issue,Email,5.1,1,4.0,Closed
+SC00142,CR0051,2025-01-24,Monetization,Chat,19.3,1,4.0,Closed
+SC00143,CR0051,2025-11-02,Policy Question,Chat,16.7,1,5.0,Closed
+SC00144,CR0051,2025-12-20,Monetization,Chat,19.1,1,4.0,Closed
+SC00145,CR0052,2025-04-22,Monetization,Chat,,0,,Open
+SC00146,CR0052,2025-05-17,Policy Question,Phone,67.9,0,1.0,Closed
+SC00147,CR0052,2025-01-11,Technical Issue,Chat,25.9,0,5.0,Closed
+SC00148,CR0052,2025-06-03,Analytics Question,Phone,6.2,1,5.0,Closed
+SC00149,CR0053,2025-09-07,Monetization,Email,25.6,1,5.0,Closed
+SC00150,CR0054,2025-08-24,Technical Issue,Email,15.4,0,4.0,Closed
+SC00151,CR0056,2025-11-23,Monetization,Chat,8.0,1,5.0,Closed
+SC00152,CR0057,2025-11-07,Analytics Question,Phone,11.6,1,4.0,Closed
+SC00153,CR0057,2025-04-22,Policy Question,Email,11.4,1,5.0,Closed
+SC00154,CR0058,2025-01-27,Account Access,Phone,10.0,1,3.0,Closed
+SC00155,CR0059,2025-08-14,Analytics Question,Email,29.5,1,3.0,Closed
+SC00156,CR0059,2025-06-06,Monetization,Email,17.1,1,4.0,Closed
+SC00157,CR0059,2025-06-21,Technical Issue,Chat,3.8,0,5.0,Closed
+SC00158,CR0059,2025-06-12,Policy Question,Chat,43.8,0,3.0,Closed
+SC00159,CR0061,2025-06-22,Policy Question,Chat,4.8,1,5.0,Closed
+SC00160,CR0061,2025-08-21,Technical Issue,Chat,25.9,1,4.0,Closed
+SC00161,CR0061,2025-11-18,Analytics Question,Phone,7.8,1,4.0,Closed
+SC00162,CR0062,2025-07-16,Monetization,Chat,,0,,Open
+SC00163,CR0062,2025-07-06,Policy Question,Chat,,0,,Open
+SC00164,CR0062,2025-09-23,Policy Question,Phone,8.6,1,5.0,Closed
+SC00165,CR0062,2025-02-01,Analytics Question,Chat,10.5,0,4.0,Closed
+SC00166,CR0063,2025-09-02,Analytics Question,Email,2.7,0,5.0,Closed
+SC00167,CR0064,2025-02-09,Technical Issue,Email,4.1,0,4.0,Closed
+SC00168,CR0064,2025-11-30,Technical Issue,Chat,5.7,1,4.0,Closed
+SC00169,CR0064,2025-12-20,Analytics Question,Chat,,0,,Open
+SC00170,CR0064,2025-05-29,Account Access,Phone,11.5,1,4.0,Closed
+SC00171,CR0064,2025-07-24,Analytics Question,Email,4.4,1,5.0,Closed
+SC00172,CR0065,2025-09-02,Policy Question,Chat,8.0,1,5.0,Closed
+SC00173,CR0065,2025-02-12,Policy Question,Email,18.0,1,3.0,Closed
+SC00174,CR0065,2025-12-25,Monetization,Phone,18.0,1,5.0,Closed
+SC00175,CR0065,2025-12-25,Technical Issue,Chat,39.7,1,2.0,Closed
+SC00176,CR0065,2025-08-09,Technical Issue,Phone,7.9,0,3.0,Closed
+SC00177,CR0066,2025-05-22,Analytics Question,Chat,15.2,1,4.0,Closed
+SC00178,CR0066,2025-10-12,Analytics Question,Chat,19.8,1,4.0,Closed
+SC00179,CR0066,2025-01-05,Policy Question,Email,6.1,1,5.0,Closed
+SC00180,CR0066,2025-02-24,Monetization,Chat,26.4,0,5.0,Closed
+SC00181,CR0066,2025-05-26,Technical Issue,Chat,16.3,0,5.0,Closed
+SC00182,CR0067,2025-09-28,Technical Issue,Chat,18.3,1,4.0,Closed
+SC00183,CR0067,2025-12-06,Policy Question,Email,20.6,1,5.0,Closed
+SC00184,CR0069,2025-12-31,Account Access,Chat,8.2,1,5.0,Closed
+SC00185,CR0069,2025-04-01,Technical Issue,Email,13.4,1,4.0,Closed
+SC00186,CR0069,2025-08-06,Policy Question,Chat,4.0,1,4.0,Closed
+SC00187,CR0069,2025-02-07,Analytics Question,Email,4.5,0,4.0,Closed
+SC00188,CR0071,2025-10-18,Account Access,Email,3.4,1,5.0,Closed
+SC00189,CR0071,2025-02-11,Analytics Question,Phone,6.6,0,5.0,Closed
+SC00190,CR0072,2025-04-26,Technical Issue,Phone,16.5,1,4.0,Closed
+SC00191,CR0073,2025-06-07,Analytics Question,Chat,7.1,0,4.0,Closed
+SC00192,CR0073,2025-10-11,Technical Issue,Chat,,0,,Open
+SC00193,CR0074,2025-08-14,Technical Issue,Chat,4.3,1,5.0,Closed
+SC00194,CR0074,2025-07-19,Analytics Question,Email,6.1,1,5.0,Closed
+SC00195,CR0074,2025-01-24,Account Access,Email,14.7,1,4.0,Closed
+SC00196,CR0075,2025-12-09,Policy Question,Email,7.8,1,5.0,Closed
+SC00197,CR0075,2025-05-07,Analytics Question,Chat,6.8,1,5.0,Closed
+SC00198,CR0075,2025-08-02,Policy Question,Email,13.9,1,5.0,Closed
+SC00199,CR0075,2025-02-27,Monetization,Phone,12.0,0,4.0,Closed
+SC00200,CR0075,2025-04-06,Technical Issue,Email,6.5,0,4.0,Closed
+SC00201,CR0075,2025-03-06,Policy Question,Chat,13.6,0,3.0,Closed
+SC00202,CR0075,2025-11-10,Technical Issue,Phone,13.7,1,5.0,Closed
+SC00203,CR0076,2025-02-21,Policy Question,Phone,7.2,1,5.0,Closed
+SC00204,CR0076,2025-07-14,Technical Issue,Phone,7.2,1,5.0,Closed
+SC00205,CR0076,2025-07-24,Analytics Question,Email,1.8,0,5.0,Closed
+SC00206,CR0077,2025-06-28,Policy Question,Chat,42.9,0,3.0,Closed
+SC00207,CR0077,2025-02-01,Monetization,Email,6.8,1,4.0,Closed
+SC00208,CR0078,2025-06-04,Account Access,Chat,25.1,1,3.0,Closed
+SC00209,CR0078,2025-07-09,Analytics Question,Phone,3.4,1,5.0,Closed
+SC00210,CR0078,2025-10-06,Technical Issue,Email,9.4,1,4.0,Closed
+SC00211,CR0078,2025-11-27,Monetization,Email,9.6,0,5.0,Closed
+SC00212,CR0078,2025-04-11,Monetization,Chat,,0,,Open
+SC00213,CR0078,2025-04-29,Monetization,Phone,10.4,1,5.0,Closed
+SC00214,CR0078,2025-01-20,Account Access,Email,3.3,1,4.0,Closed
+SC00215,CR0079,2025-03-01,Analytics Question,Email,21.1,1,4.0,Closed
+SC00216,CR0079,2025-05-09,Monetization,Phone,,0,,Open
+SC00217,CR0080,2025-10-29,Technical Issue,Email,16.0,1,4.0,Closed
+SC00218,CR0080,2025-07-29,Technical Issue,Chat,4.5,1,4.0,Closed
+SC00219,CR0081,2025-01-06,Analytics Question,Email,10.6,0,4.0,Closed
+SC00220,CR0083,2025-04-21,Technical Issue,Chat,,0,,Open
+SC00221,CR0083,2025-12-13,Account Access,Chat,13.0,0,4.0,Closed
+SC00222,CR0084,2025-10-21,Analytics Question,Email,3.5,1,5.0,Closed
+SC00223,CR0084,2025-12-10,Monetization,Email,11.2,1,5.0,Closed
+SC00224,CR0084,2025-01-13,Policy Question,Chat,14.6,0,5.0,Closed
+SC00225,CR0084,2025-05-18,Policy Question,Chat,30.2,1,3.0,Closed
+SC00226,CR0085,2025-08-29,Monetization,Chat,13.9,1,4.0,Closed
+SC00227,CR0085,2025-06-10,Policy Question,Email,6.3,0,4.0,Closed
+SC00228,CR0086,2025-10-09,Account Access,Chat,5.8,1,5.0,Closed
+SC00229,CR0087,2025-04-16,Technical Issue,Email,28.0,1,4.0,Closed
+SC00230,CR0087,2025-04-22,Monetization,Phone,1.7,0,5.0,Closed
+SC00231,CR0088,2025-01-27,Technical Issue,Chat,44.4,1,1.0,Closed
+SC00232,CR0089,2025-01-25,Policy Question,Email,2.1,1,5.0,Closed
+SC00233,CR0089,2025-07-05,Monetization,Chat,16.9,1,4.0,Closed
+SC00234,CR0089,2025-12-15,Monetization,Phone,12.2,1,5.0,Closed
+SC00235,CR0089,2025-07-03,Policy Question,Chat,6.9,1,5.0,Closed
+SC00236,CR0090,2025-11-20,Technical Issue,Email,9.4,0,4.0,Closed
+SC00237,CR0090,2025-08-12,Policy Question,Email,11.6,1,4.0,Closed
+SC00238,CR0090,2025-04-20,Analytics Question,Chat,3.5,0,5.0,Closed
+SC00239,CR0091,2025-04-12,Analytics Question,Chat,15.2,0,5.0,Closed
+SC00240,CR0091,2025-12-22,Monetization,Chat,5.2,0,4.0,Closed
+SC00241,CR0091,2025-12-15,Account Access,Email,4.5,0,4.0,Closed
+SC00242,CR0091,2025-06-10,Monetization,Email,37.6,1,3.0,Closed
+SC00243,CR0092,2025-11-06,Policy Question,Phone,14.8,1,5.0,Closed
+SC00244,CR0092,2025-06-03,Account Access,Phone,15.1,0,3.0,Closed
+SC00245,CR0092,2025-12-09,Policy Question,Email,,0,,Open
+SC00246,CR0092,2025-11-05,Policy Question,Chat,18.4,0,4.0,Closed
+SC00247,CR0094,2025-07-03,Analytics Question,Chat,13.9,0,5.0,Closed
+SC00248,CR0094,2025-02-06,Account Access,Email,4.7,1,5.0,Closed
+SC00249,CR0094,2025-03-31,Technical Issue,Phone,9.1,1,5.0,Closed
+SC00250,CR0094,2025-10-08,Monetization,Phone,24.7,0,3.0,Closed
+SC00251,CR0095,2025-09-18,Policy Question,Email,12.1,1,3.0,Closed
+SC00252,CR0095,2025-06-12,Monetization,Email,16.1,1,4.0,Closed
+SC00253,CR0095,2025-05-23,Monetization,Chat,9.5,1,4.0,Closed
+SC00254,CR0096,2025-10-01,Account Access,Email,13.7,0,4.0,Closed
+SC00255,CR0096,2025-07-04,Technical Issue,Phone,15.8,1,5.0,Closed
+SC00256,CR0097,2025-11-18,Technical Issue,Phone,8.3,1,5.0,Closed
+SC00257,CR0098,2025-05-02,Monetization,Phone,11.4,1,4.0,Closed
+SC00258,CR0099,2025-09-11,Policy Question,Chat,21.4,1,4.0,Closed
+SC00259,CR0100,2025-07-27,Policy Question,Chat,3.5,1,4.0,Closed
+SC00260,CR0101,2025-04-03,Technical Issue,Chat,26.1,1,4.0,Closed
+SC00261,CR0101,2025-04-29,Account Access,Chat,15.6,1,4.0,Closed
+SC00262,CR0101,2025-04-10,Monetization,Chat,21.5,1,4.0,Closed
+SC00263,CR0102,2025-01-10,Technical Issue,Email,5.0,0,5.0,Closed
+SC00264,CR0102,2025-03-16,Monetization,Email,10.9,1,4.0,Closed
+SC00265,CR0102,2025-09-14,Monetization,Chat,3.8,1,5.0,Closed
+SC00266,CR0102,2025-08-31,Policy Question,Chat,15.6,1,4.0,Closed
+SC00267,CR0102,2025-01-12,Analytics Question,Chat,10.4,1,3.0,Closed
+SC00268,CR0102,2025-01-25,Monetization,Phone,8.1,1,5.0,Closed
+SC00269,CR0103,2025-12-14,Technical Issue,Phone,15.8,1,4.0,Closed
+SC00270,CR0103,2025-04-12,Policy Question,Chat,21.8,1,3.0,Closed
+SC00271,CR0103,2025-03-06,Monetization,Chat,25.5,0,3.0,Closed
+SC00272,CR0103,2025-05-25,Policy Question,Phone,15.2,0,4.0,Closed
+SC00273,CR0106,2025-05-29,Account Access,Chat,8.9,0,4.0,Closed
+SC00274,CR0106,2025-04-18,Analytics Question,Email,4.0,1,4.0,Closed
+SC00275,CR0106,2025-11-25,Account Access,Email,6.9,1,5.0,Closed
+SC00276,CR0106,2025-05-19,Technical Issue,Phone,6.8,1,5.0,Closed
+SC00277,CR0107,2025-09-14,Policy Question,Phone,16.2,1,5.0,Closed
+SC00278,CR0107,2025-08-16,Technical Issue,Phone,4.8,1,4.0,Closed
+SC00279,CR0108,2025-10-08,Analytics Question,Chat,14.5,1,5.0,Closed
+SC00280,CR0108,2025-06-24,Policy Question,Phone,5.6,1,5.0,Closed
+SC00281,CR0109,2025-11-09,Monetization,Chat,22.9,0,4.0,Closed
+SC00282,CR0109,2025-02-09,Analytics Question,Chat,6.7,1,4.0,Closed
+SC00283,CR0109,2025-02-27,Analytics Question,Chat,3.7,1,5.0,Closed
+SC00284,CR0109,2025-01-16,Policy Question,Chat,10.2,0,5.0,Closed
+SC00285,CR0110,2025-02-05,Technical Issue,Email,11.9,1,3.0,Closed
+SC00286,CR0111,2025-07-03,Monetization,Phone,11.2,1,4.0,Closed
+SC00287,CR0111,2025-10-20,Analytics Question,Email,12.5,1,5.0,Closed
+SC00288,CR0112,2025-04-01,Account Access,Email,7.1,1,5.0,Closed
+SC00289,CR0113,2025-04-01,Technical Issue,Email,34.1,0,3.0,Closed
+SC00290,CR0113,2025-08-26,Technical Issue,Phone,16.0,0,5.0,Closed
+SC00291,CR0113,2025-05-12,Policy Question,Chat,10.4,0,4.0,Closed
+SC00292,CR0114,2025-08-28,Monetization,Email,9.3,0,5.0,Closed
+SC00293,CR0114,2025-01-03,Technical Issue,Email,23.5,1,2.0,Closed
+SC00294,CR0115,2025-12-08,Policy Question,Chat,3.2,0,5.0,Closed
+SC00295,CR0115,2025-12-10,Monetization,Email,2.7,0,5.0,Closed
+SC00296,CR0117,2025-09-12,Policy Question,Chat,11.2,1,5.0,Closed
+SC00297,CR0117,2025-04-04,Account Access,Chat,4.1,0,5.0,Closed
+SC00298,CR0118,2025-07-06,Policy Question,Phone,6.0,1,4.0,Closed
+SC00299,CR0120,2025-07-29,Monetization,Email,8.6,0,4.0,Closed
+SC00300,CR0120,2025-01-08,Policy Question,Chat,8.4,1,5.0,Closed
+SC00301,CR0120,2025-08-13,Monetization,Email,5.3,1,5.0,Closed
+SC00302,CR0120,2025-12-07,Analytics Question,Email,2.4,1,5.0,Closed
+SC00303,CR0121,2025-03-27,Monetization,Email,16.3,1,5.0,Closed
+SC00304,CR0121,2025-10-30,Monetization,Chat,16.7,0,4.0,Closed
+SC00305,CR0121,2025-04-02,Analytics Question,Email,5.9,0,5.0,Closed
+SC00306,CR0121,2025-08-24,Technical Issue,Email,8.6,1,5.0,Closed
+SC00307,CR0121,2025-05-31,Technical Issue,Chat,11.1,1,5.0,Closed
+SC00308,CR0122,2025-02-05,Policy Question,Chat,6.0,1,5.0,Closed
+SC00309,CR0122,2025-12-07,Policy Question,Email,21.5,0,3.0,Closed
+SC00310,CR0123,2025-02-03,Account Access,Email,,0,,Open
+SC00311,CR0123,2025-01-13,Monetization,Phone,11.2,0,5.0,Closed
+SC00312,CR0124,2025-10-28,Technical Issue,Chat,9.0,0,4.0,Closed
+SC00313,CR0124,2025-01-24,Policy Question,Email,,0,,Open
+SC00314,CR0124,2025-05-28,Technical Issue,Chat,19.4,1,5.0,Closed
+SC00315,CR0125,2025-05-22,Monetization,Phone,16.7,0,5.0,Closed
+SC00316,CR0125,2025-11-30,Monetization,Email,11.7,1,5.0,Closed
+SC00317,CR0125,2025-12-20,Analytics Question,Chat,7.6,0,4.0,Closed
+SC00318,CR0126,2025-06-01,Analytics Question,Chat,19.4,0,4.0,Closed
+SC00319,CR0126,2025-03-06,Account Access,Chat,1.6,1,4.0,Closed
+SC00320,CR0126,2025-11-07,Monetization,Chat,17.7,1,3.0,Closed
+SC00321,CR0126,2025-10-16,Monetization,Phone,17.9,0,4.0,Closed
+SC00322,CR0126,2025-01-08,Analytics Question,Phone,6.9,1,4.0,Closed
+SC00323,CR0126,2025-03-14,Analytics Question,Chat,7.9,1,5.0,Closed
+SC00324,CR0126,2025-04-13,Technical Issue,Chat,17.8,1,4.0,Closed
+SC00325,CR0126,2025-08-01,Technical Issue,Email,31.1,1,3.0,Closed
+SC00326,CR0126,2025-05-21,Account Access,Email,16.4,1,5.0,Closed
+SC00327,CR0126,2025-09-10,Monetization,Chat,9.2,1,4.0,Closed
+SC00328,CR0127,2025-02-10,Technical Issue,Phone,3.3,1,4.0,Closed
+SC00329,CR0127,2025-07-07,Technical Issue,Email,1.8,1,5.0,Closed
+SC00330,CR0127,2025-09-21,Monetization,Email,11.9,1,4.0,Closed
+SC00331,CR0127,2025-10-30,Analytics Question,Phone,3.2,1,5.0,Closed
+SC00332,CR0127,2025-12-26,Technical Issue,Email,5.9,1,5.0,Closed
+SC00333,CR0127,2025-11-07,Monetization,Chat,,0,,Open
+SC00334,CR0127,2025-08-26,Account Access,Email,4.5,1,5.0,Closed
+SC00335,CR0128,2025-11-23,Monetization,Email,11.2,1,4.0,Closed
+SC00336,CR0128,2025-10-23,Account Access,Phone,,0,,Open
+SC00337,CR0128,2025-02-10,Technical Issue,Chat,12.2,1,4.0,Closed
+SC00338,CR0129,2025-08-24,Monetization,Chat,3.8,0,5.0,Closed
+SC00339,CR0129,2025-07-30,Account Access,Email,8.5,1,4.0,Closed
+SC00340,CR0129,2025-06-25,Technical Issue,Chat,8.7,1,4.0,Closed
+SC00341,CR0129,2025-03-04,Monetization,Chat,4.9,1,5.0,Closed
+SC00342,CR0129,2025-01-27,Account Access,Phone,27.1,1,4.0,Closed
+SC00343,CR0130,2025-05-11,Technical Issue,Phone,22.6,0,4.0,Closed
+SC00344,CR0130,2025-07-02,Monetization,Phone,5.6,1,5.0,Closed
+SC00345,CR0130,2025-05-04,Technical Issue,Email,,0,,Open
+SC00346,CR0130,2025-03-14,Technical Issue,Chat,,0,,Open
+SC00347,CR0130,2025-02-26,Account Access,Phone,6.6,1,5.0,Closed
+SC00348,CR0131,2025-04-24,Policy Question,Email,51.7,1,1.0,Closed
+SC00349,CR0131,2025-01-04,Monetization,Chat,24.2,1,4.0,Closed
+SC00350,CR0132,2025-03-27,Monetization,Chat,9.8,1,4.0,Closed
+SC00351,CR0132,2025-10-22,Technical Issue,Email,20.1,1,4.0,Closed
+SC00352,CR0132,2025-11-29,Monetization,Chat,,0,,Open
+SC00353,CR0132,2025-03-13,Monetization,Chat,23.1,1,4.0,Closed
+SC00354,CR0132,2025-04-20,Monetization,Chat,5.9,1,5.0,Closed
+SC00355,CR0132,2025-02-09,Monetization,Email,7.5,1,4.0,Closed
+SC00356,CR0132,2025-03-23,Monetization,Chat,32.3,0,4.0,Closed
+SC00357,CR0133,2025-05-04,Monetization,Email,14.8,1,3.0,Closed
+SC00358,CR0133,2025-02-01,Account Access,Chat,6.3,1,5.0,Closed
+SC00359,CR0133,2025-04-30,Account Access,Email,16.2,1,3.0,Closed
+SC00360,CR0133,2025-06-30,Monetization,Email,8.6,1,5.0,Closed
+SC00361,CR0134,2025-12-07,Account Access,Chat,,0,,Open
+SC00362,CR0134,2025-04-04,Policy Question,Chat,2.1,1,5.0,Closed
+SC00363,CR0135,2025-12-26,Monetization,Email,6.3,1,5.0,Closed
+SC00364,CR0136,2025-12-04,Monetization,Chat,,0,,Open
+SC00365,CR0136,2025-06-18,Technical Issue,Email,5.3,0,5.0,Closed
+SC00366,CR0136,2025-11-08,Monetization,Chat,9.4,1,4.0,Closed
+SC00367,CR0137,2025-10-15,Policy Question,Chat,27.7,1,3.0,Closed
+SC00368,CR0137,2025-09-11,Policy Question,Email,26.5,1,3.0,Closed
+SC00369,CR0138,2025-11-27,Technical Issue,Email,1.9,0,5.0,Closed
+SC00370,CR0138,2025-08-08,Monetization,Chat,5.4,1,4.0,Closed
+SC00371,CR0138,2025-08-04,Account Access,Email,15.6,1,4.0,Closed
+SC00372,CR0139,2025-02-14,Account Access,Email,4.5,0,5.0,Closed
+SC00373,CR0139,2025-11-12,Account Access,Phone,4.0,1,5.0,Closed
+SC00374,CR0139,2025-07-28,Monetization,Email,17.5,0,3.0,Closed
+SC00375,CR0139,2025-05-19,Monetization,Email,5.2,1,5.0,Closed
+SC00376,CR0140,2025-09-17,Policy Question,Email,4.9,1,5.0,Closed
+SC00377,CR0141,2025-07-30,Policy Question,Chat,4.8,0,5.0,Closed
+SC00378,CR0142,2025-08-18,Analytics Question,Chat,14.8,1,5.0,Closed
+SC00379,CR0142,2025-08-07,Account Access,Email,6.3,1,5.0,Closed
+SC00380,CR0142,2025-07-12,Monetization,Chat,14.3,1,4.0,Closed
+SC00381,CR0142,2025-12-24,Monetization,Email,14.7,1,5.0,Closed
+SC00382,CR0143,2025-04-30,Account Access,Chat,3.9,1,4.0,Closed
+SC00383,CR0143,2025-03-02,Analytics Question,Chat,3.9,0,5.0,Closed
+SC00384,CR0143,2025-04-05,Account Access,Chat,25.9,0,5.0,Closed
+SC00385,CR0144,2025-10-09,Policy Question,Chat,10.4,1,4.0,Closed
+SC00386,CR0144,2025-08-04,Monetization,Email,26.2,1,3.0,Closed
+SC00387,CR0145,2025-01-01,Monetization,Chat,12.2,1,5.0,Closed
+SC00388,CR0145,2025-03-20,Account Access,Email,10.0,1,5.0,Closed
+SC00389,CR0146,2025-06-12,Monetization,Phone,11.6,1,3.0,Closed
+SC00390,CR0146,2025-10-22,Analytics Question,Email,4.7,0,5.0,Closed
+SC00391,CR0146,2025-11-01,Policy Question,Chat,54.5,1,1.0,Closed
+SC00392,CR0146,2025-11-01,Policy Question,Chat,3.5,1,5.0,Closed
+SC00393,CR0146,2025-10-27,Account Access,Chat,28.7,1,4.0,Closed
+SC00394,CR0146,2025-01-02,Policy Question,Chat,13.8,0,4.0,Closed
+SC00395,CR0146,2025-02-07,Account Access,Email,5.5,1,4.0,Closed
+SC00396,CR0147,2025-04-02,Technical Issue,Chat,5.2,0,5.0,Closed
+SC00397,CR0147,2025-06-22,Analytics Question,Chat,18.7,1,4.0,Closed
+SC00398,CR0147,2025-06-25,Monetization,Phone,20.1,1,4.0,Closed
+SC00399,CR0147,2025-03-28,Technical Issue,Chat,5.0,1,5.0,Closed
+SC00400,CR0147,2025-11-23,Monetization,Chat,36.7,1,3.0,Closed
+SC00401,CR0149,2025-09-22,Policy Question,Email,23.8,1,4.0,Closed
+SC00402,CR0149,2025-12-19,Analytics Question,Email,17.8,1,3.0,Closed
+SC00403,CR0149,2025-08-22,Technical Issue,Email,9.0,0,5.0,Closed
+SC00404,CR0149,2025-01-04,Technical Issue,Email,9.0,1,4.0,Closed
+SC00405,CR0149,2025-05-21,Account Access,Email,,0,,Open
+SC00406,CR0150,2025-10-25,Technical Issue,Chat,12.6,0,4.0,Closed
+SC00407,CR0150,2025-06-03,Policy Question,Phone,9.5,1,5.0,Closed
+SC00408,CR0151,2025-10-23,Policy Question,Email,17.0,1,4.0,Closed
+SC00409,CR0151,2025-02-14,Account Access,Email,11.5,1,5.0,Closed
+SC00410,CR0151,2025-06-19,Policy Question,Email,13.9,1,5.0,Closed
+SC00411,CR0152,2025-11-08,Monetization,Email,4.1,1,5.0,Closed
+SC00412,CR0153,2025-11-22,Analytics Question,Email,40.4,1,2.0,Closed
+SC00413,CR0153,2025-11-28,Technical Issue,Phone,21.7,1,3.0,Closed
+SC00414,CR0153,2025-03-01,Analytics Question,Chat,12.2,1,4.0,Closed
+SC00415,CR0153,2025-12-21,Monetization,Chat,7.6,1,3.0,Closed
+SC00416,CR0154,2025-06-19,Technical Issue,Email,9.0,0,5.0,Closed
+SC00417,CR0154,2025-07-09,Analytics Question,Email,6.2,1,4.0,Closed
+SC00418,CR0154,2025-09-01,Technical Issue,Chat,,0,,Open
+SC00419,CR0154,2025-12-19,Analytics Question,Email,6.8,0,5.0,Closed
+SC00420,CR0154,2025-06-15,Policy Question,Chat,7.4,1,5.0,Closed
+SC00421,CR0155,2025-11-29,Policy Question,Email,17.4,1,3.0,Closed
+SC00422,CR0155,2025-09-10,Account Access,Email,27.0,1,5.0,Closed
+SC00423,CR0156,2025-08-01,Monetization,Chat,8.8,1,5.0,Closed
+SC00424,CR0156,2025-05-07,Monetization,Chat,21.6,1,4.0,Closed
+SC00425,CR0157,2025-03-03,Account Access,Chat,72.1,1,3.0,Closed
+SC00426,CR0157,2025-02-10,Policy Question,Email,3.9,1,5.0,Closed
+SC00427,CR0157,2025-10-03,Technical Issue,Chat,18.4,1,4.0,Closed
+SC00428,CR0157,2025-03-17,Technical Issue,Chat,33.3,0,4.0,Closed
+SC00429,CR0157,2025-11-13,Monetization,Email,23.2,1,4.0,Closed
+SC00430,CR0158,2025-07-01,Monetization,Email,10.1,1,4.0,Closed
+SC00431,CR0158,2025-01-18,Technical Issue,Chat,7.8,1,4.0,Closed
+SC00432,CR0158,2025-06-01,Analytics Question,Email,9.8,1,3.0,Closed
+SC00433,CR0159,2025-10-31,Analytics Question,Chat,13.4,0,4.0,Closed
+SC00434,CR0159,2025-11-27,Technical Issue,Phone,25.0,0,4.0,Closed
+SC00435,CR0159,2025-02-07,Monetization,Phone,3.0,0,5.0,Closed
+SC00436,CR0160,2025-10-19,Analytics Question,Phone,6.7,1,5.0,Closed
+SC00437,CR0160,2025-03-12,Technical Issue,Chat,11.9,1,4.0,Closed
+SC00438,CR0160,2025-11-29,Account Access,Email,14.9,0,3.0,Closed
+SC00439,CR0161,2025-06-29,Technical Issue,Email,9.3,1,5.0,Closed
+SC00440,CR0161,2025-05-30,Technical Issue,Phone,7.6,0,5.0,Closed
+SC00441,CR0162,2025-10-30,Analytics Question,Chat,23.8,1,3.0,Closed
+SC00442,CR0162,2025-07-05,Policy Question,Email,22.6,1,5.0,Closed
+SC00443,CR0162,2025-01-03,Monetization,Phone,8.8,0,5.0,Closed
+SC00444,CR0163,2025-11-12,Account Access,Email,31.6,1,3.0,Closed
+SC00445,CR0163,2025-11-02,Technical Issue,Phone,35.4,1,3.0,Closed
+SC00446,CR0164,2025-09-12,Account Access,Email,52.1,1,1.0,Closed
+SC00447,CR0164,2025-03-12,Account Access,Chat,1.9,1,5.0,Closed
+SC00448,CR0164,2025-11-01,Monetization,Chat,19.7,0,5.0,Closed
+SC00449,CR0165,2025-08-25,Technical Issue,Phone,20.0,1,5.0,Closed
+SC00450,CR0165,2025-08-03,Technical Issue,Chat,4.0,1,4.0,Closed
+SC00451,CR0165,2025-10-11,Monetization,Chat,16.6,1,5.0,Closed
+SC00452,CR0166,2025-05-29,Analytics Question,Email,6.3,1,5.0,Closed
+SC00453,CR0167,2025-08-20,Technical Issue,Chat,4.3,1,5.0,Closed
+SC00454,CR0168,2025-08-22,Account Access,Email,10.5,1,4.0,Closed
+SC00455,CR0168,2025-04-19,Account Access,Chat,15.8,0,4.0,Closed
+SC00456,CR0169,2025-03-11,Technical Issue,Chat,33.0,1,3.0,Closed
+SC00457,CR0169,2025-11-09,Technical Issue,Chat,5.1,1,5.0,Closed
+SC00458,CR0169,2025-05-19,Technical Issue,Chat,22.9,1,4.0,Closed
+SC00459,CR0170,2025-02-02,Analytics Question,Phone,8.3,0,4.0,Closed
+SC00460,CR0170,2025-01-11,Technical Issue,Email,11.0,1,4.0,Closed
+SC00461,CR0170,2025-04-12,Technical Issue,Email,5.4,0,5.0,Closed
+SC00462,CR0170,2025-04-03,Policy Question,Chat,21.9,1,4.0,Closed
+SC00463,CR0172,2025-08-02,Technical Issue,Chat,2.7,1,4.0,Closed
+SC00464,CR0172,2025-01-10,Technical Issue,Email,10.0,0,3.0,Closed
+SC00465,CR0173,2025-12-02,Technical Issue,Phone,7.5,0,5.0,Closed
+SC00466,CR0173,2025-10-26,Technical Issue,Chat,18.6,1,4.0,Closed
+SC00467,CR0174,2025-02-27,Policy Question,Email,7.4,1,5.0,Closed
+SC00468,CR0174,2025-07-29,Monetization,Email,23.9,0,3.0,Closed
+SC00469,CR0174,2025-11-09,Technical Issue,Chat,16.2,0,4.0,Closed
+SC00470,CR0174,2025-10-10,Technical Issue,Email,12.8,0,5.0,Closed
+SC00471,CR0175,2025-10-17,Analytics Question,Phone,5.8,0,5.0,Closed
+SC00472,CR0175,2025-10-29,Technical Issue,Chat,7.8,0,5.0,Closed
+SC00473,CR0176,2025-10-29,Policy Question,Chat,8.0,1,4.0,Closed
+SC00474,CR0176,2025-03-18,Monetization,Email,23.3,0,3.0,Closed
+SC00475,CR0176,2025-06-07,Technical Issue,Email,15.7,1,5.0,Closed
+SC00476,CR0177,2025-05-14,Monetization,Phone,19.5,1,3.0,Closed
+SC00477,CR0177,2025-02-13,Policy Question,Chat,26.7,1,3.0,Closed
+SC00478,CR0177,2025-08-02,Analytics Question,Phone,12.8,0,5.0,Closed
+SC00479,CR0178,2025-02-25,Technical Issue,Email,1.9,1,5.0,Closed
+SC00480,CR0178,2025-06-19,Policy Question,Email,11.8,1,4.0,Closed
+SC00481,CR0179,2025-03-20,Technical Issue,Email,7.9,0,5.0,Closed
+SC00482,CR0181,2025-09-26,Policy Question,Email,5.3,0,5.0,Closed
+SC00483,CR0183,2025-02-20,Monetization,Email,13.8,1,4.0,Closed
+SC00484,CR0183,2025-09-25,Account Access,Email,12.7,0,4.0,Closed
+SC00485,CR0183,2025-06-08,Monetization,Chat,12.3,0,4.0,Closed
+SC00486,CR0183,2025-03-20,Analytics Question,Phone,7.0,1,4.0,Closed
+SC00487,CR0183,2025-06-28,Monetization,Email,21.9,0,3.0,Closed
+SC00488,CR0183,2025-10-22,Technical Issue,Phone,11.3,0,3.0,Closed
+SC00489,CR0184,2025-03-28,Account Access,Email,,0,,Open
+SC00490,CR0185,2025-08-15,Analytics Question,Email,7.1,1,5.0,Closed
+SC00491,CR0186,2025-01-21,Policy Question,Phone,19.9,1,5.0,Closed
+SC00492,CR0186,2025-05-06,Policy Question,Chat,11.2,1,5.0,Closed
+SC00493,CR0186,2025-03-05,Monetization,Email,23.3,1,4.0,Closed
+SC00494,CR0187,2025-11-11,Technical Issue,Email,32.2,0,3.0,Closed
+SC00495,CR0188,2025-08-29,Analytics Question,Email,3.2,1,3.0,Closed
+SC00496,CR0190,2025-12-01,Technical Issue,Email,9.7,1,5.0,Closed
+SC00497,CR0190,2025-09-25,Policy Question,Chat,19.3,1,2.0,Closed
+SC00498,CR0190,2025-07-31,Account Access,Chat,14.4,1,5.0,Closed
+SC00499,CR0190,2025-04-01,Technical Issue,Email,15.2,1,5.0,Closed
+SC00500,CR0190,2025-02-11,Technical Issue,Chat,7.5,1,5.0,Closed
+SC00501,CR0191,2025-03-30,Policy Question,Phone,6.2,1,5.0,Closed
+SC00502,CR0191,2025-10-22,Monetization,Phone,6.5,1,4.0,Closed
+SC00503,CR0192,2025-03-12,Policy Question,Phone,40.9,1,3.0,Closed
+SC00504,CR0194,2025-08-20,Technical Issue,Email,33.1,1,4.0,Closed
+SC00505,CR0194,2025-09-15,Account Access,Email,1.5,1,4.0,Closed
+SC00506,CR0194,2025-07-28,Analytics Question,Email,9.5,0,5.0,Closed
+SC00507,CR0194,2025-12-01,Policy Question,Chat,10.3,1,3.0,Closed
+SC00508,CR0194,2025-03-18,Policy Question,Email,21.8,1,5.0,Closed
+SC00509,CR0195,2025-07-19,Monetization,Chat,19.9,0,4.0,Closed
+SC00510,CR0196,2025-04-20,Monetization,Chat,,0,,Open
+SC00511,CR0196,2025-11-25,Monetization,Phone,21.0,1,5.0,Closed
+SC00512,CR0198,2025-02-08,Policy Question,Email,4.7,1,5.0,Closed
+SC00513,CR0198,2025-05-26,Monetization,Chat,3.3,1,5.0,Closed
+SC00514,CR0198,2025-04-12,Analytics Question,Chat,11.7,1,4.0,Closed
+SC00515,CR0199,2025-06-09,Technical Issue,Phone,28.3,1,3.0,Closed
+SC00516,CR0200,2025-08-30,Monetization,Email,4.1,1,4.0,Closed
+SC00517,CR0200,2025-02-02,Monetization,Email,4.2,0,5.0,Closed
+SC00518,CR0200,2025-04-15,Analytics Question,Email,13.9,0,5.0,Closed
+SC00519,CR0200,2025-08-19,Monetization,Chat,10.7,1,5.0,Closed
+SC00520,CR0200,2025-02-23,Policy Question,Email,27.8,1,4.0,Closed
+SC00521,CR0200,2025-09-07,Account Access,Chat,9.8,1,5.0,Closed
+SC00522,CR0201,2025-10-08,Analytics Question,Email,9.1,1,4.0,Closed
+SC00523,CR0201,2025-04-20,Policy Question,Phone,8.5,0,5.0,Closed
+SC00524,CR0202,2025-07-25,Monetization,Email,10.4,0,4.0,Closed
+SC00525,CR0202,2025-02-17,Monetization,Email,18.5,0,4.0,Closed
+SC00526,CR0202,2025-08-21,Account Access,Phone,25.1,0,4.0,Closed
+SC00527,CR0202,2025-03-21,Technical Issue,Email,7.1,1,4.0,Closed
+SC00528,CR0203,2025-11-09,Analytics Question,Chat,6.3,0,4.0,Closed
+SC00529,CR0203,2025-01-03,Monetization,Chat,8.1,0,5.0,Closed
+SC00530,CR0203,2025-02-13,Account Access,Email,7.0,1,5.0,Closed
+SC00531,CR0204,2025-10-12,Policy Question,Email,11.4,1,5.0,Closed
+SC00532,CR0205,2025-11-01,Technical Issue,Phone,6.3,1,5.0,Closed
+SC00533,CR0205,2025-01-21,Monetization,Email,26.8,0,4.0,Closed
+SC00534,CR0206,2025-05-01,Monetization,Phone,16.6,1,4.0,Closed
+SC00535,CR0206,2025-02-26,Policy Question,Phone,9.7,1,4.0,Closed
+SC00536,CR0207,2025-07-21,Policy Question,Email,13.2,1,4.0,Closed
+SC00537,CR0208,2025-02-27,Account Access,Phone,4.2,1,5.0,Closed
+SC00538,CR0208,2025-09-16,Account Access,Phone,14.7,1,4.0,Closed
+SC00539,CR0209,2025-08-11,Monetization,Email,37.0,1,2.0,Closed
+SC00540,CR0209,2025-12-14,Policy Question,Chat,5.9,1,4.0,Closed
+SC00541,CR0209,2025-07-24,Account Access,Email,2.0,1,5.0,Closed
+SC00542,CR0209,2025-01-19,Monetization,Chat,11.2,1,4.0,Closed
+SC00543,CR0210,2025-10-31,Monetization,Chat,10.0,1,5.0,Closed
+SC00544,CR0210,2025-04-04,Technical Issue,Chat,6.0,1,5.0,Closed
+SC00545,CR0210,2025-12-24,Analytics Question,Email,22.0,1,3.0,Closed
+SC00546,CR0211,2025-09-22,Analytics Question,Email,1.9,1,5.0,Closed
+SC00547,CR0211,2025-11-17,Analytics Question,Email,7.6,1,5.0,Closed
+SC00548,CR0212,2025-06-11,Monetization,Chat,26.0,1,5.0,Closed
+SC00549,CR0212,2025-05-28,Monetization,Chat,5.9,0,5.0,Closed
+SC00550,CR0212,2025-05-19,Technical Issue,Email,29.3,0,4.0,Closed
+SC00551,CR0212,2025-01-15,Monetization,Chat,10.8,1,4.0,Closed
+SC00552,CR0213,2025-11-30,Monetization,Chat,25.5,1,4.0,Closed
+SC00553,CR0213,2025-09-06,Technical Issue,Email,9.6,0,5.0,Closed
+SC00554,CR0213,2025-06-15,Account Access,Email,7.4,1,5.0,Closed
+SC00555,CR0213,2025-03-24,Technical Issue,Chat,4.7,1,5.0,Closed
+SC00556,CR0213,2025-05-27,Analytics Question,Email,7.1,1,3.0,Closed
+SC00557,CR0213,2025-05-05,Policy Question,Phone,5.7,1,5.0,Closed
+SC00558,CR0213,2025-03-27,Account Access,Email,4.7,1,4.0,Closed
+SC00559,CR0214,2025-08-04,Account Access,Chat,8.8,1,4.0,Closed
+SC00560,CR0214,2025-03-06,Technical Issue,Email,20.4,0,4.0,Closed
+SC00561,CR0214,2025-07-06,Account Access,Email,6.5,1,5.0,Closed
+SC00562,CR0215,2025-11-06,Policy Question,Email,8.4,0,4.0,Closed
+SC00563,CR0215,2025-02-20,Technical Issue,Phone,6.7,1,5.0,Closed
+SC00564,CR0215,2025-01-06,Technical Issue,Email,3.4,1,5.0,Closed
+SC00565,CR0215,2025-07-13,Analytics Question,Email,6.7,1,5.0,Closed
+SC00566,CR0216,2025-12-01,Monetization,Chat,15.2,1,5.0,Closed
+SC00567,CR0216,2025-01-10,Technical Issue,Chat,18.3,0,3.0,Closed
+SC00568,CR0216,2025-10-22,Technical Issue,Phone,4.2,1,4.0,Closed
+SC00569,CR0216,2025-08-23,Monetization,Email,18.0,1,4.0,Closed
+SC00570,CR0217,2025-08-21,Analytics Question,Email,18.6,1,4.0,Closed
+SC00571,CR0218,2025-02-02,Technical Issue,Email,3.3,0,5.0,Closed
+SC00572,CR0218,2025-09-29,Policy Question,Phone,8.1,1,5.0,Closed
+SC00573,CR0218,2025-07-22,Monetization,Chat,56.3,0,2.0,Closed
+SC00574,CR0218,2025-07-13,Monetization,Chat,37.1,0,2.0,Closed
+SC00575,CR0218,2025-03-20,Technical Issue,Chat,9.2,0,5.0,Closed
+SC00576,CR0218,2025-11-11,Technical Issue,Phone,21.1,1,4.0,Closed
+SC00577,CR0219,2025-01-07,Technical Issue,Chat,6.3,1,5.0,Closed
+SC00578,CR0219,2025-08-28,Monetization,Email,13.4,0,3.0,Closed
+SC00579,CR0219,2025-10-31,Analytics Question,Chat,2.0,1,5.0,Closed
+SC00580,CR0220,2025-10-14,Policy Question,Chat,13.2,0,5.0,Closed
+SC00581,CR0220,2025-03-13,Monetization,Email,26.0,0,4.0,Closed
+SC00582,CR0220,2025-04-03,Analytics Question,Email,6.9,0,5.0,Closed
+SC00583,CR0220,2025-10-04,Technical Issue,Phone,16.6,1,4.0,Closed
+SC00584,CR0221,2025-02-17,Technical Issue,Chat,12.2,1,4.0,Closed
+SC00585,CR0221,2025-08-15,Analytics Question,Phone,8.0,1,4.0,Closed
+SC00586,CR0221,2025-04-07,Technical Issue,Phone,11.0,0,5.0,Closed
+SC00587,CR0221,2025-06-13,Policy Question,Email,7.6,1,3.0,Closed
+SC00588,CR0221,2025-08-23,Account Access,Email,6.0,1,5.0,Closed
+SC00589,CR0222,2025-04-22,Monetization,Email,8.5,0,5.0,Closed
+SC00590,CR0222,2025-03-14,Monetization,Chat,13.4,1,4.0,Closed
+SC00591,CR0222,2025-02-04,Policy Question,Chat,,0,,Open
+SC00592,CR0223,2025-04-26,Monetization,Chat,35.6,1,4.0,Closed
+SC00593,CR0223,2025-12-20,Monetization,Email,34.2,1,3.0,Closed
+SC00594,CR0225,2025-11-18,Analytics Question,Chat,1.6,0,5.0,Closed
+SC00595,CR0225,2025-09-16,Technical Issue,Email,9.3,0,5.0,Closed
+SC00596,CR0225,2025-01-10,Technical Issue,Email,40.0,1,3.0,Closed
+SC00597,CR0225,2025-01-13,Account Access,Email,12.1,0,4.0,Closed
+SC00598,CR0225,2025-07-08,Monetization,Chat,6.1,1,4.0,Closed
+SC00599,CR0225,2025-08-10,Monetization,Email,6.8,1,5.0,Closed
+SC00600,CR0226,2025-06-11,Analytics Question,Phone,4.8,1,5.0,Closed
+SC00601,CR0226,2025-04-13,Monetization,Phone,2.2,1,5.0,Closed
+SC00602,CR0227,2025-10-02,Technical Issue,Email,26.0,1,4.0,Closed
+SC00603,CR0227,2025-10-03,Technical Issue,Email,5.4,1,5.0,Closed
+SC00604,CR0228,2025-03-12,Technical Issue,Phone,9.5,1,4.0,Closed
+SC00605,CR0228,2025-02-21,Monetization,Chat,8.1,1,5.0,Closed
+SC00606,CR0228,2025-03-20,Account Access,Chat,7.0,1,4.0,Closed
+SC00607,CR0228,2025-05-23,Account Access,Chat,12.0,1,5.0,Closed
+SC00608,CR0229,2025-04-02,Analytics Question,Phone,9.1,0,5.0,Closed
+SC00609,CR0230,2025-09-23,Technical Issue,Email,11.0,1,5.0,Closed
+SC00610,CR0230,2025-08-28,Account Access,Email,6.1,0,5.0,Closed
+SC00611,CR0230,2025-08-01,Technical Issue,Chat,4.7,1,4.0,Closed
+SC00612,CR0230,2025-07-28,Technical Issue,Email,,0,,Open
+SC00613,CR0231,2025-08-30,Account Access,Chat,,0,,Open
+SC00614,CR0231,2025-05-21,Monetization,Email,5.2,0,5.0,Closed
+SC00615,CR0231,2025-05-12,Technical Issue,Phone,6.5,1,5.0,Closed
+SC00616,CR0231,2025-05-16,Monetization,Chat,16.0,0,5.0,Closed
+SC00617,CR0231,2025-12-16,Technical Issue,Chat,13.4,1,3.0,Closed
+SC00618,CR0232,2025-03-13,Policy Question,Chat,2.6,1,5.0,Closed
+SC00619,CR0233,2025-09-09,Monetization,Chat,,0,,Open
+SC00620,CR0233,2025-07-11,Technical Issue,Chat,14.4,1,4.0,Closed
+SC00621,CR0233,2025-02-24,Analytics Question,Phone,10.8,0,5.0,Closed
+SC00622,CR0233,2025-04-22,Technical Issue,Chat,9.3,1,5.0,Closed
+SC00623,CR0233,2025-08-23,Account Access,Email,21.5,1,4.0,Closed
+SC00624,CR0234,2025-11-17,Technical Issue,Email,12.4,0,4.0,Closed
+SC00625,CR0234,2025-05-18,Monetization,Email,9.8,1,4.0,Closed
+SC00626,CR0235,2025-01-16,Analytics Question,Chat,8.6,0,3.0,Closed
+SC00627,CR0235,2025-10-03,Monetization,Chat,6.0,1,5.0,Closed
+SC00628,CR0235,2025-07-23,Monetization,Email,18.5,1,4.0,Closed
+SC00629,CR0237,2025-09-08,Technical Issue,Phone,8.6,1,5.0,Closed
+SC00630,CR0237,2025-06-01,Policy Question,Phone,19.6,1,5.0,Closed
+SC00631,CR0237,2025-09-07,Policy Question,Chat,1.7,1,4.0,Closed
+SC00632,CR0237,2025-08-18,Technical Issue,Email,17.4,0,3.0,Closed
+SC00633,CR0238,2025-04-20,Monetization,Phone,10.9,0,4.0,Closed
+SC00634,CR0238,2025-04-30,Policy Question,Chat,45.1,0,2.0,Closed
+SC00635,CR0239,2025-07-23,Analytics Question,Email,13.5,1,4.0,Closed
+SC00636,CR0239,2025-09-07,Policy Question,Chat,5.8,0,5.0,Closed
+SC00637,CR0240,2025-08-29,Monetization,Phone,26.9,1,4.0,Closed
+SC00638,CR0241,2025-02-02,Account Access,Phone,,0,,Open
+SC00639,CR0242,2025-09-29,Account Access,Email,33.4,1,4.0,Closed
+SC00640,CR0242,2025-08-18,Account Access,Email,24.3,1,3.0,Closed
+SC00641,CR0242,2025-05-31,Account Access,Email,2.8,1,5.0,Closed
+SC00642,CR0242,2025-09-02,Account Access,Chat,22.6,1,3.0,Closed
+SC00643,CR0242,2025-05-30,Technical Issue,Email,,0,,Open
+SC00644,CR0242,2025-03-19,Technical Issue,Chat,39.0,1,2.0,Closed
+SC00645,CR0243,2025-02-25,Account Access,Phone,8.5,1,5.0,Closed
+SC00646,CR0244,2025-05-08,Account Access,Chat,18.1,1,4.0,Closed
+SC00647,CR0245,2025-12-06,Account Access,Email,4.7,0,4.0,Closed
+SC00648,CR0245,2025-06-01,Monetization,Email,19.9,1,4.0,Closed
+SC00649,CR0246,2025-06-09,Account Access,Chat,3.7,1,4.0,Closed
+SC00650,CR0246,2025-02-28,Account Access,Email,3.3,1,4.0,Closed
+SC00651,CR0246,2025-10-06,Monetization,Email,26.3,1,3.0,Closed
+SC00652,CR0246,2025-05-06,Technical Issue,Phone,7.5,1,4.0,Closed
+SC00653,CR0246,2025-09-01,Account Access,Chat,7.4,1,4.0,Closed
+SC00654,CR0246,2025-12-05,Monetization,Phone,15.0,1,5.0,Closed
+SC00655,CR0248,2025-05-23,Technical Issue,Chat,2.7,1,4.0,Closed
+SC00656,CR0248,2025-08-01,Monetization,Email,4.5,1,5.0,Closed
+SC00657,CR0248,2025-06-15,Technical Issue,Email,2.0,0,5.0,Closed
+SC00658,CR0248,2025-09-30,Analytics Question,Chat,2.4,0,5.0,Closed
+SC00659,CR0249,2025-12-05,Policy Question,Chat,7.4,0,5.0,Closed
+SC00660,CR0249,2025-02-11,Technical Issue,Chat,,0,,Open
+SC00661,CR0249,2025-02-24,Monetization,Chat,17.7,0,4.0,Closed
+SC00662,CR0249,2025-11-30,Technical Issue,Phone,12.6,1,5.0,Closed
+SC00663,CR0250,2025-09-09,Analytics Question,Phone,8.6,0,5.0,Closed
+SC00664,CR0250,2025-11-17,Policy Question,Email,20.9,1,4.0,Closed
+SC00665,CR0250,2025-12-29,Account Access,Email,10.6,0,5.0,Closed
+SC00666,CR0250,2025-05-06,Monetization,Phone,8.6,0,5.0,Closed
+SC00667,CR0251,2025-10-24,Policy Question,Email,9.6,1,5.0,Closed
+SC00668,CR0251,2025-07-05,Analytics Question,Phone,,0,,Open
+SC00669,CR0251,2025-05-11,Policy Question,Chat,,0,,Open
+SC00670,CR0251,2025-06-02,Monetization,Email,7.3,0,5.0,Closed
+SC00671,CR0252,2025-06-12,Analytics Question,Email,5.5,1,5.0,Closed
+SC00672,CR0252,2025-08-18,Account Access,Chat,6.5,1,5.0,Closed
+SC00673,CR0253,2025-08-22,Analytics Question,Chat,,0,,Open
+SC00674,CR0253,2025-02-04,Technical Issue,Email,12.0,1,3.0,Closed
+SC00675,CR0253,2025-11-20,Technical Issue,Chat,13.8,1,5.0,Closed
+SC00676,CR0253,2025-05-31,Account Access,Phone,8.1,1,5.0,Closed
+SC00677,CR0254,2025-11-24,Account Access,Phone,4.4,0,5.0,Closed
+SC00678,CR0254,2025-08-12,Monetization,Email,21.6,1,4.0,Closed
+SC00679,CR0254,2025-01-30,Account Access,Chat,7.8,0,4.0,Closed
+SC00680,CR0255,2025-02-08,Monetization,Email,10.7,1,5.0,Closed
+SC00681,CR0255,2025-03-18,Policy Question,Chat,17.2,0,4.0,Closed
+SC00682,CR0256,2025-02-04,Monetization,Email,5.5,1,5.0,Closed
+SC00683,CR0256,2025-04-30,Analytics Question,Phone,7.9,1,5.0,Closed
+SC00684,CR0256,2025-10-01,Policy Question,Chat,18.2,0,5.0,Closed
+SC00685,CR0256,2025-02-21,Analytics Question,Email,5.6,1,5.0,Closed
+SC00686,CR0256,2025-10-15,Account Access,Email,12.9,1,4.0,Closed
+SC00687,CR0257,2025-03-03,Policy Question,Phone,,0,,Open
+SC00688,CR0257,2025-01-29,Account Access,Chat,,0,,Open
+SC00689,CR0257,2025-05-14,Technical Issue,Email,,0,,Open
+SC00690,CR0257,2025-08-08,Monetization,Chat,8.7,0,5.0,Closed
+SC00691,CR0257,2025-12-27,Analytics Question,Chat,9.1,1,5.0,Closed
+SC00692,CR0258,2025-08-15,Technical Issue,Email,8.1,1,5.0,Closed
+SC00693,CR0258,2025-11-01,Policy Question,Email,5.9,0,5.0,Closed
+SC00694,CR0259,2025-07-24,Analytics Question,Chat,24.1,1,4.0,Closed
+SC00695,CR0259,2025-09-18,Monetization,Chat,,0,,Open
+SC00696,CR0259,2025-04-04,Analytics Question,Email,4.5,0,5.0,Closed
+SC00697,CR0260,2025-06-25,Analytics Question,Email,5.5,0,4.0,Closed
+SC00698,CR0260,2025-01-10,Monetization,Chat,11.3,1,5.0,Closed
+SC00699,CR0261,2025-09-08,Technical Issue,Phone,25.7,1,3.0,Closed
+SC00700,CR0261,2025-09-27,Analytics Question,Chat,,0,,Open
+SC00701,CR0261,2025-02-04,Policy Question,Phone,9.5,1,5.0,Closed
+SC00702,CR0261,2025-10-02,Account Access,Chat,4.4,1,5.0,Closed
+SC00703,CR0262,2025-02-04,Technical Issue,Chat,13.7,0,4.0,Closed
+SC00704,CR0262,2025-04-10,Monetization,Chat,47.0,1,3.0,Closed
+SC00705,CR0262,2025-06-13,Monetization,Email,8.3,0,5.0,Closed
+SC00706,CR0262,2025-09-06,Monetization,Chat,7.0,1,5.0,Closed
+SC00707,CR0262,2025-04-17,Analytics Question,Phone,14.9,1,5.0,Closed
+SC00708,CR0263,2025-05-23,Account Access,Email,5.6,1,5.0,Closed
+SC00709,CR0263,2025-12-12,Technical Issue,Chat,10.7,0,4.0,Closed
+SC00710,CR0263,2025-08-10,Technical Issue,Email,16.4,1,5.0,Closed
+SC00711,CR0263,2025-09-26,Technical Issue,Chat,15.3,1,5.0,Closed
+SC00712,CR0263,2025-06-02,Account Access,Phone,9.2,1,5.0,Closed
+SC00713,CR0263,2025-09-13,Analytics Question,Email,26.7,0,3.0,Closed
+SC00714,CR0264,2025-06-01,Monetization,Phone,14.8,1,3.0,Closed
+SC00715,CR0264,2025-07-10,Analytics Question,Chat,3.2,1,5.0,Closed
+SC00716,CR0264,2025-11-18,Policy Question,Email,20.0,0,4.0,Closed
+SC00717,CR0264,2025-01-13,Analytics Question,Email,15.9,0,4.0,Closed
+SC00718,CR0264,2025-04-19,Technical Issue,Email,23.5,0,4.0,Closed
+SC00719,CR0265,2025-02-19,Account Access,Email,23.1,0,4.0,Closed
+SC00720,CR0265,2025-05-21,Monetization,Email,13.6,0,3.0,Closed
+SC00721,CR0265,2025-06-11,Technical Issue,Chat,3.5,0,5.0,Closed
+SC00722,CR0266,2025-10-16,Monetization,Email,3.8,1,5.0,Closed
+SC00723,CR0266,2025-09-07,Monetization,Email,6.8,0,4.0,Closed
+SC00724,CR0267,2025-09-15,Technical Issue,Phone,2.8,1,5.0,Closed
+SC00725,CR0267,2025-02-25,Technical Issue,Chat,9.6,1,4.0,Closed
+SC00726,CR0267,2025-12-27,Policy Question,Email,3.1,0,5.0,Closed
+SC00727,CR0267,2025-03-31,Account Access,Email,46.7,1,2.0,Closed
+SC00728,CR0267,2025-02-23,Account Access,Chat,9.7,1,3.0,Closed
+SC00729,CR0267,2025-09-28,Policy Question,Email,23.6,0,4.0,Closed
+SC00730,CR0268,2025-03-14,Account Access,Phone,23.5,1,5.0,Closed
+SC00731,CR0268,2025-10-07,Policy Question,Phone,13.6,0,5.0,Closed
+SC00732,CR0269,2025-07-09,Technical Issue,Chat,,0,,Open
+SC00733,CR0269,2025-08-17,Policy Question,Chat,7.1,1,4.0,Closed
+SC00734,CR0271,2025-01-11,Monetization,Email,19.6,0,4.0,Closed
+SC00735,CR0271,2025-08-11,Account Access,Email,17.6,1,5.0,Closed
+SC00736,CR0273,2025-01-12,Analytics Question,Chat,2.2,1,5.0,Closed
+SC00737,CR0273,2025-10-01,Account Access,Phone,17.5,1,4.0,Closed
+SC00738,CR0273,2025-11-08,Policy Question,Email,5.7,1,5.0,Closed
+SC00739,CR0274,2025-02-15,Monetization,Chat,7.6,1,4.0,Closed
+SC00740,CR0274,2025-07-04,Monetization,Chat,14.3,1,3.0,Closed
+SC00741,CR0274,2025-02-13,Policy Question,Phone,,0,,Open
+SC00742,CR0274,2025-08-12,Policy Question,Email,26.5,0,5.0,Closed
+SC00743,CR0274,2025-10-20,Policy Question,Chat,7.9,1,5.0,Closed
+SC00744,CR0274,2025-08-22,Account Access,Email,16.4,0,4.0,Closed
+SC00745,CR0276,2025-10-22,Analytics Question,Email,3.1,0,5.0,Closed
+SC00746,CR0276,2025-03-30,Technical Issue,Email,15.1,1,4.0,Closed
+SC00747,CR0276,2025-11-28,Technical Issue,Phone,13.4,0,4.0,Closed
+SC00748,CR0276,2025-06-11,Monetization,Email,17.2,1,4.0,Closed
+SC00749,CR0277,2025-12-29,Monetization,Email,10.6,1,4.0,Closed
+SC00750,CR0277,2025-03-18,Policy Question,Chat,8.3,1,5.0,Closed
+SC00751,CR0277,2025-06-22,Technical Issue,Email,16.3,1,4.0,Closed
+SC00752,CR0278,2025-12-03,Account Access,Phone,8.8,0,5.0,Closed
+SC00753,CR0278,2025-07-30,Analytics Question,Chat,3.3,0,5.0,Closed
+SC00754,CR0278,2025-08-03,Policy Question,Email,20.7,1,4.0,Closed
+SC00755,CR0279,2025-10-03,Monetization,Email,5.4,1,5.0,Closed
+SC00756,CR0279,2025-01-28,Technical Issue,Email,7.1,1,4.0,Closed
+SC00757,CR0280,2025-04-03,Analytics Question,Email,4.1,0,4.0,Closed
+SC00758,CR0280,2025-09-05,Monetization,Chat,21.6,1,3.0,Closed
+SC00759,CR0281,2025-09-10,Account Access,Chat,5.1,0,4.0,Closed
+SC00760,CR0281,2025-06-04,Technical Issue,Chat,,0,,Open
+SC00761,CR0281,2025-02-22,Analytics Question,Email,4.5,1,5.0,Closed
+SC00762,CR0281,2025-01-07,Monetization,Chat,7.7,1,4.0,Closed
+SC00763,CR0281,2025-11-06,Monetization,Email,12.2,1,5.0,Closed
+SC00764,CR0282,2025-01-19,Analytics Question,Phone,8.7,1,4.0,Closed
+SC00765,CR0282,2025-07-11,Analytics Question,Phone,3.2,0,5.0,Closed
+SC00766,CR0282,2025-05-25,Technical Issue,Email,3.5,1,4.0,Closed
+SC00767,CR0282,2025-01-31,Policy Question,Email,19.9,1,5.0,Closed
+SC00768,CR0282,2025-11-26,Account Access,Phone,5.6,1,4.0,Closed
+SC00769,CR0282,2025-12-08,Technical Issue,Phone,3.2,1,5.0,Closed
+SC00770,CR0283,2025-03-08,Technical Issue,Email,9.0,1,5.0,Closed
+SC00771,CR0283,2025-10-09,Account Access,Phone,9.6,1,4.0,Closed
+SC00772,CR0283,2025-12-11,Policy Question,Chat,9.6,1,5.0,Closed
+SC00773,CR0283,2025-07-22,Technical Issue,Email,22.1,0,4.0,Closed
+SC00774,CR0283,2025-04-27,Account Access,Phone,18.8,1,4.0,Closed
+SC00775,CR0284,2025-07-14,Monetization,Phone,37.7,0,3.0,Closed
+SC00776,CR0284,2025-11-10,Policy Question,Email,7.1,1,4.0,Closed
+SC00777,CR0285,2025-09-11,Analytics Question,Phone,13.0,0,5.0,Closed
+SC00778,CR0285,2025-02-21,Technical Issue,Email,4.8,0,4.0,Closed
+SC00779,CR0286,2025-07-20,Analytics Question,Email,7.3,1,4.0,Closed
+SC00780,CR0286,2025-10-17,Policy Question,Email,17.3,1,3.0,Closed
+SC00781,CR0286,2025-11-21,Policy Question,Phone,9.9,1,4.0,Closed
+SC00782,CR0287,2025-08-16,Technical Issue,Email,13.3,1,5.0,Closed
+SC00783,CR0287,2025-04-15,Policy Question,Phone,14.3,1,4.0,Closed
+SC00784,CR0287,2025-06-27,Analytics Question,Chat,7.1,1,5.0,Closed
+SC00785,CR0288,2025-11-16,Monetization,Email,27.2,0,4.0,Closed
+SC00786,CR0288,2025-10-25,Policy Question,Phone,10.7,1,4.0,Closed
+SC00787,CR0289,2025-08-06,Account Access,Phone,3.4,0,5.0,Closed
+SC00788,CR0289,2025-05-12,Account Access,Chat,7.4,0,5.0,Closed
+SC00789,CR0289,2025-06-19,Technical Issue,Chat,11.2,1,4.0,Closed
+SC00790,CR0289,2025-05-06,Analytics Question,Chat,3.7,1,4.0,Closed
+SC00791,CR0290,2025-08-15,Policy Question,Chat,11.1,0,4.0,Closed
+SC00792,CR0291,2025-01-16,Technical Issue,Phone,2.7,1,5.0,Closed
+SC00793,CR0291,2025-08-15,Account Access,Email,9.4,1,4.0,Closed
+SC00794,CR0291,2025-11-04,Monetization,Email,27.9,0,4.0,Closed
+SC00795,CR0292,2025-09-21,Technical Issue,Email,14.9,1,5.0,Closed
+SC00796,CR0292,2025-11-19,Technical Issue,Phone,2.4,1,5.0,Closed
+SC00797,CR0293,2025-04-29,Analytics Question,Chat,23.8,0,3.0,Closed
+SC00798,CR0294,2025-11-12,Technical Issue,Email,13.6,0,4.0,Closed
+SC00799,CR0294,2025-08-31,Policy Question,Chat,15.6,1,4.0,Closed
+SC00800,CR0294,2025-03-02,Monetization,Email,13.4,1,3.0,Closed
+SC00801,CR0294,2025-12-12,Monetization,Email,12.2,1,4.0,Closed
+SC00802,CR0294,2025-02-16,Monetization,Phone,16.0,0,4.0,Closed
+SC00803,CR0294,2025-07-16,Account Access,Phone,3.5,1,5.0,Closed
+SC00804,CR0294,2025-03-09,Account Access,Chat,6.5,1,5.0,Closed
+SC00805,CR0294,2025-07-03,Technical Issue,Email,16.2,1,4.0,Closed
+SC00806,CR0295,2025-07-25,Monetization,Phone,10.9,1,5.0,Closed
+SC00807,CR0296,2025-07-23,Monetization,Chat,9.0,1,4.0,Closed
+SC00808,CR0296,2025-10-25,Monetization,Phone,14.9,1,4.0,Closed
+SC00809,CR0296,2025-11-24,Technical Issue,Phone,9.9,1,5.0,Closed
+SC00810,CR0297,2025-08-03,Policy Question,Phone,5.4,1,5.0,Closed
+SC00811,CR0297,2025-12-13,Technical Issue,Chat,4.6,1,5.0,Closed
+SC00812,CR0297,2025-11-10,Policy Question,Email,8.3,1,4.0,Closed
+SC00813,CR0298,2025-05-08,Monetization,Chat,42.9,1,2.0,Closed
+SC00814,CR0298,2025-05-19,Analytics Question,Phone,3.5,0,5.0,Closed
+SC00815,CR0298,2025-06-11,Technical Issue,Chat,26.4,0,3.0,Closed
+SC00816,CR0299,2025-12-16,Analytics Question,Chat,2.4,0,4.0,Closed
+SC00817,CR0299,2025-08-07,Account Access,Phone,6.0,1,4.0,Closed
+SC00818,CR0300,2025-06-01,Analytics Question,Email,27.0,0,4.0,Closed
+SC00819,CR0300,2025-03-25,Monetization,Chat,15.3,1,4.0,Closed
+SC00820,CR0300,2025-03-15,Technical Issue,Chat,4.7,1,5.0,Closed
+SC00821,CR0300,2025-04-12,Monetization,Phone,33.7,1,3.0,Closed
+SC00822,CR0300,2025-09-14,Policy Question,Email,10.9,1,5.0,Closed
+SC00823,CR0301,2025-05-27,Account Access,Email,12.7,1,5.0,Closed
+SC00824,CR0301,2025-09-20,Technical Issue,Chat,8.3,0,5.0,Closed
+SC00825,CR0301,2025-08-29,Technical Issue,Email,5.9,1,5.0,Closed
+SC00826,CR0301,2025-02-17,Monetization,Phone,31.5,1,3.0,Closed
+SC00827,CR0301,2025-03-22,Analytics Question,Chat,6.7,1,4.0,Closed
+SC00828,CR0304,2025-09-19,Technical Issue,Email,21.9,1,4.0,Closed
+SC00829,CR0305,2025-03-13,Technical Issue,Email,4.3,0,5.0,Closed
+SC00830,CR0305,2025-08-24,Analytics Question,Email,5.4,0,5.0,Closed
+SC00831,CR0305,2025-05-22,Monetization,Phone,21.1,1,3.0,Closed
+SC00832,CR0305,2025-10-29,Technical Issue,Phone,10.0,1,5.0,Closed
+SC00833,CR0306,2025-02-27,Policy Question,Phone,5.1,1,5.0,Closed
+SC00834,CR0306,2025-10-28,Account Access,Email,2.5,1,4.0,Closed
+SC00835,CR0306,2025-05-18,Technical Issue,Email,7.8,1,4.0,Closed
+SC00836,CR0306,2025-06-30,Monetization,Chat,,0,,Open
+SC00837,CR0306,2025-01-25,Policy Question,Email,4.3,1,5.0,Closed
+SC00838,CR0308,2025-09-27,Policy Question,Phone,4.2,0,5.0,Closed
+SC00839,CR0308,2025-12-21,Monetization,Email,10.9,1,4.0,Closed
+SC00840,CR0308,2025-04-16,Monetization,Email,4.6,0,5.0,Closed
+SC00841,CR0308,2025-09-09,Technical Issue,Phone,21.4,0,4.0,Closed
+SC00842,CR0309,2025-03-30,Monetization,Email,2.8,1,4.0,Closed
+SC00843,CR0309,2025-04-27,Monetization,Email,11.1,1,4.0,Closed
+SC00844,CR0310,2025-08-26,Policy Question,Chat,10.4,1,4.0,Closed
+SC00845,CR0310,2025-12-27,Monetization,Email,13.6,1,5.0,Closed
+SC00846,CR0310,2025-02-07,Monetization,Chat,7.0,1,5.0,Closed
+SC00847,CR0311,2025-02-20,Account Access,Phone,10.8,0,5.0,Closed
+SC00848,CR0311,2025-04-12,Technical Issue,Phone,10.0,1,5.0,Closed
+SC00849,CR0312,2025-04-22,Policy Question,Email,3.2,0,5.0,Closed
+SC00850,CR0312,2025-09-05,Monetization,Phone,9.6,0,5.0,Closed
+SC00851,CR0312,2025-03-01,Technical Issue,Email,5.6,1,5.0,Closed
+SC00852,CR0314,2025-06-28,Monetization,Chat,3.0,1,4.0,Closed
+SC00853,CR0314,2025-10-27,Monetization,Chat,10.7,0,4.0,Closed
+SC00854,CR0314,2025-03-04,Account Access,Phone,6.7,1,5.0,Closed
+SC00855,CR0315,2025-12-29,Policy Question,Email,,0,,Open
+SC00856,CR0315,2025-05-16,Policy Question,Chat,23.4,1,4.0,Closed
+SC00857,CR0316,2025-02-28,Analytics Question,Phone,8.9,1,5.0,Closed
+SC00858,CR0317,2025-08-17,Technical Issue,Email,21.1,0,5.0,Closed
+SC00859,CR0317,2025-05-23,Analytics Question,Phone,11.5,1,4.0,Closed
+SC00860,CR0317,2025-07-10,Analytics Question,Chat,8.2,0,5.0,Closed
+SC00861,CR0318,2025-02-22,Technical Issue,Phone,1.8,0,5.0,Closed
+SC00862,CR0318,2025-10-11,Monetization,Email,10.2,1,4.0,Closed
+SC00863,CR0318,2025-08-29,Technical Issue,Chat,15.2,1,4.0,Closed
+SC00864,CR0318,2025-09-27,Policy Question,Chat,6.8,1,5.0,Closed
+SC00865,CR0318,2025-05-02,Monetization,Email,29.5,1,5.0,Closed
+SC00866,CR0319,2025-06-25,Technical Issue,Email,4.7,0,3.0,Closed
+SC00867,CR0319,2025-12-30,Technical Issue,Phone,48.3,1,3.0,Closed
+SC00868,CR0319,2025-06-12,Technical Issue,Email,22.0,1,4.0,Closed
+SC00869,CR0319,2025-01-10,Policy Question,Email,8.6,1,5.0,Closed
+SC00870,CR0320,2025-08-02,Policy Question,Chat,18.1,0,3.0,Closed
+SC00871,CR0321,2025-05-04,Policy Question,Email,8.6,0,5.0,Closed
+SC00872,CR0321,2025-11-28,Policy Question,Phone,1.7,1,4.0,Closed
+SC00873,CR0321,2025-01-15,Analytics Question,Chat,9.0,0,5.0,Closed
+SC00874,CR0322,2025-11-04,Policy Question,Phone,15.0,0,4.0,Closed
+SC00875,CR0322,2025-01-30,Policy Question,Chat,24.0,1,3.0,Closed
+SC00876,CR0322,2025-02-09,Policy Question,Chat,27.1,1,2.0,Closed
+SC00877,CR0322,2025-06-14,Analytics Question,Chat,6.4,1,5.0,Closed
+SC00878,CR0323,2025-08-20,Analytics Question,Phone,8.9,0,4.0,Closed
+SC00879,CR0323,2025-09-26,Account Access,Email,11.2,0,4.0,Closed
+SC00880,CR0323,2025-04-08,Monetization,Email,10.7,1,5.0,Closed
+SC00881,CR0323,2025-02-22,Account Access,Email,12.7,0,5.0,Closed
+SC00882,CR0323,2025-02-21,Technical Issue,Email,9.0,1,5.0,Closed
+SC00883,CR0323,2025-01-17,Technical Issue,Email,6.7,0,4.0,Closed
+SC00884,CR0324,2025-11-06,Technical Issue,Chat,,0,,Open
+SC00885,CR0324,2025-02-25,Technical Issue,Phone,20.3,0,5.0,Closed
+SC00886,CR0324,2025-01-29,Account Access,Chat,1.6,1,5.0,Closed
+SC00887,CR0324,2025-11-11,Account Access,Email,5.5,1,4.0,Closed
+SC00888,CR0324,2025-12-19,Monetization,Chat,19.2,1,4.0,Closed
+SC00889,CR0325,2025-07-11,Monetization,Email,23.5,1,4.0,Closed
+SC00890,CR0326,2025-12-19,Technical Issue,Chat,35.4,1,3.0,Closed
+SC00891,CR0326,2025-03-02,Technical Issue,Email,26.9,1,5.0,Closed
+SC00892,CR0327,2025-12-05,Policy Question,Email,19.9,0,5.0,Closed
+SC00893,CR0327,2025-04-13,Technical Issue,Chat,10.4,1,5.0,Closed
+SC00894,CR0328,2025-03-12,Monetization,Chat,14.3,0,4.0,Closed
+SC00895,CR0328,2025-01-25,Technical Issue,Email,14.9,1,4.0,Closed
+SC00896,CR0328,2025-07-06,Policy Question,Phone,13.5,1,4.0,Closed
+SC00897,CR0328,2025-07-21,Analytics Question,Email,9.4,1,5.0,Closed
+SC00898,CR0329,2025-05-12,Technical Issue,Phone,16.8,0,4.0,Closed
+SC00899,CR0329,2025-07-25,Analytics Question,Email,14.9,1,4.0,Closed
+SC00900,CR0331,2025-09-09,Policy Question,Email,22.7,1,4.0,Closed
+SC00901,CR0331,2025-06-01,Technical Issue,Phone,9.6,0,4.0,Closed
+SC00902,CR0331,2025-11-16,Technical Issue,Email,18.0,1,4.0,Closed
+SC00903,CR0331,2025-05-17,Analytics Question,Chat,7.1,0,5.0,Closed
+SC00904,CR0332,2025-06-04,Policy Question,Chat,9.2,1,5.0,Closed
+SC00905,CR0332,2025-07-18,Technical Issue,Phone,25.1,1,3.0,Closed
+SC00906,CR0332,2025-03-16,Account Access,Phone,27.2,1,4.0,Closed
+SC00907,CR0333,2025-08-16,Monetization,Chat,14.0,1,4.0,Closed
+SC00908,CR0334,2025-08-22,Monetization,Email,,0,,Open
+SC00909,CR0334,2025-09-18,Technical Issue,Email,5.8,0,5.0,Closed
+SC00910,CR0334,2025-08-25,Account Access,Chat,13.6,0,4.0,Closed
+SC00911,CR0334,2025-10-01,Technical Issue,Chat,5.1,1,5.0,Closed
+SC00912,CR0335,2025-03-22,Monetization,Chat,14.3,1,5.0,Closed
+SC00913,CR0335,2025-05-22,Technical Issue,Chat,12.4,1,3.0,Closed
+SC00914,CR0335,2025-04-06,Policy Question,Chat,13.5,1,3.0,Closed
+SC00915,CR0335,2025-05-07,Analytics Question,Email,6.4,1,5.0,Closed
+SC00916,CR0335,2025-05-28,Technical Issue,Phone,16.5,1,5.0,Closed
+SC00917,CR0335,2025-05-09,Policy Question,Chat,6.5,1,4.0,Closed
+SC00918,CR0336,2025-12-22,Monetization,Chat,22.8,0,3.0,Closed
+SC00919,CR0336,2025-04-13,Policy Question,Email,20.3,1,4.0,Closed
+SC00920,CR0336,2025-12-21,Analytics Question,Phone,4.9,1,5.0,Closed
+SC00921,CR0336,2025-11-10,Technical Issue,Phone,13.7,0,2.0,Closed
+SC00922,CR0338,2025-12-28,Policy Question,Phone,6.0,1,5.0,Closed
+SC00923,CR0339,2025-12-05,Monetization,Email,5.2,1,5.0,Closed
+SC00924,CR0339,2025-08-19,Account Access,Phone,5.4,1,5.0,Closed
+SC00925,CR0340,2025-08-28,Monetization,Email,3.0,1,5.0,Closed
+SC00926,CR0340,2025-03-27,Account Access,Phone,3.2,1,5.0,Closed
+SC00927,CR0340,2025-07-25,Technical Issue,Chat,,0,,Open
+SC00928,CR0340,2025-11-23,Policy Question,Phone,7.1,1,3.0,Closed
+SC00929,CR0341,2025-10-16,Account Access,Chat,5.2,1,4.0,Closed
+SC00930,CR0341,2025-01-10,Monetization,Chat,20.3,1,4.0,Closed
+SC00931,CR0341,2025-07-17,Technical Issue,Email,20.2,1,3.0,Closed
+SC00932,CR0344,2025-09-25,Technical Issue,Chat,4.1,1,4.0,Closed
+SC00933,CR0345,2025-06-20,Technical Issue,Phone,13.0,0,5.0,Closed
+SC00934,CR0346,2025-08-29,Monetization,Chat,10.9,0,5.0,Closed
+SC00935,CR0346,2025-05-11,Policy Question,Email,6.3,1,5.0,Closed
+SC00936,CR0346,2025-10-03,Monetization,Phone,,0,,Open
+SC00937,CR0347,2025-06-20,Policy Question,Phone,4.8,1,5.0,Closed
+SC00938,CR0347,2025-04-03,Technical Issue,Chat,9.0,1,4.0,Closed
+SC00939,CR0348,2025-11-28,Policy Question,Email,5.1,0,5.0,Closed
+SC00940,CR0348,2025-05-24,Technical Issue,Email,14.4,1,3.0,Closed
+SC00941,CR0349,2025-01-07,Technical Issue,Phone,7.9,1,5.0,Closed
+SC00942,CR0349,2025-04-07,Analytics Question,Chat,7.8,1,3.0,Closed
+SC00943,CR0350,2025-06-19,Analytics Question,Chat,3.5,1,5.0,Closed
+SC00944,CR0350,2025-01-11,Monetization,Email,16.7,1,5.0,Closed
+SC00945,CR0350,2025-05-02,Technical Issue,Phone,10.3,0,5.0,Closed
+SC00946,CR0350,2025-02-09,Monetization,Email,13.6,0,5.0,Closed
+SC00947,CR0350,2025-06-02,Policy Question,Chat,10.2,0,4.0,Closed
+SC00948,CR0350,2025-05-11,Policy Question,Chat,5.7,1,5.0,Closed
+SC00949,CR0351,2025-11-27,Monetization,Chat,3.0,0,5.0,Closed
+SC00950,CR0351,2025-02-01,Analytics Question,Chat,2.3,0,4.0,Closed
+SC00951,CR0352,2025-10-13,Technical Issue,Email,9.4,0,5.0,Closed
+SC00952,CR0352,2025-04-30,Technical Issue,Email,38.4,0,4.0,Closed
+SC00953,CR0353,2025-07-22,Monetization,Chat,8.3,1,5.0,Closed
+SC00954,CR0353,2025-09-26,Analytics Question,Chat,6.1,1,5.0,Closed
+SC00955,CR0353,2025-03-21,Policy Question,Phone,5.9,1,5.0,Closed
+SC00956,CR0354,2025-12-05,Monetization,Chat,18.9,1,4.0,Closed
+SC00957,CR0354,2025-05-31,Policy Question,Chat,4.0,1,5.0,Closed
+SC00958,CR0354,2025-12-06,Monetization,Email,14.2,1,5.0,Closed
+SC00959,CR0355,2025-04-10,Monetization,Email,6.2,1,5.0,Closed
+SC00960,CR0355,2025-06-27,Technical Issue,Email,17.2,0,4.0,Closed
+SC00961,CR0355,2025-07-20,Technical Issue,Email,2.4,1,5.0,Closed
+SC00962,CR0356,2025-12-23,Monetization,Email,40.0,1,3.0,Closed
+SC00963,CR0357,2025-12-05,Monetization,Chat,10.5,1,5.0,Closed
+SC00964,CR0357,2025-02-09,Policy Question,Chat,,0,,Open
+SC00965,CR0357,2025-03-07,Technical Issue,Phone,23.7,1,3.0,Closed
+SC00966,CR0358,2025-09-27,Account Access,Email,,0,,Open
+SC00967,CR0358,2025-06-14,Analytics Question,Chat,19.4,0,5.0,Closed
+SC00968,CR0358,2025-09-20,Monetization,Chat,29.7,1,4.0,Closed
+SC00969,CR0358,2025-06-09,Technical Issue,Email,31.9,0,4.0,Closed
+SC00970,CR0358,2025-10-10,Analytics Question,Phone,8.5,0,5.0,Closed
+SC00971,CR0359,2025-09-20,Account Access,Email,12.4,0,5.0,Closed
+SC00972,CR0359,2025-01-23,Policy Question,Chat,11.1,0,5.0,Closed
+SC00973,CR0359,2025-10-22,Monetization,Chat,13.8,1,4.0,Closed
+SC00974,CR0359,2025-08-07,Technical Issue,Phone,9.4,1,5.0,Closed
+SC00975,CR0359,2025-12-19,Technical Issue,Chat,5.3,0,5.0,Closed
+SC00976,CR0359,2025-09-06,Technical Issue,Email,17.9,1,5.0,Closed
+SC00977,CR0359,2025-04-21,Monetization,Chat,24.6,1,4.0,Closed
+SC00978,CR0360,2025-10-17,Monetization,Chat,16.7,0,4.0,Closed
+SC00979,CR0361,2025-03-24,Analytics Question,Email,4.8,1,4.0,Closed
+SC00980,CR0361,2025-07-24,Account Access,Chat,25.6,1,3.0,Closed
+SC00981,CR0361,2025-03-06,Technical Issue,Chat,9.6,1,5.0,Closed
+SC00982,CR0363,2025-08-03,Account Access,Phone,13.5,1,5.0,Closed
+SC00983,CR0363,2025-05-30,Policy Question,Phone,10.3,1,4.0,Closed
+SC00984,CR0363,2025-12-16,Policy Question,Chat,9.3,0,4.0,Closed
+SC00985,CR0364,2025-02-26,Policy Question,Email,23.3,0,4.0,Closed
+SC00986,CR0365,2025-08-21,Monetization,Chat,18.1,1,4.0,Closed
+SC00987,CR0365,2025-01-26,Policy Question,Chat,7.7,1,5.0,Closed
+SC00988,CR0366,2025-04-26,Technical Issue,Phone,18.4,1,4.0,Closed
+SC00989,CR0366,2025-10-28,Account Access,Chat,29.2,0,4.0,Closed
+SC00990,CR0366,2025-07-20,Monetization,Chat,45.9,0,3.0,Closed
+SC00991,CR0366,2025-11-02,Technical Issue,Chat,5.6,0,3.0,Closed
+SC00992,CR0367,2025-07-02,Policy Question,Chat,16.7,0,4.0,Closed
+SC00993,CR0367,2025-07-18,Technical Issue,Chat,20.9,1,3.0,Closed
+SC00994,CR0368,2025-02-13,Analytics Question,Email,10.3,1,5.0,Closed
+SC00995,CR0368,2025-05-22,Policy Question,Chat,13.4,1,5.0,Closed
+SC00996,CR0369,2025-05-22,Monetization,Phone,37.1,1,2.0,Closed
+SC00997,CR0370,2025-05-08,Monetization,Chat,12.0,1,4.0,Closed
+SC00998,CR0370,2025-08-21,Technical Issue,Email,22.7,1,3.0,Closed
+SC00999,CR0370,2025-11-12,Technical Issue,Email,8.3,1,4.0,Closed
+SC01000,CR0372,2025-03-21,Analytics Question,Chat,21.7,1,4.0,Closed
+SC01001,CR0372,2025-05-02,Account Access,Phone,11.1,0,4.0,Closed
+SC01002,CR0372,2025-09-25,Technical Issue,Email,4.2,1,5.0,Closed
+SC01003,CR0372,2025-05-11,Policy Question,Email,5.6,0,5.0,Closed
+SC01004,CR0372,2025-07-03,Technical Issue,Chat,7.3,1,5.0,Closed
+SC01005,CR0372,2025-01-11,Technical Issue,Phone,8.0,1,4.0,Closed
+SC01006,CR0373,2025-04-11,Policy Question,Chat,10.7,0,5.0,Closed
+SC01007,CR0373,2025-02-22,Account Access,Email,11.0,1,5.0,Closed
+SC01008,CR0373,2025-05-31,Monetization,Chat,13.9,0,4.0,Closed
+SC01009,CR0374,2025-10-16,Technical Issue,Email,9.3,0,4.0,Closed
+SC01010,CR0374,2025-07-05,Technical Issue,Chat,12.6,0,5.0,Closed
+SC01011,CR0374,2025-02-20,Policy Question,Email,9.1,1,5.0,Closed
+SC01012,CR0374,2025-09-20,Technical Issue,Chat,20.1,1,3.0,Closed
+SC01013,CR0374,2025-08-23,Technical Issue,Email,3.4,1,5.0,Closed
+SC01014,CR0375,2025-10-18,Monetization,Chat,57.9,0,1.0,Closed
+SC01015,CR0375,2025-07-08,Policy Question,Chat,16.9,0,3.0,Closed
+SC01016,CR0375,2025-02-22,Technical Issue,Email,10.7,1,5.0,Closed
+SC01017,CR0376,2025-10-10,Technical Issue,Email,11.4,0,5.0,Closed
+SC01018,CR0376,2025-05-18,Technical Issue,Email,17.7,0,5.0,Closed
+SC01019,CR0376,2025-11-28,Technical Issue,Email,12.7,1,5.0,Closed
+SC01020,CR0377,2025-07-28,Monetization,Chat,5.3,1,5.0,Closed
+SC01021,CR0377,2025-02-25,Technical Issue,Email,6.6,0,4.0,Closed
+SC01022,CR0377,2025-02-27,Technical Issue,Email,16.5,1,3.0,Closed
+SC01023,CR0378,2025-03-24,Policy Question,Chat,4.8,1,5.0,Closed
+SC01024,CR0378,2025-07-06,Account Access,Chat,,0,,Open
+SC01025,CR0379,2025-04-10,Monetization,Email,6.5,1,5.0,Closed
+SC01026,CR0380,2025-03-25,Monetization,Phone,28.4,1,4.0,Closed
+SC01027,CR0380,2025-01-26,Analytics Question,Email,17.7,1,3.0,Closed
+SC01028,CR0380,2025-08-01,Policy Question,Phone,31.5,0,3.0,Closed
+SC01029,CR0380,2025-12-29,Analytics Question,Chat,7.0,0,3.0,Closed
+SC01030,CR0381,2025-06-05,Policy Question,Email,21.8,0,4.0,Closed
+SC01031,CR0381,2025-08-25,Account Access,Email,13.0,1,5.0,Closed
+SC01032,CR0382,2025-04-10,Technical Issue,Chat,8.8,1,5.0,Closed
+SC01033,CR0383,2025-11-25,Account Access,Email,7.1,1,5.0,Closed
+SC01034,CR0383,2025-03-28,Monetization,Chat,5.4,1,5.0,Closed
+SC01035,CR0383,2025-06-09,Technical Issue,Phone,23.5,1,5.0,Closed
+SC01036,CR0384,2025-06-14,Monetization,Chat,11.9,1,4.0,Closed
+SC01037,CR0385,2025-04-24,Technical Issue,Email,12.7,1,5.0,Closed
+SC01038,CR0385,2025-11-21,Technical Issue,Phone,4.9,1,4.0,Closed
+SC01039,CR0385,2025-06-01,Analytics Question,Chat,2.3,1,5.0,Closed
+SC01040,CR0385,2025-04-03,Monetization,Phone,11.5,0,4.0,Closed
+SC01041,CR0385,2025-02-01,Policy Question,Chat,27.8,1,3.0,Closed
+SC01042,CR0386,2025-06-17,Monetization,Chat,25.0,1,3.0,Closed
+SC01043,CR0386,2025-05-02,Monetization,Chat,3.2,1,5.0,Closed
+SC01044,CR0386,2025-12-29,Technical Issue,Email,12.9,0,5.0,Closed
+SC01045,CR0386,2025-12-02,Account Access,Email,8.1,0,4.0,Closed
+SC01046,CR0387,2025-08-09,Account Access,Email,45.7,1,4.0,Closed
+SC01047,CR0387,2025-06-05,Account Access,Email,5.0,1,5.0,Closed
+SC01048,CR0387,2025-06-22,Monetization,Chat,8.8,1,4.0,Closed
+SC01049,CR0387,2025-01-13,Monetization,Chat,6.0,0,4.0,Closed
+SC01050,CR0387,2025-06-28,Technical Issue,Email,13.2,0,4.0,Closed
+SC01051,CR0387,2025-03-27,Monetization,Chat,3.8,1,5.0,Closed
+SC01052,CR0388,2025-09-27,Technical Issue,Chat,8.6,1,5.0,Closed
+SC01053,CR0388,2025-04-17,Policy Question,Phone,12.2,1,5.0,Closed
+SC01054,CR0389,2025-08-05,Technical Issue,Email,,0,,Open
+SC01055,CR0389,2025-01-15,Account Access,Email,,0,,Open
+SC01056,CR0389,2025-10-07,Monetization,Chat,11.1,1,5.0,Closed
+SC01057,CR0389,2025-12-15,Analytics Question,Email,28.5,1,4.0,Closed
+SC01058,CR0389,2025-09-26,Technical Issue,Phone,11.1,0,4.0,Closed
+SC01059,CR0390,2025-11-09,Policy Question,Phone,15.5,0,5.0,Closed
+SC01060,CR0391,2025-09-03,Monetization,Phone,9.8,0,5.0,Closed
+SC01061,CR0391,2025-04-29,Technical Issue,Chat,2.0,0,5.0,Closed
+SC01062,CR0392,2025-02-14,Technical Issue,Chat,4.8,1,5.0,Closed
+SC01063,CR0392,2025-01-14,Technical Issue,Email,16.7,1,4.0,Closed
+SC01064,CR0392,2025-02-15,Technical Issue,Chat,7.9,1,4.0,Closed
+SC01065,CR0392,2025-05-20,Analytics Question,Chat,5.8,0,5.0,Closed
+SC01066,CR0392,2025-03-21,Policy Question,Chat,,0,,Open
+SC01067,CR0393,2025-05-30,Policy Question,Chat,4.8,1,5.0,Closed
+SC01068,CR0393,2025-09-23,Account Access,Chat,18.4,1,5.0,Closed
+SC01069,CR0393,2025-01-10,Account Access,Chat,4.5,1,5.0,Closed
+SC01070,CR0393,2025-07-27,Policy Question,Email,5.7,1,4.0,Closed
+SC01071,CR0393,2025-06-17,Analytics Question,Phone,9.8,1,4.0,Closed
+SC01072,CR0393,2025-12-27,Account Access,Email,13.9,1,4.0,Closed
+SC01073,CR0394,2025-08-14,Policy Question,Chat,4.1,0,4.0,Closed
+SC01074,CR0394,2025-10-09,Monetization,Chat,20.2,0,4.0,Closed
+SC01075,CR0395,2025-11-11,Monetization,Email,9.2,0,4.0,Closed
+SC01076,CR0395,2025-04-30,Monetization,Phone,26.8,1,3.0,Closed
+SC01077,CR0396,2025-10-25,Technical Issue,Chat,12.6,1,4.0,Closed
+SC01078,CR0396,2025-02-27,Technical Issue,Chat,7.4,1,5.0,Closed
+SC01079,CR0398,2025-12-25,Analytics Question,Email,4.3,0,5.0,Closed
+SC01080,CR0399,2025-10-02,Technical Issue,Email,12.5,0,5.0,Closed
+SC01081,CR0400,2025-07-19,Technical Issue,Chat,22.6,1,4.0,Closed
+SC01082,CR0401,2025-01-21,Technical Issue,Chat,6.7,1,5.0,Closed
+SC01083,CR0401,2025-04-02,Account Access,Phone,,0,,Open
+SC01084,CR0401,2025-08-05,Monetization,Phone,12.2,1,4.0,Closed
+SC01085,CR0401,2025-09-09,Technical Issue,Email,6.8,0,5.0,Closed
+SC01086,CR0401,2025-02-09,Technical Issue,Email,4.4,1,4.0,Closed
+SC01087,CR0402,2025-10-01,Monetization,Phone,18.0,1,5.0,Closed
+SC01088,CR0402,2025-08-13,Analytics Question,Email,4.5,1,5.0,Closed
+SC01089,CR0403,2025-01-14,Policy Question,Phone,12.4,1,5.0,Closed
+SC01090,CR0404,2025-03-23,Analytics Question,Email,13.2,1,5.0,Closed
+SC01091,CR0405,2025-07-28,Technical Issue,Email,,0,,Open
+SC01092,CR0406,2025-08-12,Policy Question,Phone,7.6,1,5.0,Closed
+SC01093,CR0406,2025-12-12,Analytics Question,Phone,4.6,1,5.0,Closed
+SC01094,CR0406,2025-04-09,Technical Issue,Email,10.2,1,4.0,Closed
+SC01095,CR0406,2025-09-19,Technical Issue,Phone,6.2,1,4.0,Closed
+SC01096,CR0407,2025-10-15,Analytics Question,Email,8.7,1,5.0,Closed
+SC01097,CR0407,2025-02-23,Account Access,Chat,4.5,1,4.0,Closed
+SC01098,CR0407,2025-06-20,Monetization,Email,49.3,1,2.0,Closed
+SC01099,CR0408,2025-08-19,Account Access,Phone,10.7,1,4.0,Closed
+SC01100,CR0408,2025-06-06,Account Access,Chat,12.8,0,3.0,Closed
+SC01101,CR0408,2025-02-26,Technical Issue,Phone,4.9,1,4.0,Closed
+SC01102,CR0408,2025-09-03,Policy Question,Email,13.9,0,3.0,Closed
+SC01103,CR0409,2025-07-25,Technical Issue,Phone,4.9,1,5.0,Closed
+SC01104,CR0409,2025-10-02,Policy Question,Chat,18.5,0,4.0,Closed
+SC01105,CR0409,2025-10-15,Account Access,Email,3.2,1,5.0,Closed
+SC01106,CR0409,2025-03-28,Technical Issue,Phone,21.4,1,4.0,Closed
+SC01107,CR0409,2025-07-15,Monetization,Email,32.4,1,3.0,Closed
+SC01108,CR0409,2025-09-21,Technical Issue,Chat,6.0,1,4.0,Closed
+SC01109,CR0410,2025-08-07,Technical Issue,Phone,12.2,1,4.0,Closed
+SC01110,CR0411,2025-06-01,Technical Issue,Chat,10.8,1,5.0,Closed
+SC01111,CR0411,2025-03-07,Monetization,Chat,62.3,1,2.0,Closed
+SC01112,CR0411,2025-05-15,Monetization,Chat,10.1,1,3.0,Closed
+SC01113,CR0411,2025-05-14,Analytics Question,Chat,23.3,1,4.0,Closed
+SC01114,CR0412,2025-12-25,Policy Question,Phone,21.6,1,3.0,Closed
+SC01115,CR0412,2025-07-13,Policy Question,Email,21.8,1,5.0,Closed
+SC01116,CR0413,2025-05-24,Account Access,Email,22.1,0,4.0,Closed
+SC01117,CR0413,2025-08-30,Policy Question,Chat,10.8,1,4.0,Closed
+SC01118,CR0413,2025-07-29,Technical Issue,Chat,35.1,0,3.0,Closed
+SC01119,CR0413,2025-03-12,Technical Issue,Chat,5.2,1,4.0,Closed
+SC01120,CR0414,2025-04-14,Monetization,Email,10.3,0,4.0,Closed
+SC01121,CR0414,2025-08-06,Analytics Question,Phone,26.8,1,3.0,Closed
+SC01122,CR0414,2025-04-11,Technical Issue,Email,10.4,0,5.0,Closed
+SC01123,CR0414,2025-12-25,Monetization,Phone,14.1,1,4.0,Closed
+SC01124,CR0415,2025-05-20,Monetization,Chat,,0,,Open
+SC01125,CR0415,2025-08-30,Policy Question,Email,25.4,0,3.0,Closed
+SC01126,CR0415,2025-08-18,Technical Issue,Chat,24.5,1,3.0,Closed
+SC01127,CR0415,2025-04-07,Monetization,Email,6.3,0,5.0,Closed
+SC01128,CR0415,2025-03-05,Account Access,Email,12.0,0,5.0,Closed
+SC01129,CR0416,2025-09-27,Monetization,Email,9.4,1,5.0,Closed
+SC01130,CR0416,2025-03-15,Monetization,Chat,15.7,1,4.0,Closed
+SC01131,CR0416,2025-11-28,Technical Issue,Phone,,0,,Open
+SC01132,CR0417,2025-06-04,Technical Issue,Email,19.9,1,4.0,Closed
+SC01133,CR0417,2025-01-13,Technical Issue,Phone,17.7,1,5.0,Closed
+SC01134,CR0418,2025-05-13,Technical Issue,Email,9.3,1,5.0,Closed
+SC01135,CR0418,2025-11-18,Analytics Question,Email,8.2,1,4.0,Closed
+SC01136,CR0418,2025-12-14,Analytics Question,Chat,13.4,1,5.0,Closed
+SC01137,CR0418,2025-04-19,Monetization,Email,59.9,0,1.0,Closed
+SC01138,CR0419,2025-11-24,Account Access,Chat,37.9,0,2.0,Closed
+SC01139,CR0419,2025-12-19,Technical Issue,Phone,16.5,1,4.0,Closed
+SC01140,CR0419,2025-02-20,Technical Issue,Phone,11.1,1,3.0,Closed
+SC01141,CR0419,2025-06-23,Technical Issue,Email,28.5,1,5.0,Closed
+SC01142,CR0419,2025-11-26,Analytics Question,Phone,37.7,1,3.0,Closed
+SC01143,CR0419,2025-03-01,Monetization,Chat,26.5,0,4.0,Closed
+SC01144,CR0419,2025-11-15,Analytics Question,Chat,3.3,1,5.0,Closed
+SC01145,CR0420,2025-10-11,Technical Issue,Email,19.1,1,5.0,Closed
+SC01146,CR0420,2025-03-22,Technical Issue,Email,9.1,0,5.0,Closed
+SC01147,CR0420,2025-07-02,Monetization,Email,3.7,0,5.0,Closed
+SC01148,CR0421,2025-01-28,Technical Issue,Chat,6.3,0,4.0,Closed
+SC01149,CR0421,2025-10-24,Monetization,Chat,11.3,1,5.0,Closed
+SC01150,CR0421,2025-07-13,Technical Issue,Phone,9.8,1,3.0,Closed
+SC01151,CR0421,2025-07-25,Policy Question,Email,10.9,0,5.0,Closed
+SC01152,CR0421,2025-07-23,Technical Issue,Chat,8.0,1,4.0,Closed
+SC01153,CR0421,2025-03-17,Account Access,Email,14.3,1,4.0,Closed
+SC01154,CR0422,2025-03-15,Policy Question,Email,2.4,0,5.0,Closed
+SC01155,CR0422,2025-12-30,Policy Question,Phone,35.3,1,2.0,Closed
+SC01156,CR0422,2025-04-07,Policy Question,Email,5.8,1,5.0,Closed
+SC01157,CR0422,2025-08-09,Analytics Question,Email,19.6,0,4.0,Closed
+SC01158,CR0423,2025-01-10,Policy Question,Email,4.3,1,4.0,Closed
+SC01159,CR0423,2025-01-11,Policy Question,Email,48.8,1,3.0,Closed
+SC01160,CR0424,2025-06-07,Analytics Question,Email,5.2,1,5.0,Closed
+SC01161,CR0424,2025-09-10,Account Access,Email,7.4,1,5.0,Closed
+SC01162,CR0424,2025-08-08,Technical Issue,Chat,7.0,0,5.0,Closed
+SC01163,CR0424,2025-09-07,Policy Question,Chat,16.9,0,4.0,Closed
+SC01164,CR0424,2025-08-30,Policy Question,Email,24.8,0,4.0,Closed
+SC01165,CR0424,2025-03-14,Analytics Question,Chat,20.9,1,3.0,Closed
+SC01166,CR0424,2025-04-26,Monetization,Chat,17.3,1,5.0,Closed
+SC01167,CR0426,2025-02-06,Analytics Question,Chat,7.4,1,5.0,Closed
+SC01168,CR0426,2025-10-27,Account Access,Chat,3.7,1,5.0,Closed
+SC01169,CR0426,2025-07-29,Monetization,Chat,14.0,1,4.0,Closed
+SC01170,CR0426,2025-04-20,Policy Question,Phone,28.6,1,4.0,Closed
+SC01171,CR0427,2025-08-09,Technical Issue,Email,22.2,1,4.0,Closed
+SC01172,CR0427,2025-07-29,Analytics Question,Chat,29.8,1,4.0,Closed
+SC01173,CR0427,2025-01-13,Technical Issue,Chat,7.0,1,5.0,Closed
+SC01174,CR0428,2025-10-11,Monetization,Chat,19.1,0,4.0,Closed
+SC01175,CR0428,2025-11-25,Account Access,Chat,29.8,0,3.0,Closed
+SC01176,CR0428,2025-01-22,Monetization,Email,5.9,1,5.0,Closed
+SC01177,CR0428,2025-06-14,Account Access,Chat,17.6,0,4.0,Closed
+SC01178,CR0428,2025-10-01,Monetization,Chat,4.9,1,5.0,Closed
+SC01179,CR0428,2025-08-15,Technical Issue,Email,9.6,1,3.0,Closed
+SC01180,CR0429,2025-05-14,Monetization,Email,6.8,1,5.0,Closed
+SC01181,CR0429,2025-09-22,Analytics Question,Chat,22.6,1,4.0,Closed
+SC01182,CR0430,2025-10-12,Monetization,Email,6.3,1,4.0,Closed
+SC01183,CR0430,2025-02-11,Policy Question,Email,9.6,1,4.0,Closed
+SC01184,CR0430,2025-03-17,Monetization,Email,,0,,Open
+SC01185,CR0430,2025-12-24,Technical Issue,Phone,3.3,1,5.0,Closed
+SC01186,CR0431,2025-11-29,Account Access,Email,8.6,0,4.0,Closed
+SC01187,CR0431,2025-02-16,Account Access,Email,5.6,1,5.0,Closed
+SC01188,CR0432,2025-07-05,Account Access,Email,13.7,1,5.0,Closed
+SC01189,CR0432,2025-12-13,Policy Question,Phone,21.4,0,5.0,Closed
+SC01190,CR0432,2025-02-23,Policy Question,Chat,22.0,1,2.0,Closed
+SC01191,CR0432,2025-06-18,Account Access,Phone,9.1,1,5.0,Closed
+SC01192,CR0434,2025-03-03,Monetization,Chat,5.1,1,4.0,Closed
+SC01193,CR0434,2025-12-17,Policy Question,Chat,8.4,1,4.0,Closed
+SC01194,CR0434,2025-07-08,Policy Question,Email,19.7,0,4.0,Closed
+SC01195,CR0434,2025-10-12,Account Access,Chat,4.2,0,5.0,Closed
+SC01196,CR0435,2025-07-21,Technical Issue,Chat,3.7,1,5.0,Closed
+SC01197,CR0436,2025-02-22,Monetization,Email,4.9,1,5.0,Closed
+SC01198,CR0436,2025-03-06,Monetization,Email,10.9,0,4.0,Closed
+SC01199,CR0436,2025-12-03,Monetization,Phone,19.2,1,3.0,Closed
+SC01200,CR0436,2025-01-31,Technical Issue,Email,18.3,0,4.0,Closed
+SC01201,CR0437,2025-06-04,Account Access,Email,6.3,1,4.0,Closed
+SC01202,CR0437,2025-08-27,Policy Question,Email,13.2,1,5.0,Closed
+SC01203,CR0438,2025-03-16,Policy Question,Phone,33.6,0,4.0,Closed
+SC01204,CR0438,2025-11-22,Analytics Question,Email,7.6,1,4.0,Closed
+SC01205,CR0438,2025-02-07,Technical Issue,Chat,5.2,1,5.0,Closed
+SC01206,CR0440,2025-07-05,Account Access,Chat,16.5,1,3.0,Closed
+SC01207,CR0441,2025-04-20,Monetization,Email,18.8,1,5.0,Closed
+SC01208,CR0441,2025-11-03,Monetization,Chat,20.1,0,3.0,Closed
+SC01209,CR0441,2025-02-23,Analytics Question,Chat,11.4,1,4.0,Closed
+SC01210,CR0441,2025-05-10,Technical Issue,Email,20.5,0,4.0,Closed
+SC01211,CR0441,2025-06-03,Policy Question,Chat,24.9,0,3.0,Closed
+SC01212,CR0442,2025-11-06,Policy Question,Email,9.4,0,5.0,Closed
+SC01213,CR0442,2025-10-18,Analytics Question,Chat,7.3,1,5.0,Closed
+SC01214,CR0442,2025-12-05,Analytics Question,Chat,2.4,0,4.0,Closed
+SC01215,CR0442,2025-02-15,Account Access,Chat,9.5,1,5.0,Closed
+SC01216,CR0443,2025-06-19,Monetization,Chat,7.2,1,5.0,Closed
+SC01217,CR0443,2025-06-08,Monetization,Email,27.1,0,5.0,Closed
+SC01218,CR0444,2025-12-30,Technical Issue,Email,14.6,1,5.0,Closed
+SC01219,CR0444,2025-02-27,Technical Issue,Chat,6.9,1,5.0,Closed
+SC01220,CR0445,2025-02-27,Monetization,Chat,9.9,0,4.0,Closed
+SC01221,CR0445,2025-04-18,Technical Issue,Email,17.6,1,4.0,Closed
+SC01222,CR0445,2025-07-02,Analytics Question,Chat,3.9,0,5.0,Closed
+SC01223,CR0445,2025-05-06,Technical Issue,Email,16.2,1,4.0,Closed
+SC01224,CR0445,2025-10-22,Analytics Question,Chat,4.6,0,5.0,Closed
+SC01225,CR0445,2025-08-21,Technical Issue,Chat,,0,,Open
+SC01226,CR0446,2025-12-29,Technical Issue,Phone,5.3,1,5.0,Closed
+SC01227,CR0446,2025-05-26,Technical Issue,Chat,14.2,1,4.0,Closed
+SC01228,CR0446,2025-04-09,Policy Question,Email,8.9,1,5.0,Closed
+SC01229,CR0447,2025-09-07,Technical Issue,Email,,0,,Open
+SC01230,CR0447,2025-12-02,Monetization,Phone,14.8,1,5.0,Closed
+SC01231,CR0447,2025-10-17,Technical Issue,Phone,4.4,0,5.0,Closed
+SC01232,CR0447,2025-09-08,Account Access,Chat,8.8,1,5.0,Closed
+SC01233,CR0447,2025-06-22,Monetization,Email,9.4,1,4.0,Closed
+SC01234,CR0447,2025-04-23,Monetization,Phone,14.6,1,4.0,Closed
+SC01235,CR0448,2025-02-21,Monetization,Chat,15.0,1,4.0,Closed
+SC01236,CR0448,2025-08-08,Monetization,Phone,5.8,1,5.0,Closed
+SC01237,CR0448,2025-10-23,Account Access,Email,13.8,1,4.0,Closed
+SC01238,CR0449,2025-12-04,Analytics Question,Email,5.3,1,5.0,Closed
+SC01239,CR0449,2025-05-22,Monetization,Email,5.8,1,5.0,Closed
+SC01240,CR0450,2025-09-20,Technical Issue,Phone,5.6,1,4.0,Closed
+SC01241,CR0450,2025-09-26,Monetization,Email,25.4,1,4.0,Closed
+SC01242,CR0451,2025-06-12,Technical Issue,Chat,23.2,0,3.0,Closed
+SC01243,CR0451,2025-04-26,Technical Issue,Email,13.9,1,4.0,Closed
+SC01244,CR0452,2025-02-16,Technical Issue,Phone,23.2,1,3.0,Closed
+SC01245,CR0453,2025-05-15,Analytics Question,Chat,9.9,1,4.0,Closed
+SC01246,CR0454,2025-09-27,Monetization,Chat,14.0,1,4.0,Closed
+SC01247,CR0454,2025-09-19,Policy Question,Email,23.1,1,3.0,Closed
+SC01248,CR0454,2025-05-24,Monetization,Chat,18.1,1,4.0,Closed
+SC01249,CR0454,2025-05-02,Monetization,Phone,8.7,0,5.0,Closed
+SC01250,CR0454,2025-01-22,Technical Issue,Email,3.0,1,4.0,Closed
+SC01251,CR0455,2025-05-27,Technical Issue,Chat,,0,,Open
+SC01252,CR0455,2025-05-22,Policy Question,Chat,29.9,1,3.0,Closed
+SC01253,CR0455,2025-10-02,Monetization,Chat,6.4,1,4.0,Closed
+SC01254,CR0455,2025-09-01,Monetization,Email,5.1,0,5.0,Closed
+SC01255,CR0455,2025-09-14,Account Access,Chat,,0,,Open
+SC01256,CR0456,2025-10-09,Analytics Question,Email,,0,,Open
+SC01257,CR0456,2025-06-23,Technical Issue,Chat,15.1,0,4.0,Closed
+SC01258,CR0456,2025-11-27,Policy Question,Chat,6.9,0,5.0,Closed
+SC01259,CR0456,2025-03-07,Account Access,Email,14.7,1,5.0,Closed
+SC01260,CR0457,2025-02-16,Analytics Question,Chat,4.3,1,5.0,Closed
+SC01261,CR0457,2025-11-01,Technical Issue,Chat,8.2,1,3.0,Closed
+SC01262,CR0457,2025-11-27,Technical Issue,Chat,6.0,1,5.0,Closed
+SC01263,CR0457,2025-04-08,Technical Issue,Chat,7.1,0,5.0,Closed
+SC01264,CR0458,2025-08-24,Monetization,Email,15.9,0,3.0,Closed
+SC01265,CR0458,2025-05-10,Policy Question,Chat,10.1,1,4.0,Closed
+SC01266,CR0459,2025-03-20,Technical Issue,Phone,,0,,Open
+SC01267,CR0459,2025-01-10,Policy Question,Chat,13.1,1,5.0,Closed
+SC01268,CR0459,2025-08-15,Account Access,Chat,6.2,1,4.0,Closed
+SC01269,CR0460,2025-05-20,Analytics Question,Phone,4.9,0,4.0,Closed
+SC01270,CR0460,2025-05-28,Policy Question,Chat,4.0,0,5.0,Closed
+SC01271,CR0460,2025-07-27,Account Access,Phone,7.0,1,5.0,Closed
+SC01272,CR0460,2025-11-24,Monetization,Email,,0,,Open
+SC01273,CR0460,2025-07-27,Policy Question,Chat,28.2,1,3.0,Closed
+SC01274,CR0461,2025-12-09,Monetization,Email,11.4,0,4.0,Closed
+SC01275,CR0461,2025-05-02,Monetization,Email,26.8,0,3.0,Closed
+SC01276,CR0461,2025-09-12,Account Access,Chat,14.3,1,4.0,Closed
+SC01277,CR0461,2025-10-17,Account Access,Phone,4.9,0,4.0,Closed
+SC01278,CR0461,2025-12-08,Analytics Question,Email,5.3,1,3.0,Closed
+SC01279,CR0462,2025-05-14,Policy Question,Email,11.3,0,5.0,Closed
+SC01280,CR0462,2025-06-01,Policy Question,Email,16.8,1,5.0,Closed
+SC01281,CR0462,2025-04-07,Monetization,Chat,9.6,1,4.0,Closed
+SC01282,CR0463,2025-02-09,Technical Issue,Email,6.8,1,5.0,Closed
+SC01283,CR0463,2025-09-08,Monetization,Email,5.6,0,5.0,Closed
+SC01284,CR0463,2025-06-25,Technical Issue,Email,19.4,1,4.0,Closed
+SC01285,CR0464,2025-09-26,Account Access,Phone,4.1,1,4.0,Closed
+SC01286,CR0464,2025-10-22,Account Access,Phone,5.3,0,5.0,Closed
+SC01287,CR0464,2025-03-28,Monetization,Chat,13.6,0,4.0,Closed
+SC01288,CR0464,2025-11-18,Policy Question,Chat,35.5,1,3.0,Closed
+SC01289,CR0465,2025-11-06,Monetization,Chat,,0,,Open
+SC01290,CR0466,2025-04-16,Policy Question,Phone,17.2,0,5.0,Closed
+SC01291,CR0466,2025-08-18,Technical Issue,Chat,3.9,1,5.0,Closed
+SC01292,CR0467,2025-08-11,Account Access,Chat,7.7,1,4.0,Closed
+SC01293,CR0467,2025-09-25,Monetization,Phone,6.0,1,3.0,Closed
+SC01294,CR0467,2025-11-09,Technical Issue,Chat,19.3,0,3.0,Closed
+SC01295,CR0467,2025-05-28,Monetization,Chat,4.2,1,5.0,Closed
+SC01296,CR0468,2025-12-12,Technical Issue,Email,3.2,1,5.0,Closed
+SC01297,CR0469,2025-01-31,Analytics Question,Phone,33.3,1,3.0,Closed
+SC01298,CR0469,2025-04-04,Technical Issue,Chat,10.6,1,5.0,Closed
+SC01299,CR0469,2025-05-13,Monetization,Email,11.5,1,5.0,Closed
+SC01300,CR0469,2025-10-27,Account Access,Chat,18.4,1,5.0,Closed
+SC01301,CR0470,2025-09-07,Policy Question,Email,37.2,1,3.0,Closed
+SC01302,CR0470,2025-12-08,Policy Question,Chat,10.2,1,4.0,Closed
+SC01303,CR0470,2025-09-25,Policy Question,Email,29.7,0,2.0,Closed
+SC01304,CR0470,2025-02-21,Technical Issue,Email,6.0,0,4.0,Closed
+SC01305,CR0470,2025-07-12,Policy Question,Chat,11.1,1,4.0,Closed
+SC01306,CR0471,2025-09-17,Monetization,Email,33.9,1,4.0,Closed
+SC01307,CR0472,2025-02-09,Analytics Question,Phone,7.3,0,4.0,Closed
+SC01308,CR0472,2025-04-03,Policy Question,Chat,31.1,1,3.0,Closed
+SC01309,CR0472,2025-05-18,Policy Question,Email,34.5,0,3.0,Closed
+SC01310,CR0472,2025-10-01,Monetization,Email,3.7,1,5.0,Closed
+SC01311,CR0472,2025-07-11,Monetization,Phone,16.1,1,5.0,Closed
+SC01312,CR0472,2025-10-19,Policy Question,Chat,35.9,1,4.0,Closed
+SC01313,CR0473,2025-05-22,Technical Issue,Phone,19.4,1,5.0,Closed
+SC01314,CR0473,2025-02-04,Technical Issue,Chat,9.9,1,5.0,Closed
+SC01315,CR0473,2025-08-13,Analytics Question,Email,2.0,1,5.0,Closed
+SC01316,CR0474,2025-04-29,Account Access,Phone,7.5,1,5.0,Closed
+SC01317,CR0475,2025-01-21,Monetization,Email,6.5,1,4.0,Closed
+SC01318,CR0476,2025-01-13,Technical Issue,Phone,8.9,1,4.0,Closed
+SC01319,CR0477,2025-05-04,Monetization,Chat,6.7,1,5.0,Closed
+SC01320,CR0477,2025-03-06,Technical Issue,Chat,,0,,Open
+SC01321,CR0477,2025-01-08,Monetization,Email,4.5,1,5.0,Closed
+SC01322,CR0478,2025-07-18,Technical Issue,Chat,4.5,1,4.0,Closed
+SC01323,CR0478,2025-09-27,Policy Question,Email,6.0,0,4.0,Closed
+SC01324,CR0478,2025-05-15,Analytics Question,Chat,12.7,0,4.0,Closed
+SC01325,CR0478,2025-06-29,Technical Issue,Chat,8.2,0,5.0,Closed
+SC01326,CR0478,2025-12-11,Technical Issue,Phone,16.8,1,4.0,Closed
+SC01327,CR0479,2025-05-10,Policy Question,Chat,3.3,1,4.0,Closed
+SC01328,CR0479,2025-06-19,Technical Issue,Email,,0,,Open
+SC01329,CR0479,2025-02-19,Monetization,Phone,6.7,0,4.0,Closed
+SC01330,CR0479,2025-01-07,Policy Question,Chat,12.9,1,4.0,Closed
+SC01331,CR0479,2025-02-18,Policy Question,Chat,9.3,1,5.0,Closed
+SC01332,CR0480,2025-08-05,Policy Question,Email,8.2,1,5.0,Closed
+SC01333,CR0480,2025-01-20,Technical Issue,Email,20.5,0,3.0,Closed
+SC01334,CR0480,2025-07-14,Technical Issue,Email,9.4,0,5.0,Closed
+SC01335,CR0480,2025-10-31,Policy Question,Email,9.3,0,5.0,Closed
+SC01336,CR0481,2025-02-23,Monetization,Chat,5.7,0,5.0,Closed
+SC01337,CR0481,2025-10-30,Analytics Question,Email,23.7,1,4.0,Closed
+SC01338,CR0482,2025-08-04,Technical Issue,Chat,20.0,1,5.0,Closed
+SC01339,CR0482,2025-04-26,Policy Question,Email,5.5,0,3.0,Closed
+SC01340,CR0482,2025-03-24,Analytics Question,Email,4.9,1,4.0,Closed
+SC01341,CR0482,2025-01-07,Technical Issue,Email,37.1,1,3.0,Closed
+SC01342,CR0483,2025-10-22,Policy Question,Email,8.6,0,4.0,Closed
+SC01343,CR0483,2025-04-29,Monetization,Chat,4.3,1,5.0,Closed
+SC01344,CR0483,2025-08-03,Policy Question,Email,,0,,Open
+SC01345,CR0484,2025-01-05,Technical Issue,Chat,26.0,1,4.0,Closed
+SC01346,CR0485,2025-07-27,Monetization,Email,39.1,1,2.0,Closed
+SC01347,CR0485,2025-01-20,Analytics Question,Email,1.0,0,5.0,Closed
+SC01348,CR0485,2025-10-31,Monetization,Email,7.2,1,4.0,Closed
+SC01349,CR0486,2025-08-04,Technical Issue,Email,4.4,0,5.0,Closed
+SC01350,CR0487,2025-03-12,Monetization,Phone,11.0,0,4.0,Closed
+SC01351,CR0487,2025-07-14,Technical Issue,Chat,14.1,0,3.0,Closed
+SC01352,CR0487,2025-03-24,Technical Issue,Chat,8.8,0,4.0,Closed
+SC01353,CR0488,2025-02-14,Policy Question,Chat,21.1,1,3.0,Closed
+SC01354,CR0488,2025-10-21,Analytics Question,Chat,8.1,0,4.0,Closed
+SC01355,CR0489,2025-07-28,Policy Question,Chat,8.8,1,4.0,Closed
+SC01356,CR0490,2025-11-24,Policy Question,Chat,7.9,1,4.0,Closed
+SC01357,CR0491,2025-08-07,Monetization,Email,7.9,0,5.0,Closed
+SC01358,CR0491,2025-11-22,Policy Question,Chat,4.1,0,5.0,Closed
+SC01359,CR0491,2025-12-01,Technical Issue,Email,19.3,1,4.0,Closed
+SC01360,CR0492,2025-11-08,Monetization,Email,83.1,1,1.0,Closed
+SC01361,CR0492,2025-01-23,Policy Question,Email,8.6,0,4.0,Closed
+SC01362,CR0493,2025-08-08,Policy Question,Email,15.4,0,4.0,Closed
+SC01363,CR0493,2025-06-08,Monetization,Chat,34.1,0,2.0,Closed
+SC01364,CR0494,2025-09-23,Technical Issue,Email,11.0,1,4.0,Closed
+SC01365,CR0494,2025-01-09,Monetization,Phone,4.7,1,3.0,Closed
+SC01366,CR0495,2025-02-02,Monetization,Chat,15.1,1,4.0,Closed
+SC01367,CR0495,2025-04-03,Policy Question,Chat,30.4,1,3.0,Closed
+SC01368,CR0495,2025-11-04,Account Access,Phone,21.5,1,4.0,Closed
+SC01369,CR0496,2025-02-04,Analytics Question,Chat,10.2,0,5.0,Closed
+SC01370,CR0496,2025-05-20,Account Access,Phone,8.6,0,4.0,Closed
+SC01371,CR0496,2025-09-02,Policy Question,Phone,6.7,1,5.0,Closed
+SC01372,CR0496,2025-02-15,Policy Question,Chat,38.4,1,3.0,Closed
+SC01373,CR0496,2025-12-17,Monetization,Email,32.4,1,4.0,Closed
+SC01374,CR0497,2025-03-02,Technical Issue,Email,3.5,0,5.0,Closed
+SC01375,CR0497,2025-06-26,Technical Issue,Chat,16.8,0,4.0,Closed
+SC01376,CR0497,2025-03-15,Account Access,Chat,4.3,1,5.0,Closed
+SC01377,CR0497,2025-04-13,Technical Issue,Phone,12.7,1,5.0,Closed
+SC01378,CR0497,2025-04-18,Policy Question,Email,4.8,1,5.0,Closed
+SC01379,CR0497,2025-07-26,Monetization,Chat,13.6,0,3.0,Closed
+SC01380,CR0498,2025-04-06,Account Access,Phone,5.0,1,5.0,Closed
+SC01381,CR0498,2025-10-02,Monetization,Chat,10.5,1,4.0,Closed
+SC01382,CR0498,2025-06-12,Technical Issue,Email,5.1,1,5.0,Closed
+SC01383,CR0498,2025-10-05,Analytics Question,Phone,6.8,0,5.0,Closed
+SC01384,CR0501,2025-07-05,Technical Issue,Chat,6.3,0,4.0,Closed
+SC01385,CR0501,2025-06-24,Policy Question,Email,9.5,1,4.0,Closed
+SC01386,CR0501,2025-05-15,Account Access,Phone,12.8,1,4.0,Closed
+SC01387,CR0501,2025-05-07,Technical Issue,Phone,20.0,1,5.0,Closed
+SC01388,CR0502,2025-02-21,Monetization,Email,10.8,1,5.0,Closed
+SC01389,CR0503,2025-02-12,Monetization,Chat,19.5,1,3.0,Closed
+SC01390,CR0503,2025-11-09,Policy Question,Chat,2.8,1,4.0,Closed
+SC01391,CR0504,2025-11-11,Monetization,Chat,25.0,1,3.0,Closed
+SC01392,CR0504,2025-04-03,Policy Question,Chat,43.5,1,3.0,Closed
+SC01393,CR0505,2025-02-18,Monetization,Chat,6.0,1,5.0,Closed
+SC01394,CR0506,2025-07-17,Policy Question,Email,7.0,0,5.0,Closed
+SC01395,CR0506,2025-03-26,Analytics Question,Email,42.0,1,3.0,Closed
+SC01396,CR0506,2025-05-05,Analytics Question,Email,6.0,0,5.0,Closed
+SC01397,CR0507,2025-02-23,Monetization,Chat,41.8,1,4.0,Closed
+SC01398,CR0507,2025-10-22,Technical Issue,Email,12.5,0,3.0,Closed
+SC01399,CR0510,2025-09-12,Policy Question,Phone,4.2,1,5.0,Closed
+SC01400,CR0511,2025-06-30,Account Access,Email,16.9,1,4.0,Closed
+SC01401,CR0512,2025-12-02,Technical Issue,Email,6.0,0,4.0,Closed
+SC01402,CR0512,2025-03-27,Account Access,Phone,21.9,0,4.0,Closed
+SC01403,CR0512,2025-02-01,Monetization,Chat,4.5,1,4.0,Closed
+SC01404,CR0512,2025-04-09,Policy Question,Email,19.1,0,4.0,Closed
+SC01405,CR0512,2025-08-19,Policy Question,Email,12.1,0,5.0,Closed
+SC01406,CR0512,2025-11-19,Monetization,Chat,,0,,Open
+SC01407,CR0513,2025-02-13,Policy Question,Chat,9.6,1,4.0,Closed
+SC01408,CR0513,2025-07-31,Technical Issue,Email,,0,,Open
+SC01409,CR0514,2025-05-22,Policy Question,Chat,15.9,1,5.0,Closed
+SC01410,CR0514,2025-06-02,Monetization,Chat,14.7,1,4.0,Closed
+SC01411,CR0515,2025-11-29,Monetization,Email,8.5,1,5.0,Closed
+SC01412,CR0515,2025-07-29,Monetization,Chat,16.1,1,4.0,Closed
+SC01413,CR0515,2025-07-21,Policy Question,Email,15.2,1,5.0,Closed
+SC01414,CR0516,2025-01-21,Technical Issue,Chat,11.4,0,5.0,Closed
+SC01415,CR0516,2025-02-16,Monetization,Chat,15.9,1,4.0,Closed
+SC01416,CR0516,2025-10-01,Policy Question,Email,8.9,1,4.0,Closed
+SC01417,CR0516,2025-08-15,Technical Issue,Chat,,0,,Open
+SC01418,CR0517,2025-06-20,Policy Question,Chat,,0,,Open
+SC01419,CR0517,2025-09-12,Policy Question,Phone,20.5,0,4.0,Closed
+SC01420,CR0517,2025-07-20,Analytics Question,Phone,4.5,1,5.0,Closed
+SC01421,CR0518,2025-05-18,Monetization,Email,31.3,1,3.0,Closed
+SC01422,CR0518,2025-05-11,Account Access,Chat,5.1,0,5.0,Closed
+SC01423,CR0518,2025-11-21,Policy Question,Email,14.2,0,4.0,Closed
+SC01424,CR0519,2025-04-13,Monetization,Phone,10.4,1,4.0,Closed
+SC01425,CR0519,2025-04-10,Monetization,Chat,,0,,Open
+SC01426,CR0519,2025-08-12,Policy Question,Email,9.1,0,4.0,Closed
+SC01427,CR0520,2025-09-23,Policy Question,Chat,4.4,1,5.0,Closed
+SC01428,CR0520,2025-03-20,Monetization,Chat,24.6,0,4.0,Closed
+SC01429,CR0520,2025-01-11,Technical Issue,Chat,26.0,1,4.0,Closed
+SC01430,CR0521,2025-09-10,Analytics Question,Chat,,0,,Open
+SC01431,CR0521,2025-04-10,Policy Question,Chat,4.7,1,5.0,Closed
+SC01432,CR0521,2025-03-09,Policy Question,Chat,11.3,1,5.0,Closed
+SC01433,CR0521,2025-07-07,Monetization,Phone,16.3,0,5.0,Closed
+SC01434,CR0521,2025-07-27,Monetization,Phone,8.8,1,5.0,Closed
+SC01435,CR0522,2025-12-25,Policy Question,Phone,9.3,1,5.0,Closed
+SC01436,CR0523,2025-08-10,Account Access,Phone,,0,,Open
+SC01437,CR0523,2025-08-26,Account Access,Email,5.4,1,5.0,Closed
+SC01438,CR0523,2025-11-30,Monetization,Email,25.5,1,4.0,Closed
+SC01439,CR0524,2025-09-02,Technical Issue,Chat,6.2,0,4.0,Closed
+SC01440,CR0525,2025-07-31,Analytics Question,Chat,3.5,0,5.0,Closed
+SC01441,CR0525,2025-09-10,Technical Issue,Email,20.6,1,3.0,Closed
+SC01442,CR0525,2025-07-13,Policy Question,Email,26.8,0,4.0,Closed
+SC01443,CR0525,2025-01-30,Monetization,Phone,3.5,0,5.0,Closed
+SC01444,CR0526,2025-03-06,Policy Question,Chat,7.3,1,5.0,Closed
+SC01445,CR0526,2025-12-24,Account Access,Chat,5.3,1,5.0,Closed
+SC01446,CR0527,2025-02-22,Policy Question,Email,12.4,0,5.0,Closed
+SC01447,CR0527,2025-07-31,Account Access,Chat,9.8,0,5.0,Closed
+SC01448,CR0527,2025-12-07,Policy Question,Email,18.6,1,4.0,Closed
+SC01449,CR0527,2025-09-30,Account Access,Chat,10.1,1,5.0,Closed
+SC01450,CR0528,2025-06-22,Monetization,Chat,45.3,1,3.0,Closed
+SC01451,CR0528,2025-08-17,Policy Question,Chat,26.8,1,3.0,Closed
+SC01452,CR0528,2025-07-02,Monetization,Chat,8.5,0,5.0,Closed
+SC01453,CR0529,2025-02-08,Monetization,Chat,30.9,1,4.0,Closed
+SC01454,CR0529,2025-06-16,Policy Question,Chat,12.9,1,5.0,Closed
+SC01455,CR0529,2025-02-16,Technical Issue,Phone,13.5,1,4.0,Closed
+SC01456,CR0530,2025-04-20,Monetization,Chat,40.9,0,3.0,Closed
+SC01457,CR0530,2025-08-23,Policy Question,Phone,12.5,0,3.0,Closed
+SC01458,CR0530,2025-09-19,Technical Issue,Email,16.8,1,4.0,Closed
+SC01459,CR0531,2025-10-05,Monetization,Email,8.7,1,5.0,Closed
+SC01460,CR0531,2025-03-25,Policy Question,Phone,23.1,0,4.0,Closed
+SC01461,CR0532,2025-10-05,Account Access,Chat,15.6,0,4.0,Closed
+SC01462,CR0532,2025-07-21,Monetization,Chat,3.6,0,4.0,Closed
+SC01463,CR0532,2025-05-25,Policy Question,Chat,10.4,1,4.0,Closed
+SC01464,CR0533,2025-05-28,Account Access,Phone,22.4,1,3.0,Closed
+SC01465,CR0533,2025-04-08,Monetization,Chat,13.8,1,4.0,Closed
+SC01466,CR0533,2025-06-01,Account Access,Phone,7.0,0,5.0,Closed
+SC01467,CR0533,2025-07-17,Analytics Question,Chat,4.2,1,5.0,Closed
+SC01468,CR0533,2025-04-17,Technical Issue,Phone,7.1,0,4.0,Closed
+SC01469,CR0533,2025-05-30,Analytics Question,Email,6.7,1,5.0,Closed
+SC01470,CR0533,2025-03-21,Technical Issue,Email,3.8,0,4.0,Closed
+SC01471,CR0534,2025-04-17,Monetization,Chat,30.8,1,5.0,Closed
+SC01472,CR0534,2025-09-27,Policy Question,Phone,17.9,1,2.0,Closed
+SC01473,CR0536,2025-01-24,Account Access,Email,20.7,1,5.0,Closed
+SC01474,CR0536,2025-12-27,Policy Question,Phone,5.1,1,5.0,Closed
+SC01475,CR0536,2025-09-06,Technical Issue,Email,26.8,1,3.0,Closed
+SC01476,CR0536,2025-08-05,Monetization,Email,14.7,1,5.0,Closed
+SC01477,CR0537,2025-02-13,Technical Issue,Email,12.5,0,3.0,Closed
+SC01478,CR0537,2025-02-22,Monetization,Email,14.0,1,4.0,Closed
+SC01479,CR0537,2025-06-04,Technical Issue,Chat,66.0,1,2.0,Closed
+SC01480,CR0537,2025-12-16,Monetization,Email,2.8,1,5.0,Closed
+SC01481,CR0538,2025-08-10,Account Access,Email,11.0,0,3.0,Closed
+SC01482,CR0538,2025-11-07,Analytics Question,Phone,4.2,0,5.0,Closed
+SC01483,CR0539,2025-04-04,Technical Issue,Email,8.5,1,4.0,Closed
+SC01484,CR0539,2025-11-11,Policy Question,Email,6.6,1,3.0,Closed
+SC01485,CR0539,2025-03-17,Policy Question,Chat,13.3,0,3.0,Closed
+SC01486,CR0540,2025-12-15,Technical Issue,Chat,15.9,1,5.0,Closed
+SC01487,CR0540,2025-01-05,Technical Issue,Email,4.4,0,4.0,Closed
+SC01488,CR0540,2025-02-12,Monetization,Phone,5.5,1,4.0,Closed
+SC01489,CR0541,2025-06-15,Account Access,Phone,9.2,1,5.0,Closed
+SC01490,CR0542,2025-11-28,Technical Issue,Chat,5.0,1,5.0,Closed
+SC01491,CR0542,2025-11-13,Account Access,Email,2.7,1,5.0,Closed
+SC01492,CR0542,2025-12-06,Analytics Question,Chat,4.0,0,5.0,Closed
+SC01493,CR0544,2025-06-19,Analytics Question,Email,5.5,1,5.0,Closed
+SC01494,CR0544,2025-11-16,Policy Question,Phone,18.4,1,5.0,Closed
+SC01495,CR0544,2025-03-03,Analytics Question,Email,23.0,1,4.0,Closed
+SC01496,CR0545,2025-09-15,Monetization,Chat,10.9,0,4.0,Closed
+SC01497,CR0545,2025-02-05,Technical Issue,Email,5.7,0,4.0,Closed
+SC01498,CR0545,2025-02-10,Technical Issue,Chat,7.0,1,5.0,Closed
+SC01499,CR0545,2025-10-09,Technical Issue,Email,,0,,Open
+SC01500,CR0545,2025-10-11,Technical Issue,Chat,5.9,1,5.0,Closed
+SC01501,CR0546,2025-10-31,Account Access,Email,25.4,0,2.0,Closed
+SC01502,CR0546,2025-07-31,Policy Question,Chat,12.2,0,4.0,Closed
+SC01503,CR0546,2025-10-15,Technical Issue,Phone,11.5,1,4.0,Closed
+SC01504,CR0546,2025-02-14,Policy Question,Chat,5.8,1,5.0,Closed
+SC01505,CR0547,2025-03-26,Analytics Question,Chat,7.9,1,4.0,Closed
+SC01506,CR0547,2025-11-21,Monetization,Email,21.0,0,4.0,Closed
+SC01507,CR0547,2025-07-26,Account Access,Email,11.5,0,5.0,Closed
+SC01508,CR0547,2025-11-18,Account Access,Email,1.1,1,5.0,Closed
+SC01509,CR0548,2025-04-04,Account Access,Chat,25.1,1,4.0,Closed
+SC01510,CR0548,2025-03-31,Account Access,Phone,,0,,Open
+SC01511,CR0549,2025-12-31,Monetization,Chat,5.6,0,5.0,Closed
+SC01512,CR0550,2025-01-26,Analytics Question,Phone,2.9,0,5.0,Closed
+SC01513,CR0550,2025-08-22,Account Access,Email,12.3,0,4.0,Closed
+SC01514,CR0550,2025-07-29,Policy Question,Phone,14.0,1,3.0,Closed
+SC01515,CR0550,2025-08-21,Analytics Question,Email,8.6,1,4.0,Closed
+SC01516,CR0551,2025-06-13,Technical Issue,Phone,,0,,Open
+SC01517,CR0551,2025-01-27,Technical Issue,Chat,14.1,1,4.0,Closed
+SC01518,CR0551,2025-04-07,Analytics Question,Chat,4.8,1,5.0,Closed
+SC01519,CR0551,2025-04-22,Account Access,Email,5.9,1,5.0,Closed
+SC01520,CR0551,2025-12-29,Technical Issue,Chat,10.3,1,5.0,Closed
+SC01521,CR0551,2025-01-30,Policy Question,Chat,11.1,0,5.0,Closed
+SC01522,CR0551,2025-08-31,Monetization,Email,18.8,1,4.0,Closed
+SC01523,CR0552,2025-05-02,Technical Issue,Chat,19.2,1,5.0,Closed
+SC01524,CR0552,2025-03-14,Technical Issue,Email,,0,,Open
+SC01525,CR0552,2025-09-07,Monetization,Phone,12.0,1,5.0,Closed
+SC01526,CR0553,2025-04-10,Account Access,Email,29.5,1,3.0,Closed
+SC01527,CR0554,2025-03-22,Analytics Question,Chat,3.0,1,5.0,Closed
+SC01528,CR0554,2025-04-14,Analytics Question,Email,3.2,0,5.0,Closed
+SC01529,CR0554,2025-06-27,Technical Issue,Phone,8.0,0,5.0,Closed
+SC01530,CR0555,2025-10-28,Monetization,Phone,4.7,1,5.0,Closed
+SC01531,CR0555,2025-07-25,Policy Question,Email,5.5,1,3.0,Closed
+SC01532,CR0556,2025-11-26,Policy Question,Chat,11.9,1,4.0,Closed
+SC01533,CR0556,2025-10-25,Technical Issue,Email,6.0,0,4.0,Closed
+SC01534,CR0556,2025-04-10,Monetization,Chat,27.4,1,3.0,Closed
+SC01535,CR0556,2025-09-20,Account Access,Chat,11.4,1,3.0,Closed
+SC01536,CR0557,2025-12-09,Monetization,Email,19.9,0,3.0,Closed
+SC01537,CR0558,2025-10-07,Technical Issue,Chat,11.0,1,4.0,Closed
+SC01538,CR0558,2025-06-06,Monetization,Chat,5.6,1,5.0,Closed
+SC01539,CR0558,2025-09-11,Technical Issue,Email,12.0,0,5.0,Closed
+SC01540,CR0558,2025-08-12,Monetization,Chat,49.4,0,2.0,Closed
+SC01541,CR0558,2025-01-26,Monetization,Email,5.1,1,5.0,Closed
+SC01542,CR0558,2025-01-26,Policy Question,Email,,0,,Open
+SC01543,CR0558,2025-07-13,Technical Issue,Email,25.3,1,4.0,Closed
+SC01544,CR0558,2025-08-13,Monetization,Email,6.6,1,5.0,Closed
+SC01545,CR0558,2025-04-12,Policy Question,Email,8.3,1,5.0,Closed
+SC01546,CR0558,2025-12-21,Monetization,Phone,25.3,1,3.0,Closed
+SC01547,CR0558,2025-11-25,Policy Question,Email,15.1,1,5.0,Closed
+SC01548,CR0559,2025-09-26,Technical Issue,Email,21.7,1,4.0,Closed
+SC01549,CR0559,2025-04-21,Account Access,Email,2.2,1,5.0,Closed
+SC01550,CR0559,2025-09-07,Monetization,Chat,11.4,0,4.0,Closed
+SC01551,CR0560,2025-10-08,Monetization,Chat,7.8,1,4.0,Closed
+SC01552,CR0560,2025-04-22,Analytics Question,Phone,3.3,1,5.0,Closed
+SC01553,CR0561,2025-12-03,Technical Issue,Email,,0,,Open
+SC01554,CR0562,2025-10-20,Monetization,Email,42.7,0,2.0,Closed
+SC01555,CR0562,2025-05-26,Policy Question,Phone,4.2,1,5.0,Closed
+SC01556,CR0562,2025-12-05,Policy Question,Chat,10.5,0,5.0,Closed
+SC01557,CR0562,2025-01-11,Account Access,Email,,0,,Open
+SC01558,CR0563,2025-11-19,Analytics Question,Email,3.8,0,5.0,Closed
+SC01559,CR0563,2025-11-23,Policy Question,Chat,6.0,1,4.0,Closed
+SC01560,CR0563,2025-04-23,Account Access,Chat,8.0,1,4.0,Closed
+SC01561,CR0563,2025-09-22,Analytics Question,Chat,13.4,0,5.0,Closed
+SC01562,CR0565,2025-08-19,Monetization,Chat,9.2,0,4.0,Closed
+SC01563,CR0566,2025-08-29,Technical Issue,Phone,15.7,1,5.0,Closed
+SC01564,CR0566,2025-06-18,Monetization,Chat,8.7,1,4.0,Closed
+SC01565,CR0566,2025-10-12,Monetization,Chat,29.9,1,4.0,Closed
+SC01566,CR0566,2025-01-30,Policy Question,Email,5.0,0,4.0,Closed
+SC01567,CR0566,2025-07-19,Account Access,Phone,5.5,0,4.0,Closed
+SC01568,CR0566,2025-07-01,Policy Question,Email,9.5,1,5.0,Closed
+SC01569,CR0567,2025-11-22,Technical Issue,Phone,17.9,1,4.0,Closed
+SC01570,CR0567,2025-06-25,Technical Issue,Chat,4.0,0,5.0,Closed
+SC01571,CR0567,2025-01-18,Policy Question,Email,52.1,1,2.0,Closed
+SC01572,CR0567,2025-10-06,Policy Question,Chat,14.8,1,4.0,Closed
+SC01573,CR0567,2025-12-06,Analytics Question,Phone,1.0,1,5.0,Closed
+SC01574,CR0567,2025-05-01,Policy Question,Phone,,0,,Open
+SC01575,CR0568,2025-09-30,Policy Question,Chat,9.0,1,5.0,Closed
+SC01576,CR0568,2025-07-16,Monetization,Phone,3.3,0,5.0,Closed
+SC01577,CR0569,2025-04-01,Monetization,Phone,8.2,1,5.0,Closed
+SC01578,CR0569,2025-07-09,Analytics Question,Email,,0,,Open
+SC01579,CR0569,2025-11-22,Technical Issue,Phone,17.2,0,4.0,Closed
+SC01580,CR0569,2025-10-10,Account Access,Email,3.7,0,4.0,Closed
+SC01581,CR0569,2025-03-27,Policy Question,Phone,26.6,0,4.0,Closed
+SC01582,CR0570,2025-06-16,Policy Question,Phone,6.4,1,5.0,Closed
+SC01583,CR0570,2025-07-11,Technical Issue,Phone,9.2,1,5.0,Closed
+SC01584,CR0570,2025-05-03,Monetization,Chat,7.8,1,5.0,Closed
+SC01585,CR0571,2025-11-22,Account Access,Email,,0,,Open
+SC01586,CR0571,2025-06-19,Policy Question,Email,13.8,1,4.0,Closed
+SC01587,CR0571,2025-05-03,Account Access,Email,9.6,0,5.0,Closed
+SC01588,CR0571,2025-03-15,Monetization,Chat,13.7,1,3.0,Closed
+SC01589,CR0572,2025-06-16,Account Access,Email,1.3,0,4.0,Closed
+SC01590,CR0572,2025-11-06,Technical Issue,Email,8.7,1,4.0,Closed
+SC01591,CR0572,2025-07-25,Analytics Question,Chat,11.2,1,5.0,Closed
+SC01592,CR0573,2025-06-04,Policy Question,Email,3.4,0,4.0,Closed
+SC01593,CR0574,2025-03-24,Analytics Question,Email,2.1,1,5.0,Closed
+SC01594,CR0574,2025-12-12,Account Access,Email,10.1,0,4.0,Closed
+SC01595,CR0574,2025-08-12,Account Access,Email,8.5,1,5.0,Closed
+SC01596,CR0574,2025-06-24,Technical Issue,Chat,7.7,0,5.0,Closed
+SC01597,CR0575,2025-05-12,Account Access,Phone,5.2,1,5.0,Closed
+SC01598,CR0576,2025-06-30,Monetization,Phone,3.9,1,5.0,Closed
+SC01599,CR0576,2025-04-28,Technical Issue,Phone,24.7,1,4.0,Closed
+SC01600,CR0576,2025-02-25,Monetization,Chat,27.1,1,3.0,Closed
+SC01601,CR0576,2025-07-27,Analytics Question,Phone,5.2,1,4.0,Closed
+SC01602,CR0577,2025-12-26,Account Access,Chat,3.9,0,4.0,Closed
+SC01603,CR0577,2025-10-26,Monetization,Email,23.3,0,4.0,Closed
+SC01604,CR0577,2025-06-20,Monetization,Email,13.0,0,4.0,Closed
+SC01605,CR0578,2025-02-25,Monetization,Phone,27.3,1,4.0,Closed
+SC01606,CR0578,2025-09-05,Policy Question,Phone,6.3,1,5.0,Closed
+SC01607,CR0579,2025-06-18,Analytics Question,Email,3.5,1,5.0,Closed
+SC01608,CR0579,2025-01-11,Policy Question,Email,4.1,1,5.0,Closed
+SC01609,CR0579,2025-09-23,Technical Issue,Phone,13.0,0,5.0,Closed
+SC01610,CR0579,2025-07-01,Policy Question,Phone,,0,,Open
+SC01611,CR0580,2025-05-13,Monetization,Chat,40.1,1,4.0,Closed
+SC01612,CR0581,2025-10-07,Monetization,Chat,,0,,Open
+SC01613,CR0581,2025-05-04,Technical Issue,Chat,4.4,1,5.0,Closed
+SC01614,CR0581,2025-07-25,Account Access,Email,8.1,1,4.0,Closed
+SC01615,CR0581,2025-10-21,Technical Issue,Chat,25.0,1,5.0,Closed
+SC01616,CR0582,2025-06-22,Monetization,Phone,17.5,0,4.0,Closed
+SC01617,CR0582,2025-11-13,Analytics Question,Email,3.7,1,5.0,Closed
+SC01618,CR0582,2025-02-01,Monetization,Email,8.4,1,3.0,Closed
+SC01619,CR0583,2025-05-18,Monetization,Phone,10.8,1,5.0,Closed
+SC01620,CR0583,2025-08-01,Monetization,Phone,8.8,1,5.0,Closed
+SC01621,CR0583,2025-04-06,Analytics Question,Chat,13.0,0,4.0,Closed
+SC01622,CR0584,2025-02-21,Analytics Question,Phone,4.2,1,5.0,Closed
+SC01623,CR0584,2025-06-18,Analytics Question,Chat,5.4,1,5.0,Closed
+SC01624,CR0584,2025-06-16,Policy Question,Email,110.0,0,1.0,Closed
+SC01625,CR0585,2025-09-06,Policy Question,Email,12.3,1,5.0,Closed
+SC01626,CR0585,2025-01-15,Analytics Question,Chat,10.0,1,5.0,Closed
+SC01627,CR0585,2025-10-27,Account Access,Chat,17.4,1,4.0,Closed
+SC01628,CR0585,2025-03-06,Analytics Question,Phone,6.5,1,5.0,Closed
+SC01629,CR0586,2025-12-18,Monetization,Email,4.3,1,5.0,Closed
+SC01630,CR0586,2025-01-23,Technical Issue,Chat,4.7,1,5.0,Closed
+SC01631,CR0586,2025-01-06,Technical Issue,Email,6.3,1,4.0,Closed
+SC01632,CR0588,2025-03-30,Account Access,Phone,7.8,0,5.0,Closed
+SC01633,CR0588,2025-08-25,Account Access,Chat,22.1,1,4.0,Closed
+SC01634,CR0589,2025-09-02,Account Access,Email,5.4,1,3.0,Closed
+SC01635,CR0589,2025-03-13,Technical Issue,Email,10.6,1,4.0,Closed
+SC01636,CR0590,2025-08-07,Monetization,Chat,14.6,1,5.0,Closed
+SC01637,CR0590,2025-11-20,Monetization,Chat,10.2,1,3.0,Closed
+SC01638,CR0590,2025-01-29,Monetization,Email,,0,,Open
+SC01639,CR0590,2025-10-11,Account Access,Chat,19.5,1,4.0,Closed
+SC01640,CR0590,2025-06-06,Monetization,Chat,19.1,1,5.0,Closed
+SC01641,CR0590,2025-01-10,Technical Issue,Chat,10.7,0,5.0,Closed
+SC01642,CR0590,2025-11-20,Policy Question,Phone,4.5,0,5.0,Closed
+SC01643,CR0591,2025-03-30,Account Access,Chat,4.1,0,5.0,Closed
+SC01644,CR0593,2025-07-27,Monetization,Email,4.2,1,4.0,Closed
+SC01645,CR0593,2025-09-11,Analytics Question,Email,4.2,1,5.0,Closed
+SC01646,CR0593,2025-03-11,Policy Question,Phone,5.7,1,4.0,Closed
+SC01647,CR0593,2025-03-25,Technical Issue,Chat,8.1,0,4.0,Closed
+SC01648,CR0593,2025-05-23,Policy Question,Chat,6.6,0,4.0,Closed
+SC01649,CR0594,2025-04-25,Policy Question,Email,8.9,1,5.0,Closed
+SC01650,CR0594,2025-06-03,Analytics Question,Email,6.4,1,4.0,Closed
+SC01651,CR0595,2025-12-02,Monetization,Email,13.0,0,5.0,Closed
+SC01652,CR0595,2025-02-07,Monetization,Email,25.1,1,4.0,Closed
+SC01653,CR0595,2025-03-22,Monetization,Chat,12.0,1,5.0,Closed
+SC01654,CR0595,2025-11-21,Policy Question,Phone,13.8,1,4.0,Closed
+SC01655,CR0596,2025-08-26,Technical Issue,Chat,3.2,1,5.0,Closed
+SC01656,CR0596,2025-12-23,Policy Question,Phone,11.9,0,5.0,Closed
+SC01657,CR0596,2025-02-05,Monetization,Chat,7.0,0,5.0,Closed
+SC01658,CR0598,2025-03-10,Technical Issue,Email,16.0,1,4.0,Closed
+SC01659,CR0598,2025-07-02,Monetization,Email,14.3,0,3.0,Closed
+SC01660,CR0598,2025-07-27,Monetization,Email,2.6,0,3.0,Closed
+SC01661,CR0599,2025-07-27,Technical Issue,Phone,13.8,1,4.0,Closed
+SC01662,CR0599,2025-04-03,Technical Issue,Phone,24.3,0,4.0,Closed
+SC01663,CR0600,2025-05-22,Monetization,Email,4.6,0,4.0,Closed
+SC01664,CR0600,2025-05-13,Analytics Question,Chat,8.4,1,5.0,Closed
+SC01665,CR0600,2025-12-05,Monetization,Email,4.2,1,5.0,Closed
+SC01666,CR0600,2025-12-12,Analytics Question,Chat,3.2,1,5.0,Closed
+SC01667,CR0600,2025-07-03,Analytics Question,Phone,12.4,1,5.0,Closed
+SC01668,CR0601,2025-11-05,Policy Question,Email,58.1,1,1.0,Closed
+SC01669,CR0601,2025-03-18,Account Access,Chat,25.0,0,4.0,Closed
+SC01670,CR0602,2025-12-01,Account Access,Email,19.7,1,4.0,Closed
+SC01671,CR0602,2025-12-07,Analytics Question,Phone,3.7,1,5.0,Closed
+SC01672,CR0603,2025-08-09,Account Access,Email,3.5,0,5.0,Closed
+SC01673,CR0603,2025-04-05,Monetization,Phone,10.2,1,4.0,Closed
+SC01674,CR0604,2025-03-06,Analytics Question,Email,1.8,0,5.0,Closed
+SC01675,CR0604,2025-06-18,Policy Question,Email,,0,,Open
+SC01676,CR0604,2025-05-22,Analytics Question,Email,13.6,1,4.0,Closed
+SC01677,CR0604,2025-07-21,Technical Issue,Chat,4.4,1,4.0,Closed
+SC01678,CR0604,2025-03-03,Technical Issue,Email,11.9,1,5.0,Closed
+SC01679,CR0604,2025-05-26,Account Access,Phone,10.7,1,4.0,Closed
+SC01680,CR0606,2025-05-07,Analytics Question,Chat,6.4,1,5.0,Closed
+SC01681,CR0606,2025-07-24,Monetization,Email,15.6,1,4.0,Closed
+SC01682,CR0607,2025-02-08,Monetization,Email,15.9,0,3.0,Closed
+SC01683,CR0607,2025-10-04,Technical Issue,Phone,15.4,0,4.0,Closed
+SC01684,CR0607,2025-08-09,Monetization,Chat,23.7,1,4.0,Closed
+SC01685,CR0607,2025-07-08,Account Access,Chat,2.8,0,5.0,Closed
+SC01686,CR0608,2025-02-04,Monetization,Email,6.5,0,5.0,Closed
+SC01687,CR0608,2025-06-11,Technical Issue,Email,7.2,0,4.0,Closed
+SC01688,CR0608,2025-11-01,Monetization,Email,28.9,0,3.0,Closed
+SC01689,CR0608,2025-07-12,Analytics Question,Email,3.5,1,4.0,Closed
+SC01690,CR0608,2025-02-09,Monetization,Chat,15.3,1,5.0,Closed
+SC01691,CR0609,2025-06-05,Technical Issue,Chat,19.2,0,3.0,Closed
+SC01692,CR0609,2025-06-17,Account Access,Phone,3.7,0,4.0,Closed
+SC01693,CR0610,2025-11-16,Policy Question,Email,15.2,1,4.0,Closed
+SC01694,CR0611,2025-09-08,Monetization,Email,,0,,Open
+SC01695,CR0611,2025-12-17,Policy Question,Chat,4.9,0,5.0,Closed
+SC01696,CR0611,2025-05-07,Technical Issue,Email,42.4,0,3.0,Closed
+SC01697,CR0611,2025-02-28,Technical Issue,Phone,4.6,1,5.0,Closed
+SC01698,CR0612,2025-06-03,Technical Issue,Email,12.1,1,4.0,Closed
+SC01699,CR0613,2025-09-22,Monetization,Email,8.8,0,5.0,Closed
+SC01700,CR0614,2025-12-17,Policy Question,Email,8.7,1,4.0,Closed
+SC01701,CR0615,2025-04-07,Analytics Question,Phone,11.4,0,4.0,Closed
+SC01702,CR0615,2025-03-03,Policy Question,Email,17.0,1,5.0,Closed
+SC01703,CR0615,2025-12-05,Monetization,Email,5.9,1,4.0,Closed
+SC01704,CR0616,2025-03-28,Policy Question,Email,7.7,1,4.0,Closed
+SC01705,CR0616,2025-04-24,Monetization,Email,4.4,1,5.0,Closed
+SC01706,CR0616,2025-03-29,Monetization,Phone,10.7,1,5.0,Closed
+SC01707,CR0617,2025-05-02,Account Access,Email,,0,,Open
+SC01708,CR0617,2025-01-08,Account Access,Email,5.7,0,4.0,Closed
+SC01709,CR0618,2025-10-25,Analytics Question,Email,21.8,1,5.0,Closed
+SC01710,CR0618,2025-04-25,Account Access,Chat,24.5,1,3.0,Closed
+SC01711,CR0618,2025-05-08,Analytics Question,Email,3.2,1,4.0,Closed
+SC01712,CR0619,2025-02-04,Policy Question,Email,5.7,1,5.0,Closed
+SC01713,CR0620,2025-03-23,Monetization,Email,11.2,1,5.0,Closed
+SC01714,CR0620,2025-04-07,Monetization,Chat,11.9,0,5.0,Closed
+SC01715,CR0620,2025-06-20,Technical Issue,Phone,,0,,Open
+SC01716,CR0620,2025-08-19,Technical Issue,Phone,,0,,Open
+SC01717,CR0620,2025-07-28,Monetization,Chat,18.7,1,4.0,Closed
+SC01718,CR0621,2025-06-18,Policy Question,Email,7.1,1,5.0,Closed
+SC01719,CR0621,2025-12-06,Account Access,Chat,11.8,1,4.0,Closed
+SC01720,CR0621,2025-11-05,Policy Question,Email,8.7,1,3.0,Closed
+SC01721,CR0624,2025-07-17,Monetization,Phone,2.9,0,4.0,Closed
+SC01722,CR0624,2025-05-25,Analytics Question,Chat,6.1,0,5.0,Closed
+SC01723,CR0624,2025-12-24,Technical Issue,Phone,6.0,0,5.0,Closed
+SC01724,CR0624,2025-10-09,Technical Issue,Chat,5.5,1,4.0,Closed
+SC01725,CR0624,2025-07-10,Analytics Question,Phone,5.7,0,4.0,Closed
+SC01726,CR0624,2025-03-26,Analytics Question,Chat,15.8,0,4.0,Closed
+SC01727,CR0624,2025-06-27,Analytics Question,Email,1.8,1,4.0,Closed
+SC01728,CR0624,2025-10-04,Policy Question,Chat,11.5,1,4.0,Closed
+SC01729,CR0624,2025-04-11,Account Access,Chat,2.9,1,4.0,Closed
+SC01730,CR0626,2025-12-03,Account Access,Chat,10.8,1,5.0,Closed
+SC01731,CR0626,2025-12-25,Account Access,Phone,8.5,1,5.0,Closed
+SC01732,CR0626,2025-03-06,Technical Issue,Chat,16.3,1,4.0,Closed
+SC01733,CR0627,2025-02-13,Monetization,Chat,7.0,0,5.0,Closed
+SC01734,CR0627,2025-01-02,Account Access,Chat,3.3,1,5.0,Closed
+SC01735,CR0627,2025-12-10,Policy Question,Phone,26.6,1,3.0,Closed
+SC01736,CR0628,2025-08-28,Analytics Question,Email,,0,,Open
+SC01737,CR0628,2025-07-22,Technical Issue,Email,13.2,1,4.0,Closed
+SC01738,CR0629,2025-03-13,Technical Issue,Email,8.6,0,4.0,Closed
+SC01739,CR0630,2025-05-06,Technical Issue,Phone,9.0,1,4.0,Closed
+SC01740,CR0630,2025-07-14,Policy Question,Chat,15.8,1,4.0,Closed
+SC01741,CR0631,2025-10-17,Policy Question,Email,34.1,1,3.0,Closed
+SC01742,CR0631,2025-12-01,Analytics Question,Chat,4.1,1,4.0,Closed
+SC01743,CR0631,2025-06-07,Technical Issue,Chat,4.7,1,5.0,Closed
+SC01744,CR0631,2025-05-23,Policy Question,Phone,10.2,1,4.0,Closed
+SC01745,CR0631,2025-08-01,Monetization,Chat,4.9,0,5.0,Closed
+SC01746,CR0631,2025-03-17,Account Access,Phone,10.1,0,4.0,Closed
+SC01747,CR0631,2025-08-12,Policy Question,Email,36.7,1,1.0,Closed
+SC01748,CR0631,2025-02-02,Monetization,Email,11.2,1,5.0,Closed
+SC01749,CR0631,2025-09-20,Technical Issue,Email,4.2,1,5.0,Closed
+SC01750,CR0632,2025-12-08,Account Access,Email,19.4,1,4.0,Closed
+SC01751,CR0633,2025-10-27,Monetization,Chat,11.9,0,4.0,Closed
+SC01752,CR0633,2025-09-25,Analytics Question,Chat,13.7,1,5.0,Closed
+SC01753,CR0633,2025-01-28,Policy Question,Email,11.5,1,5.0,Closed
+SC01754,CR0633,2025-02-22,Account Access,Email,7.6,1,4.0,Closed
+SC01755,CR0633,2025-07-24,Technical Issue,Email,27.6,1,4.0,Closed
+SC01756,CR0633,2025-11-11,Policy Question,Email,3.3,0,5.0,Closed
+SC01757,CR0634,2025-10-21,Monetization,Email,33.6,1,4.0,Closed
+SC01758,CR0634,2025-02-18,Technical Issue,Phone,,0,,Open
+SC01759,CR0634,2025-11-04,Policy Question,Chat,13.3,1,5.0,Closed
+SC01760,CR0634,2025-02-24,Monetization,Chat,11.1,0,5.0,Closed
+SC01761,CR0634,2025-12-27,Analytics Question,Chat,9.3,1,5.0,Closed
+SC01762,CR0634,2025-07-13,Policy Question,Phone,10.2,0,4.0,Closed
+SC01763,CR0637,2025-10-12,Technical Issue,Email,6.4,0,4.0,Closed
+SC01764,CR0637,2025-10-01,Policy Question,Chat,16.4,1,5.0,Closed
+SC01765,CR0638,2025-04-17,Monetization,Email,16.7,1,3.0,Closed
+SC01766,CR0638,2025-07-04,Analytics Question,Phone,3.9,1,5.0,Closed
+SC01767,CR0638,2025-02-23,Policy Question,Email,11.6,1,5.0,Closed
+SC01768,CR0638,2025-09-17,Monetization,Chat,,0,,Open
+SC01769,CR0638,2025-10-07,Technical Issue,Chat,10.4,1,5.0,Closed
+SC01770,CR0639,2025-01-29,Analytics Question,Email,44.5,0,3.0,Closed
+SC01771,CR0639,2025-03-17,Technical Issue,Email,8.6,0,4.0,Closed
+SC01772,CR0641,2025-11-15,Analytics Question,Phone,22.2,1,4.0,Closed
+SC01773,CR0641,2025-10-30,Technical Issue,Phone,20.1,1,5.0,Closed
+SC01774,CR0641,2025-07-24,Monetization,Email,6.1,1,4.0,Closed
+SC01775,CR0642,2025-11-06,Analytics Question,Chat,12.6,1,4.0,Closed
+SC01776,CR0642,2025-05-27,Account Access,Email,24.9,1,4.0,Closed
+SC01777,CR0643,2025-11-07,Monetization,Chat,6.8,1,5.0,Closed
+SC01778,CR0643,2025-01-27,Analytics Question,Email,12.6,1,4.0,Closed
+SC01779,CR0644,2025-04-20,Technical Issue,Email,5.9,1,5.0,Closed
+SC01780,CR0645,2025-03-15,Technical Issue,Email,11.6,1,4.0,Closed
+SC01781,CR0645,2025-02-06,Monetization,Email,15.7,0,4.0,Closed
+SC01782,CR0645,2025-06-26,Policy Question,Phone,4.2,1,4.0,Closed
+SC01783,CR0646,2025-04-04,Monetization,Email,57.0,1,3.0,Closed
+SC01784,CR0646,2025-12-07,Analytics Question,Chat,10.5,0,5.0,Closed
+SC01785,CR0647,2025-12-02,Monetization,Phone,16.6,1,5.0,Closed
+SC01786,CR0647,2025-02-13,Monetization,Chat,12.8,0,5.0,Closed
+SC01787,CR0647,2025-01-31,Monetization,Chat,7.4,1,5.0,Closed
+SC01788,CR0648,2025-05-04,Technical Issue,Phone,,0,,Open
+SC01789,CR0648,2025-10-06,Account Access,Chat,20.0,1,5.0,Closed
+SC01790,CR0648,2025-01-16,Technical Issue,Email,9.1,1,4.0,Closed
+SC01791,CR0648,2025-02-10,Technical Issue,Chat,17.8,1,3.0,Closed
+SC01792,CR0648,2025-08-31,Account Access,Chat,13.4,1,4.0,Closed
+SC01793,CR0649,2025-06-02,Monetization,Chat,13.2,1,5.0,Closed
+SC01794,CR0649,2025-10-28,Monetization,Email,15.6,1,4.0,Closed
+SC01795,CR0650,2025-02-11,Technical Issue,Chat,30.2,1,5.0,Closed
+SC01796,CR0650,2025-06-01,Account Access,Email,13.6,0,4.0,Closed
+SC01797,CR0650,2025-01-13,Policy Question,Chat,32.5,1,2.0,Closed
+SC01798,CR0651,2025-08-02,Monetization,Phone,15.0,1,4.0,Closed
+SC01799,CR0651,2025-11-03,Technical Issue,Chat,9.1,1,4.0,Closed
+SC01800,CR0652,2025-08-15,Account Access,Phone,3.8,1,5.0,Closed
+SC01801,CR0652,2025-02-27,Technical Issue,Chat,9.0,0,4.0,Closed
+SC01802,CR0653,2025-07-20,Monetization,Chat,9.6,1,4.0,Closed
+SC01803,CR0653,2025-07-17,Monetization,Email,10.0,0,4.0,Closed
+SC01804,CR0654,2025-12-30,Account Access,Email,29.3,0,3.0,Closed
+SC01805,CR0654,2025-01-22,Technical Issue,Chat,,0,,Open
+SC01806,CR0654,2025-11-21,Technical Issue,Chat,8.9,0,4.0,Closed
+SC01807,CR0654,2025-07-13,Technical Issue,Chat,3.0,0,4.0,Closed
+SC01808,CR0656,2025-01-23,Technical Issue,Email,14.5,1,5.0,Closed
+SC01809,CR0656,2025-05-22,Technical Issue,Chat,20.3,1,3.0,Closed
+SC01810,CR0656,2025-07-22,Monetization,Email,13.7,0,4.0,Closed
+SC01811,CR0657,2025-10-20,Technical Issue,Phone,2.9,0,5.0,Closed
+SC01812,CR0657,2025-02-26,Monetization,Email,19.6,0,5.0,Closed
+SC01813,CR0658,2025-11-13,Account Access,Email,,0,,Open
+SC01814,CR0659,2025-04-10,Technical Issue,Email,11.5,1,4.0,Closed
+SC01815,CR0660,2025-10-17,Monetization,Phone,,0,,Open
+SC01816,CR0660,2025-06-09,Account Access,Chat,3.1,1,5.0,Closed
+SC01817,CR0660,2025-10-06,Account Access,Email,16.0,1,4.0,Closed
+SC01818,CR0660,2025-09-14,Monetization,Email,18.6,1,5.0,Closed
+SC01819,CR0661,2025-06-18,Analytics Question,Email,8.9,1,5.0,Closed
+SC01820,CR0661,2025-02-04,Policy Question,Chat,11.0,1,5.0,Closed
+SC01821,CR0662,2025-11-15,Account Access,Email,,0,,Open
+SC01822,CR0662,2025-03-27,Technical Issue,Phone,28.1,0,3.0,Closed
+SC01823,CR0662,2025-07-25,Policy Question,Phone,31.7,0,3.0,Closed
+SC01824,CR0663,2025-07-03,Analytics Question,Chat,12.1,1,4.0,Closed
+SC01825,CR0663,2025-10-13,Monetization,Chat,18.2,1,4.0,Closed
+SC01826,CR0663,2025-08-17,Policy Question,Chat,17.1,1,4.0,Closed
+SC01827,CR0663,2025-11-07,Monetization,Chat,17.8,1,5.0,Closed
+SC01828,CR0664,2025-08-18,Monetization,Email,4.6,1,4.0,Closed
+SC01829,CR0664,2025-11-27,Analytics Question,Email,,0,,Open
+SC01830,CR0664,2025-01-25,Policy Question,Chat,11.7,1,4.0,Closed
+SC01831,CR0665,2025-11-23,Analytics Question,Chat,8.6,1,4.0,Closed
+SC01832,CR0666,2025-01-14,Monetization,Chat,23.0,1,4.0,Closed
+SC01833,CR0666,2025-10-17,Technical Issue,Chat,7.9,0,5.0,Closed
+SC01834,CR0667,2025-11-12,Technical Issue,Phone,7.1,1,5.0,Closed
+SC01835,CR0667,2025-11-24,Analytics Question,Phone,4.5,1,5.0,Closed
+SC01836,CR0667,2025-12-26,Monetization,Email,20.2,0,3.0,Closed
+SC01837,CR0667,2025-07-02,Technical Issue,Chat,10.0,1,5.0,Closed
+SC01838,CR0667,2025-08-16,Technical Issue,Chat,25.6,1,4.0,Closed
+SC01839,CR0667,2025-08-22,Analytics Question,Phone,9.6,0,5.0,Closed
+SC01840,CR0669,2025-05-01,Policy Question,Chat,3.4,0,4.0,Closed
+SC01841,CR0669,2025-03-04,Account Access,Email,9.3,1,5.0,Closed
+SC01842,CR0669,2025-01-05,Technical Issue,Chat,5.0,1,5.0,Closed
+SC01843,CR0669,2025-01-02,Policy Question,Phone,37.3,1,3.0,Closed
+SC01844,CR0670,2025-06-03,Policy Question,Chat,8.0,1,4.0,Closed
+SC01845,CR0670,2025-05-15,Analytics Question,Chat,5.4,1,5.0,Closed
+SC01846,CR0671,2025-07-10,Policy Question,Phone,10.0,1,4.0,Closed
+SC01847,CR0671,2025-11-22,Monetization,Email,9.3,1,5.0,Closed
+SC01848,CR0671,2025-12-07,Technical Issue,Chat,4.8,0,4.0,Closed
+SC01849,CR0671,2025-12-20,Account Access,Email,9.2,1,5.0,Closed
+SC01850,CR0671,2025-11-04,Account Access,Email,15.8,1,4.0,Closed
+SC01851,CR0672,2025-02-13,Technical Issue,Email,4.9,1,5.0,Closed
+SC01852,CR0672,2025-03-13,Account Access,Chat,4.8,1,5.0,Closed
+SC01853,CR0672,2025-08-27,Account Access,Email,7.0,1,4.0,Closed
+SC01854,CR0672,2025-10-17,Technical Issue,Email,26.3,0,2.0,Closed
+SC01855,CR0672,2025-02-05,Account Access,Email,5.9,1,4.0,Closed
+SC01856,CR0673,2025-03-23,Analytics Question,Email,5.6,1,4.0,Closed
+SC01857,CR0673,2025-08-08,Policy Question,Email,14.1,1,4.0,Closed
+SC01858,CR0673,2025-03-04,Analytics Question,Chat,10.5,0,5.0,Closed
+SC01859,CR0673,2025-02-02,Monetization,Chat,,0,,Open
+SC01860,CR0673,2025-09-27,Policy Question,Phone,,0,,Open
+SC01861,CR0673,2025-05-22,Policy Question,Email,10.9,0,3.0,Closed
+SC01862,CR0673,2025-02-18,Monetization,Phone,34.0,1,2.0,Closed
+SC01863,CR0674,2025-05-16,Account Access,Email,2.4,1,4.0,Closed
+SC01864,CR0674,2025-05-06,Monetization,Chat,9.1,0,4.0,Closed
+SC01865,CR0674,2025-10-18,Technical Issue,Chat,11.2,1,4.0,Closed
+SC01866,CR0674,2025-06-01,Account Access,Phone,5.2,1,5.0,Closed
+SC01867,CR0675,2025-01-06,Policy Question,Chat,9.2,0,3.0,Closed
+SC01868,CR0675,2025-09-09,Analytics Question,Chat,12.0,0,5.0,Closed
+SC01869,CR0675,2025-03-03,Monetization,Chat,19.0,1,4.0,Closed
+SC01870,CR0675,2025-05-20,Monetization,Chat,2.2,1,5.0,Closed
+SC01871,CR0675,2025-04-20,Account Access,Email,5.7,0,5.0,Closed
+SC01872,CR0675,2025-01-07,Account Access,Chat,4.4,1,5.0,Closed
+SC01873,CR0676,2025-01-29,Technical Issue,Chat,3.3,0,5.0,Closed
+SC01874,CR0676,2025-01-07,Monetization,Email,7.7,1,5.0,Closed
+SC01875,CR0677,2025-10-04,Analytics Question,Email,5.5,0,4.0,Closed
+SC01876,CR0677,2025-07-09,Monetization,Email,2.5,0,5.0,Closed
+SC01877,CR0677,2025-01-03,Account Access,Email,6.2,1,4.0,Closed
+SC01878,CR0677,2025-02-06,Technical Issue,Chat,10.4,1,4.0,Closed
+SC01879,CR0677,2025-11-23,Analytics Question,Email,6.7,1,5.0,Closed
+SC01880,CR0677,2025-01-16,Policy Question,Phone,12.8,1,4.0,Closed
+SC01881,CR0678,2025-01-20,Monetization,Chat,18.5,1,3.0,Closed
+SC01882,CR0678,2025-04-16,Policy Question,Chat,15.0,1,4.0,Closed
+SC01883,CR0678,2025-07-14,Analytics Question,Phone,11.1,1,5.0,Closed
+SC01884,CR0678,2025-05-17,Policy Question,Email,17.8,1,4.0,Closed
+SC01885,CR0678,2025-12-16,Monetization,Phone,5.5,1,4.0,Closed
+SC01886,CR0678,2025-07-21,Policy Question,Phone,24.6,1,5.0,Closed
+SC01887,CR0679,2025-06-12,Analytics Question,Phone,,0,,Open
+SC01888,CR0680,2025-04-13,Account Access,Email,,0,,Open
+SC01889,CR0680,2025-08-14,Technical Issue,Chat,15.3,1,5.0,Closed
+SC01890,CR0680,2025-06-14,Monetization,Phone,23.9,1,5.0,Closed
+SC01891,CR0680,2025-05-23,Monetization,Phone,15.6,0,5.0,Closed
+SC01892,CR0681,2025-06-05,Technical Issue,Email,7.7,1,5.0,Closed
+SC01893,CR0681,2025-06-15,Monetization,Email,28.3,0,4.0,Closed
+SC01894,CR0681,2025-04-20,Technical Issue,Chat,4.4,1,5.0,Closed
+SC01895,CR0683,2025-03-09,Technical Issue,Email,4.3,1,5.0,Closed
+SC01896,CR0683,2025-12-14,Policy Question,Chat,18.7,1,4.0,Closed
+SC01897,CR0684,2025-07-05,Technical Issue,Email,47.9,1,3.0,Closed
+SC01898,CR0685,2025-08-22,Technical Issue,Chat,6.4,1,4.0,Closed
+SC01899,CR0685,2025-08-13,Monetization,Chat,2.3,0,5.0,Closed
+SC01900,CR0685,2025-05-01,Policy Question,Email,,0,,Open
+SC01901,CR0686,2025-08-21,Technical Issue,Email,9.4,1,4.0,Closed
+SC01902,CR0686,2025-08-15,Account Access,Chat,4.2,1,5.0,Closed
+SC01903,CR0686,2025-11-04,Technical Issue,Phone,11.8,1,4.0,Closed
+SC01904,CR0688,2025-03-27,Technical Issue,Phone,16.7,1,3.0,Closed
+SC01905,CR0688,2025-03-10,Account Access,Chat,17.6,0,4.0,Closed
+SC01906,CR0688,2025-03-04,Policy Question,Email,30.6,1,3.0,Closed
+SC01907,CR0688,2025-04-01,Technical Issue,Phone,20.1,1,4.0,Closed
+SC01908,CR0688,2025-08-26,Technical Issue,Chat,17.0,1,3.0,Closed
+SC01909,CR0688,2025-10-08,Technical Issue,Phone,19.0,1,3.0,Closed
+SC01910,CR0689,2025-01-13,Analytics Question,Email,19.1,1,4.0,Closed
+SC01911,CR0689,2025-04-11,Policy Question,Email,7.7,1,5.0,Closed
+SC01912,CR0689,2025-03-23,Monetization,Chat,27.9,1,4.0,Closed
+SC01913,CR0690,2025-08-01,Monetization,Chat,2.7,1,5.0,Closed
+SC01914,CR0690,2025-05-09,Monetization,Chat,12.5,0,5.0,Closed
+SC01915,CR0691,2025-04-03,Monetization,Phone,17.0,0,4.0,Closed
+SC01916,CR0691,2025-09-24,Policy Question,Chat,9.5,1,5.0,Closed
+SC01917,CR0691,2025-02-25,Account Access,Chat,11.4,1,5.0,Closed
+SC01918,CR0691,2025-02-04,Policy Question,Phone,13.2,0,4.0,Closed
+SC01919,CR0692,2025-03-20,Technical Issue,Email,14.8,1,5.0,Closed
+SC01920,CR0692,2025-01-11,Technical Issue,Chat,27.8,0,3.0,Closed
+SC01921,CR0692,2025-02-23,Technical Issue,Chat,8.3,1,4.0,Closed
+SC01922,CR0693,2025-03-18,Technical Issue,Chat,11.9,0,4.0,Closed
+SC01923,CR0694,2025-04-18,Policy Question,Email,6.8,1,5.0,Closed
+SC01924,CR0695,2025-09-07,Analytics Question,Chat,8.1,1,5.0,Closed
+SC01925,CR0696,2025-12-10,Policy Question,Email,,0,,Open
+SC01926,CR0696,2025-01-02,Account Access,Chat,12.5,1,4.0,Closed
+SC01927,CR0696,2025-02-06,Monetization,Chat,4.4,0,4.0,Closed
+SC01928,CR0696,2025-01-02,Technical Issue,Email,11.3,0,4.0,Closed
+SC01929,CR0697,2025-07-28,Policy Question,Phone,7.8,1,5.0,Closed
+SC01930,CR0698,2025-07-30,Technical Issue,Email,6.7,1,5.0,Closed
+SC01931,CR0698,2025-12-10,Analytics Question,Email,1.8,0,5.0,Closed
+SC01932,CR0699,2025-08-09,Policy Question,Chat,5.1,1,5.0,Closed
+SC01933,CR0700,2025-07-05,Policy Question,Chat,10.0,1,4.0,Closed
+SC01934,CR0700,2025-07-06,Monetization,Chat,9.9,1,4.0,Closed
+SC01935,CR0700,2025-11-16,Technical Issue,Email,26.7,1,4.0,Closed
+SC01936,CR0700,2025-04-18,Monetization,Email,13.9,0,3.0,Closed
+SC01937,CR0701,2025-11-08,Monetization,Chat,28.6,0,4.0,Closed
+SC01938,CR0701,2025-04-06,Policy Question,Email,55.0,1,1.0,Closed
+SC01939,CR0702,2025-08-08,Policy Question,Email,12.2,0,4.0,Closed
+SC01940,CR0703,2025-03-23,Policy Question,Email,26.3,1,4.0,Closed
+SC01941,CR0703,2025-10-18,Monetization,Email,33.5,1,3.0,Closed
+SC01942,CR0703,2025-01-31,Technical Issue,Phone,12.8,1,5.0,Closed
+SC01943,CR0704,2025-06-09,Policy Question,Chat,11.8,1,4.0,Closed
+SC01944,CR0705,2025-08-04,Account Access,Chat,4.5,1,5.0,Closed
+SC01945,CR0705,2025-12-02,Technical Issue,Email,11.7,0,4.0,Closed
+SC01946,CR0705,2025-02-16,Technical Issue,Phone,10.3,0,5.0,Closed
+SC01947,CR0705,2025-02-14,Policy Question,Phone,19.3,1,4.0,Closed
+SC01948,CR0706,2025-06-27,Technical Issue,Chat,3.6,0,5.0,Closed
+SC01949,CR0707,2025-02-06,Technical Issue,Chat,6.9,0,5.0,Closed
+SC01950,CR0707,2025-03-14,Policy Question,Chat,28.1,1,3.0,Closed
+SC01951,CR0708,2025-06-09,Policy Question,Chat,,0,,Open
+SC01952,CR0708,2025-06-02,Monetization,Chat,6.8,1,5.0,Closed
+SC01953,CR0708,2025-06-14,Policy Question,Chat,71.3,0,1.0,Closed
+SC01954,CR0708,2025-01-11,Monetization,Email,8.1,0,5.0,Closed
+SC01955,CR0708,2025-05-27,Account Access,Phone,6.2,1,5.0,Closed
+SC01956,CR0709,2025-11-02,Policy Question,Chat,9.5,1,5.0,Closed
+SC01957,CR0709,2025-11-23,Account Access,Email,14.0,1,4.0,Closed
+SC01958,CR0709,2025-02-12,Technical Issue,Phone,,0,,Open
+SC01959,CR0709,2025-03-20,Policy Question,Email,12.8,1,5.0,Closed
+SC01960,CR0709,2025-01-12,Analytics Question,Chat,5.9,1,4.0,Closed
+SC01961,CR0709,2025-07-06,Technical Issue,Phone,12.9,0,4.0,Closed
+SC01962,CR0709,2025-10-24,Technical Issue,Chat,14.5,1,4.0,Closed
+SC01963,CR0710,2025-04-23,Monetization,Chat,20.0,0,3.0,Closed
+SC01964,CR0710,2025-02-12,Analytics Question,Email,7.3,0,5.0,Closed
+SC01965,CR0710,2025-11-27,Monetization,Email,16.9,1,5.0,Closed
+SC01966,CR0710,2025-08-17,Policy Question,Phone,14.8,1,4.0,Closed
+SC01967,CR0710,2025-09-09,Policy Question,Phone,2.2,1,5.0,Closed
+SC01968,CR0711,2025-01-19,Account Access,Phone,4.9,0,5.0,Closed
+SC01969,CR0711,2025-12-07,Monetization,Phone,11.6,1,4.0,Closed
+SC01970,CR0711,2025-12-02,Analytics Question,Chat,22.4,1,4.0,Closed
+SC01971,CR0712,2025-02-02,Technical Issue,Phone,20.2,1,4.0,Closed
+SC01972,CR0712,2025-11-04,Monetization,Phone,29.4,0,5.0,Closed
+SC01973,CR0713,2025-01-04,Analytics Question,Email,5.1,0,4.0,Closed
+SC01974,CR0715,2025-07-17,Monetization,Email,17.9,0,4.0,Closed
+SC01975,CR0715,2025-12-25,Technical Issue,Chat,,0,,Open
+SC01976,CR0715,2025-09-21,Analytics Question,Phone,4.0,0,4.0,Closed
+SC01977,CR0715,2025-06-29,Policy Question,Email,8.0,1,5.0,Closed
+SC01978,CR0717,2025-10-02,Analytics Question,Chat,9.6,1,4.0,Closed
+SC01979,CR0717,2025-06-07,Analytics Question,Phone,,0,,Open
+SC01980,CR0718,2025-07-05,Policy Question,Email,9.6,1,5.0,Closed
+SC01981,CR0718,2025-06-04,Account Access,Chat,6.5,1,5.0,Closed
+SC01982,CR0719,2025-08-11,Technical Issue,Chat,25.1,0,2.0,Closed
+SC01983,CR0719,2025-04-08,Technical Issue,Email,17.3,1,4.0,Closed
+SC01984,CR0719,2025-09-02,Analytics Question,Chat,16.1,1,5.0,Closed
+SC01985,CR0719,2025-08-29,Account Access,Email,11.2,0,4.0,Closed
+SC01986,CR0719,2025-09-22,Monetization,Email,27.5,0,4.0,Closed
+SC01987,CR0720,2025-01-12,Technical Issue,Phone,13.0,1,4.0,Closed
+SC01988,CR0720,2025-11-13,Analytics Question,Email,5.7,0,5.0,Closed
+SC01989,CR0721,2025-03-06,Account Access,Email,6.8,1,5.0,Closed
+SC01990,CR0722,2025-10-20,Monetization,Phone,15.5,0,5.0,Closed
+SC01991,CR0722,2025-01-24,Policy Question,Email,21.5,1,3.0,Closed
+SC01992,CR0722,2025-10-27,Monetization,Email,,0,,Open
+SC01993,CR0722,2025-08-23,Analytics Question,Phone,5.6,0,3.0,Closed
+SC01994,CR0723,2025-01-18,Account Access,Chat,9.9,0,4.0,Closed
+SC01995,CR0723,2025-11-27,Technical Issue,Email,6.2,1,5.0,Closed
+SC01996,CR0723,2025-03-07,Policy Question,Email,4.8,0,5.0,Closed
+SC01997,CR0723,2025-05-24,Policy Question,Phone,7.9,1,5.0,Closed
+SC01998,CR0723,2025-09-27,Monetization,Email,,0,,Open
+SC01999,CR0723,2025-12-01,Monetization,Chat,6.8,1,5.0,Closed
+SC02000,CR0723,2025-11-14,Policy Question,Email,24.8,1,2.0,Closed
+SC02001,CR0723,2025-02-12,Technical Issue,Chat,3.0,0,4.0,Closed
+SC02002,CR0724,2025-11-09,Technical Issue,Chat,9.4,1,5.0,Closed
+SC02003,CR0725,2025-01-13,Analytics Question,Email,3.0,1,5.0,Closed
+SC02004,CR0725,2025-09-26,Monetization,Chat,4.9,1,5.0,Closed
+SC02005,CR0725,2025-03-26,Technical Issue,Phone,42.0,1,3.0,Closed
+SC02006,CR0725,2025-03-28,Technical Issue,Email,,0,,Open
+SC02007,CR0726,2025-11-06,Monetization,Chat,13.6,0,5.0,Closed
+SC02008,CR0726,2025-09-06,Technical Issue,Chat,2.8,1,5.0,Closed
+SC02009,CR0727,2025-07-20,Monetization,Phone,3.6,1,4.0,Closed
+SC02010,CR0727,2025-09-14,Monetization,Chat,14.8,1,3.0,Closed
+SC02011,CR0728,2025-06-04,Technical Issue,Phone,22.8,1,4.0,Closed
+SC02012,CR0728,2025-06-06,Technical Issue,Chat,,0,,Open
+SC02013,CR0728,2025-09-03,Account Access,Chat,13.3,0,5.0,Closed
+SC02014,CR0729,2025-03-07,Monetization,Phone,,0,,Open
+SC02015,CR0729,2025-11-27,Account Access,Chat,11.1,1,3.0,Closed
+SC02016,CR0729,2025-03-17,Policy Question,Phone,21.4,1,4.0,Closed
+SC02017,CR0729,2025-04-26,Analytics Question,Chat,4.9,0,5.0,Closed
+SC02018,CR0729,2025-05-05,Technical Issue,Email,20.9,0,5.0,Closed
+SC02019,CR0730,2025-11-05,Analytics Question,Chat,10.9,1,4.0,Closed
+SC02020,CR0730,2025-09-23,Policy Question,Phone,18.2,1,3.0,Closed
+SC02021,CR0730,2025-05-27,Monetization,Chat,28.9,1,5.0,Closed
+SC02022,CR0730,2025-03-07,Policy Question,Email,36.9,1,4.0,Closed
+SC02023,CR0730,2025-03-04,Technical Issue,Email,24.3,1,3.0,Closed
+SC02024,CR0731,2025-03-31,Policy Question,Chat,13.6,0,3.0,Closed
+SC02025,CR0731,2025-03-10,Account Access,Chat,18.1,0,4.0,Closed
+SC02026,CR0731,2025-07-25,Analytics Question,Phone,16.5,0,5.0,Closed
+SC02027,CR0731,2025-01-04,Technical Issue,Chat,6.7,0,5.0,Closed
+SC02028,CR0732,2025-06-17,Monetization,Chat,16.9,1,4.0,Closed
+SC02029,CR0732,2025-07-05,Monetization,Email,12.1,0,4.0,Closed
+SC02030,CR0732,2025-10-24,Technical Issue,Phone,4.7,1,5.0,Closed
+SC02031,CR0733,2025-06-29,Monetization,Chat,12.5,1,4.0,Closed
+SC02032,CR0733,2025-11-03,Policy Question,Chat,41.3,1,4.0,Closed
+SC02033,CR0734,2025-09-17,Analytics Question,Chat,5.1,0,5.0,Closed
+SC02034,CR0734,2025-06-26,Analytics Question,Email,8.6,0,5.0,Closed
+SC02035,CR0734,2025-02-12,Monetization,Chat,19.9,1,4.0,Closed
+SC02036,CR0735,2025-01-04,Policy Question,Chat,12.3,1,5.0,Closed
+SC02037,CR0735,2025-08-11,Technical Issue,Email,16.5,1,4.0,Closed
+SC02038,CR0735,2025-10-28,Policy Question,Email,9.1,1,4.0,Closed
+SC02039,CR0736,2025-03-12,Technical Issue,Chat,17.3,1,5.0,Closed
+SC02040,CR0736,2025-01-13,Account Access,Email,7.3,1,5.0,Closed
+SC02041,CR0736,2025-08-20,Monetization,Email,35.5,0,3.0,Closed
+SC02042,CR0736,2025-06-23,Technical Issue,Chat,11.7,1,5.0,Closed
+SC02043,CR0737,2025-04-08,Technical Issue,Email,7.1,0,5.0,Closed
+SC02044,CR0738,2025-11-07,Technical Issue,Chat,9.4,1,4.0,Closed
+SC02045,CR0738,2025-07-23,Technical Issue,Chat,4.9,1,4.0,Closed
+SC02046,CR0738,2025-11-04,Monetization,Phone,19.1,1,4.0,Closed
+SC02047,CR0739,2025-09-11,Account Access,Chat,17.8,1,4.0,Closed
+SC02048,CR0740,2025-11-23,Account Access,Email,21.5,1,4.0,Closed
+SC02049,CR0740,2025-03-16,Analytics Question,Chat,1.9,1,4.0,Closed
+SC02050,CR0741,2025-03-08,Policy Question,Email,4.8,1,5.0,Closed
+SC02051,CR0741,2025-10-01,Technical Issue,Email,12.4,1,4.0,Closed
+SC02052,CR0741,2025-03-14,Analytics Question,Email,20.7,0,3.0,Closed
+SC02053,CR0741,2025-05-13,Account Access,Email,22.1,0,4.0,Closed
+SC02054,CR0742,2025-05-10,Analytics Question,Email,,0,,Open
+SC02055,CR0743,2025-05-13,Technical Issue,Phone,7.6,0,4.0,Closed
+SC02056,CR0744,2025-07-17,Analytics Question,Chat,6.7,0,5.0,Closed
+SC02057,CR0744,2025-01-07,Analytics Question,Phone,5.3,1,5.0,Closed
+SC02058,CR0744,2025-02-06,Technical Issue,Phone,10.7,1,4.0,Closed
+SC02059,CR0745,2025-11-03,Analytics Question,Phone,7.2,1,5.0,Closed
+SC02060,CR0745,2025-02-24,Account Access,Phone,6.0,1,5.0,Closed
+SC02061,CR0746,2025-11-18,Analytics Question,Phone,3.2,1,5.0,Closed
+SC02062,CR0746,2025-06-28,Policy Question,Chat,,0,,Open
+SC02063,CR0746,2025-04-01,Technical Issue,Chat,4.4,0,4.0,Closed
+SC02064,CR0747,2025-07-15,Analytics Question,Phone,3.5,0,5.0,Closed
+SC02065,CR0747,2025-05-17,Policy Question,Chat,38.2,1,4.0,Closed
+SC02066,CR0748,2025-07-12,Account Access,Chat,20.4,1,3.0,Closed
+SC02067,CR0748,2025-11-10,Policy Question,Email,3.5,1,5.0,Closed
+SC02068,CR0748,2025-10-26,Policy Question,Chat,4.0,0,5.0,Closed
+SC02069,CR0748,2025-01-16,Account Access,Email,14.3,0,3.0,Closed
+SC02070,CR0748,2025-12-02,Monetization,Email,7.1,0,5.0,Closed
+SC02071,CR0748,2025-03-22,Monetization,Chat,6.4,1,5.0,Closed
+SC02072,CR0749,2025-06-12,Monetization,Chat,7.4,1,5.0,Closed
+SC02073,CR0749,2025-10-30,Analytics Question,Phone,14.1,1,5.0,Closed
+SC02074,CR0749,2025-02-13,Policy Question,Chat,19.3,1,4.0,Closed
+SC02075,CR0749,2025-01-31,Monetization,Email,63.5,1,1.0,Closed
+SC02076,CR0750,2025-03-19,Analytics Question,Phone,8.9,1,4.0,Closed

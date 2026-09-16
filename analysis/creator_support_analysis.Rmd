@@ -1,0 +1,120 @@
+---
+title: "Creator Performance & Partner Support Analysis"
+output: html_document
+---
+
+## Overview
+
+This project examines synthetic creator performance and support data for 2025. The goal is to compare activity, growth, and support operations across regions, categories, and partner tiers. The analysis is descriptive and does not establish cause and effect.
+
+```{r setup, message=FALSE, warning=FALSE}
+library(dplyr)
+library(ggplot2)
+
+creators <- read.csv("../data/raw/creators.csv")
+performance <- read.csv("../data/raw/monthly_performance.csv")
+support_cases <- read.csv("../data/raw/support_cases.csv")
+```
+
+## Data checks
+
+```{r data-checks}
+nrow(creators)
+nrow(performance)
+nrow(support_cases)
+
+sum(duplicated(creators$creator_id))
+sum(duplicated(support_cases$case_id))
+sum(is.na(performance$views))
+```
+
+## Monthly activity
+
+```{r monthly-summary}
+monthly_summary <- performance %>%
+  group_by(performance_month) %>%
+  summarise(
+    active_creators = sum(uploads > 0),
+    total_uploads = sum(uploads),
+    total_views = sum(views),
+    new_subscribers = sum(new_subscribers)
+  )
+
+monthly_summary
+```
+
+```{r monthly-chart}
+ggplot(monthly_summary, aes(x = performance_month, y = active_creators, group = 1)) +
+  geom_line(color = "#3367D6") +
+  geom_point(color = "#3367D6") +
+  labs(
+    title = "Monthly Active Creators",
+    subtitle = "Synthetic creator data, January-December 2025",
+    x = "Month",
+    y = "Active creators"
+  ) +
+  theme_minimal()
+```
+
+## Performance by partner tier
+
+```{r tier-summary}
+performance_by_tier <- performance %>%
+  left_join(creators, by = "creator_id") %>%
+  group_by(partner_tier) %>%
+  summarise(
+    creators = n_distinct(creator_id),
+    avg_monthly_uploads = mean(uploads),
+    avg_monthly_views = mean(views),
+    avg_monthly_subscribers = mean(new_subscribers)
+  ) %>%
+  arrange(desc(avg_monthly_views))
+
+performance_by_tier
+```
+
+```{r tier-chart}
+ggplot(performance_by_tier, aes(x = reorder(partner_tier, avg_monthly_views), y = avg_monthly_views)) +
+  geom_col(fill = "#3367D6") +
+  labs(
+    title = "Average Monthly Views by Partner Tier",
+    subtitle = "Synthetic creator data, 2025",
+    x = "Partner tier",
+    y = "Average monthly views"
+  ) +
+  theme_minimal()
+```
+
+## Support operations
+
+```{r support-summary}
+support_summary <- support_cases %>%
+  filter(case_status == "Closed") %>%
+  group_by(case_type) %>%
+  summarise(
+    cases = n(),
+    avg_resolution_hours = mean(resolution_hours),
+    first_contact_resolution_rate = mean(first_contact_resolved),
+    avg_satisfaction = mean(satisfaction_score)
+  ) %>%
+  arrange(desc(cases))
+
+support_summary
+```
+
+```{r support-chart}
+ggplot(support_summary, aes(x = reorder(case_type, avg_resolution_hours), y = avg_resolution_hours)) +
+  geom_col(fill = "#3367D6") +
+  coord_flip() +
+  labs(
+    title = "Average Resolution Time by Support Case Type",
+    subtitle = "Closed synthetic support cases from 2025",
+    x = "Case type",
+    y = "Average resolution hours"
+  ) +
+  theme_minimal()
+```
+
+## Interpretation
+
+The analysis should be used to identify segments for further investigation. Differences between partner tiers or regions may reflect creator size, category mix, tenure, or other factors. They should not be interpreted as evidence that support activity caused creator growth or decline.
