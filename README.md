@@ -117,6 +117,4 @@ To run the R analysis, open `analysis/creator_support_analysis.Rmd` in RStudio a
 
 The data is synthetic and the analysis is observational. It does not include randomized program assignment, support costs, creator lifetime value, or real business outcomes. Segment differences may also reflect creator size, category, tenure, or other factors not isolated in this analysis. The findings are suitable for demonstrating the analytical workflow, not for estimating causal impact or program return on investment.
 
-## License
 
-This project is available under the MIT License.
